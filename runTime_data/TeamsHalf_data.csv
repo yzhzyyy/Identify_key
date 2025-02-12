@@ -1,0 +1,32 @@
+Key,Uniqueness Ratio,Completeness Ratio,Running Time for UR
+year,0.0000,1.0000,0.0080
+tmID,0.0244,1.0000,0.0000
+half,0.0000,1.0000,0.0000
+lgID,0.0000,1.0000,0.0000
+rank,0.0000,1.0000,0.0000
+"year, tmID",0.0244,1.0000,0.0000
+"year, half",0.0000,1.0000,0.0000
+"year, lgID",0.0000,1.0000,0.0000
+"year, rank",0.0244,1.0000,0.0010
+"tmID, half",0.4146,1.0000,0.0010
+"tmID, lgID",0.0244,1.0000,0.0010
+"tmID, rank",0.4146,1.0000,0.0000
+"half, lgID",0.0000,1.0000,0.0000
+"half, rank",0.0976,1.0000,0.0000
+"lgID, rank",0.0000,1.0000,0.0000
+"year, tmID, half",1.0000,1.0000,0.0000
+"year, tmID, lgID",0.0244,1.0000,0.0000
+"year, tmID, rank",0.8049,1.0000,0.0000
+"year, half, lgID",0.0000,1.0000,0.0000
+"year, half, rank",1.0000,1.0000,0.0010
+"year, lgID, rank",0.0244,1.0000,0.0010
+"tmID, half, lgID",0.4146,1.0000,0.0010
+"tmID, half, rank",0.7561,1.0000,0.0010
+"tmID, lgID, rank",0.4146,1.0000,0.0010
+"half, lgID, rank",0.2927,1.0000,0.0010
+"year, tmID, half, lgID",1.0000,1.0000,0.0000
+"year, tmID, half, rank",1.0000,1.0000,0.0000
+"year, tmID, lgID, rank",0.8049,1.0000,0.0000
+"year, half, lgID, rank",1.0000,1.0000,0.0000
+"tmID, half, lgID, rank",0.7561,1.0000,0.0010
+"year, tmID, half, lgID, rank",1.0000,1.0000,0.0000

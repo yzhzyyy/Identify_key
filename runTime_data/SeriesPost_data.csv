@@ -1,0 +1,1024 @@
+Key,Uniqueness Ratio,Completeness Ratio,Running Time for UR
+year,0.0024,1.0000,0.0010
+tmIDWinner,0.0132,1.0000,0.0030
+tmIDLoser,0.0240,1.0000,0.0020
+round,0.0012,1.0000,0.0020
+series,0.1118,0.8882,0.0020
+lgIDWinner,0.0000,1.0000,0.0020
+lgIDLoser,0.0000,1.0000,0.0020
+GoalsWinner,0.0036,1.0000,0.0020
+GoalsLoser,0.0024,1.0000,0.0020
+note,0.9327,0.0709,0.0010
+"year, tmIDWinner",0.2800,1.0000,0.0020
+"year, tmIDLoser",0.9928,1.0000,0.0020
+"year, round",0.1394,1.0000,0.0020
+"year, series",1.0000,0.8882,0.0020
+"year, lgIDWinner",0.0144,1.0000,0.0020
+"year, lgIDLoser",0.0144,1.0000,0.0020
+"year, GoalsWinner",0.5553,1.0000,0.0020
+"year, GoalsLoser",0.6034,1.0000,0.0020
+"year, note",0.9387,0.0709,0.0010
+"tmIDWinner, tmIDLoser",0.2921,1.0000,0.0020
+"tmIDWinner, round",0.1094,1.0000,0.0020
+"tmIDWinner, series",0.2284,0.8882,0.0030
+"tmIDWinner, lgIDWinner",0.0132,1.0000,0.0020
+"tmIDWinner, lgIDLoser",0.0349,1.0000,0.0020
+"tmIDWinner, GoalsWinner",0.3401,1.0000,0.0020
+"tmIDWinner, GoalsLoser",0.3233,1.0000,0.0020
+"tmIDWinner, note",0.9435,0.0709,0.0010
+"tmIDLoser, round",0.1286,1.0000,0.0020
+"tmIDLoser, series",0.2464,0.8882,0.0020
+"tmIDLoser, lgIDWinner",0.0373,1.0000,0.0030
+"tmIDLoser, lgIDLoser",0.0240,1.0000,0.0020
+"tmIDLoser, GoalsWinner",0.3618,1.0000,0.0020
+"tmIDLoser, GoalsLoser",0.3654,1.0000,0.0030
+"tmIDLoser, note",0.9435,0.0709,0.0010
+"round, series",0.1118,0.8882,0.0020
+"round, lgIDWinner",0.0036,1.0000,0.0020
+"round, lgIDLoser",0.0024,1.0000,0.0020
+"round, GoalsWinner",0.0733,1.0000,0.0020
+"round, GoalsLoser",0.0733,1.0000,0.0020
+"round, note",0.9339,0.0709,0.0020
+"series, lgIDWinner",0.1118,0.8882,0.0020
+"series, lgIDLoser",0.1118,0.8882,0.0020
+"series, GoalsWinner",0.2212,0.8882,0.0020
+"series, GoalsLoser",0.2344,0.8882,0.0020
+"series, note",0.9651,0.0349,0.0010
+"lgIDWinner, lgIDLoser",0.0036,1.0000,0.0020
+"lgIDWinner, GoalsWinner",0.0373,1.0000,0.0020
+"lgIDWinner, GoalsLoser",0.0349,1.0000,0.0020
+"lgIDWinner, note",0.9327,0.0709,0.0010
+"lgIDLoser, GoalsWinner",0.0349,1.0000,0.0030
+"lgIDLoser, GoalsLoser",0.0361,1.0000,0.0020
+"lgIDLoser, note",0.9327,0.0709,0.0020
+"GoalsWinner, GoalsLoser",0.1671,1.0000,0.0020
+"GoalsWinner, note",0.9339,0.0709,0.0020
+"GoalsLoser, note",0.9339,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser",1.0000,1.0000,0.0020
+"year, tmIDWinner, round",1.0000,1.0000,0.0020
+"year, tmIDWinner, series",1.0000,0.8882,0.0020
+"year, tmIDWinner, lgIDWinner",0.2800,1.0000,0.0030
+"year, tmIDWinner, lgIDLoser",0.3089,1.0000,0.0020
+"year, tmIDWinner, GoalsWinner",0.9219,1.0000,0.0020
+"year, tmIDWinner, GoalsLoser",0.9327,1.0000,0.0030
+"year, tmIDWinner, note",0.9688,0.0709,0.0020
+"year, tmIDLoser, round",1.0000,1.0000,0.0030
+"year, tmIDLoser, series",1.0000,0.8882,0.0030
+"year, tmIDLoser, lgIDWinner",0.9952,1.0000,0.0030
+"year, tmIDLoser, lgIDLoser",0.9928,1.0000,0.0020
+"year, tmIDLoser, GoalsWinner",1.0000,1.0000,0.0030
+"year, tmIDLoser, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDLoser, note",1.0000,0.0709,0.0020
+"year, round, series",1.0000,0.8882,0.0020
+"year, round, lgIDWinner",0.1695,1.0000,0.0030
+"year, round, lgIDLoser",0.1695,1.0000,0.0030
+"year, round, GoalsWinner",0.8053,1.0000,0.0020
+"year, round, GoalsLoser",0.8365,1.0000,0.0030
+"year, round, note",0.9483,0.0709,0.0020
+"year, series, lgIDWinner",1.0000,0.8882,0.0030
+"year, series, lgIDLoser",1.0000,0.8882,0.0030
+"year, series, GoalsWinner",1.0000,0.8882,0.0030
+"year, series, GoalsLoser",1.0000,0.8882,0.0020
+"year, series, note",1.0000,0.0349,0.0020
+"year, lgIDWinner, lgIDLoser",0.0433,1.0000,0.0020
+"year, lgIDWinner, GoalsWinner",0.5829,1.0000,0.0020
+"year, lgIDWinner, GoalsLoser",0.6274,1.0000,0.0030
+"year, lgIDWinner, note",0.9531,0.0709,0.0020
+"year, lgIDLoser, GoalsWinner",0.5877,1.0000,0.0030
+"year, lgIDLoser, GoalsLoser",0.6214,1.0000,0.0020
+"year, lgIDLoser, note",0.9543,0.0709,0.0020
+"year, GoalsWinner, GoalsLoser",0.9591,1.0000,0.0020
+"year, GoalsWinner, note",0.9904,0.0709,0.0020
+"year, GoalsLoser, note",0.9844,0.0709,0.0020
+"tmIDWinner, tmIDLoser, round",0.5601,1.0000,0.0030
+"tmIDWinner, tmIDLoser, series",0.6587,0.8882,0.0030
+"tmIDWinner, tmIDLoser, lgIDWinner",0.2921,1.0000,0.0030
+"tmIDWinner, tmIDLoser, lgIDLoser",0.2921,1.0000,0.0030
+"tmIDWinner, tmIDLoser, GoalsWinner",0.8726,1.0000,0.0020
+"tmIDWinner, tmIDLoser, GoalsLoser",0.8966,1.0000,0.0020
+"tmIDWinner, tmIDLoser, note",0.9820,0.0709,0.0020
+"tmIDWinner, round, series",0.3233,0.8882,0.0030
+"tmIDWinner, round, lgIDWinner",0.1094,1.0000,0.0030
+"tmIDWinner, round, lgIDLoser",0.1178,1.0000,0.0020
+"tmIDWinner, round, GoalsWinner",0.7416,1.0000,0.0020
+"tmIDWinner, round, GoalsLoser",0.7560,1.0000,0.0030
+"tmIDWinner, round, note",0.9555,0.0709,0.0020
+"tmIDWinner, series, lgIDWinner",0.2284,0.8882,0.0030
+"tmIDWinner, series, lgIDLoser",0.2284,0.8882,0.0030
+"tmIDWinner, series, GoalsWinner",0.8077,0.8882,0.0020
+"tmIDWinner, series, GoalsLoser",0.8317,0.8882,0.0020
+"tmIDWinner, series, note",0.9796,0.0349,0.0020
+"tmIDWinner, lgIDWinner, lgIDLoser",0.0349,1.0000,0.0030
+"tmIDWinner, lgIDWinner, GoalsWinner",0.3401,1.0000,0.0020
+"tmIDWinner, lgIDWinner, GoalsLoser",0.3233,1.0000,0.0020
+"tmIDWinner, lgIDWinner, note",0.9435,0.0709,0.0020
+"tmIDWinner, lgIDLoser, GoalsWinner",0.3462,1.0000,0.0030
+"tmIDWinner, lgIDLoser, GoalsLoser",0.3317,1.0000,0.0020
+"tmIDWinner, lgIDLoser, note",0.9447,0.0709,0.0010
+"tmIDWinner, GoalsWinner, GoalsLoser",0.8558,1.0000,0.0020
+"tmIDWinner, GoalsWinner, note",0.9796,0.0709,0.0020
+"tmIDWinner, GoalsLoser, note",0.9712,0.0709,0.0010
+"tmIDLoser, round, series",0.3450,0.8882,0.0020
+"tmIDLoser, round, lgIDWinner",0.1310,1.0000,0.0030
+"tmIDLoser, round, lgIDLoser",0.1286,1.0000,0.0020
+"tmIDLoser, round, GoalsWinner",0.7837,1.0000,0.0020
+"tmIDLoser, round, GoalsLoser",0.8029,1.0000,0.0020
+"tmIDLoser, round, note",0.9555,0.0709,0.0010
+"tmIDLoser, series, lgIDWinner",0.2464,0.8882,0.0020
+"tmIDLoser, series, lgIDLoser",0.2464,0.8882,0.0030
+"tmIDLoser, series, GoalsWinner",0.8329,0.8882,0.0020
+"tmIDLoser, series, GoalsLoser",0.8558,0.8882,0.0020
+"tmIDLoser, series, note",0.9844,0.0349,0.0010
+"tmIDLoser, lgIDWinner, lgIDLoser",0.0373,1.0000,0.0020
+"tmIDLoser, lgIDWinner, GoalsWinner",0.3690,1.0000,0.0030
+"tmIDLoser, lgIDWinner, GoalsLoser",0.3738,1.0000,0.0030
+"tmIDLoser, lgIDWinner, note",0.9447,0.0709,0.0020
+"tmIDLoser, lgIDLoser, GoalsWinner",0.3618,1.0000,0.0020
+"tmIDLoser, lgIDLoser, GoalsLoser",0.3654,1.0000,0.0020
+"tmIDLoser, lgIDLoser, note",0.9435,0.0709,0.0020
+"tmIDLoser, GoalsWinner, GoalsLoser",0.8918,1.0000,0.0030
+"tmIDLoser, GoalsWinner, note",0.9856,0.0709,0.0020
+"tmIDLoser, GoalsLoser, note",0.9712,0.0709,0.0020
+"round, series, lgIDWinner",0.1118,0.8882,0.0020
+"round, series, lgIDLoser",0.1118,0.8882,0.0020
+"round, series, GoalsWinner",0.4675,0.8882,0.0030
+"round, series, GoalsLoser",0.5252,0.8882,0.0020
+"round, series, note",0.9651,0.0349,0.0010
+"round, lgIDWinner, lgIDLoser",0.0036,1.0000,0.0040
+"round, lgIDWinner, GoalsWinner",0.1310,1.0000,0.0020
+"round, lgIDWinner, GoalsLoser",0.1238,1.0000,0.0030
+"round, lgIDWinner, note",0.9339,0.0709,0.0020
+"round, lgIDLoser, GoalsWinner",0.1334,1.0000,0.0030
+"round, lgIDLoser, GoalsLoser",0.1274,1.0000,0.0030
+"round, lgIDLoser, note",0.9339,0.0709,0.0020
+"round, GoalsWinner, GoalsLoser",0.6947,1.0000,0.0020
+"round, GoalsWinner, note",0.9411,0.0709,0.0020
+"round, GoalsLoser, note",0.9423,0.0709,0.0020
+"series, lgIDWinner, lgIDLoser",0.1118,0.8882,0.0020
+"series, lgIDWinner, GoalsWinner",0.2212,0.8882,0.0030
+"series, lgIDWinner, GoalsLoser",0.2344,0.8882,0.0020
+"series, lgIDWinner, note",0.9651,0.0349,0.0020
+"series, lgIDLoser, GoalsWinner",0.2212,0.8882,0.0030
+"series, lgIDLoser, GoalsLoser",0.2344,0.8882,0.0020
+"series, lgIDLoser, note",0.9651,0.0349,0.0010
+"series, GoalsWinner, GoalsLoser",0.7849,0.8882,0.0020
+"series, GoalsWinner, note",0.9760,0.0349,0.0020
+"series, GoalsLoser, note",0.9736,0.0349,0.0020
+"lgIDWinner, lgIDLoser, GoalsWinner",0.0493,1.0000,0.0020
+"lgIDWinner, lgIDLoser, GoalsLoser",0.0457,1.0000,0.0020
+"lgIDWinner, lgIDLoser, note",0.9339,0.0709,0.0020
+"lgIDWinner, GoalsWinner, GoalsLoser",0.2332,1.0000,0.0020
+"lgIDWinner, GoalsWinner, note",0.9447,0.0709,0.0020
+"lgIDWinner, GoalsLoser, note",0.9423,0.0709,0.0020
+"lgIDLoser, GoalsWinner, GoalsLoser",0.2356,1.0000,0.0020
+"lgIDLoser, GoalsWinner, note",0.9447,0.0709,0.0020
+"lgIDLoser, GoalsLoser, note",0.9423,0.0709,0.0020
+"GoalsWinner, GoalsLoser, note",0.9519,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, round",1.0000,1.0000,0.0030
+"year, tmIDWinner, tmIDLoser, series",1.0000,0.8882,0.0030
+"year, tmIDWinner, tmIDLoser, lgIDWinner",1.0000,1.0000,0.0030
+"year, tmIDWinner, tmIDLoser, lgIDLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, tmIDLoser, GoalsWinner",1.0000,1.0000,0.0020
+"year, tmIDWinner, tmIDLoser, GoalsLoser",1.0000,1.0000,0.0020
+"year, tmIDWinner, tmIDLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, round, series",1.0000,0.8882,0.0030
+"year, tmIDWinner, round, lgIDWinner",1.0000,1.0000,0.0030
+"year, tmIDWinner, round, lgIDLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, round, GoalsWinner",1.0000,1.0000,0.0020
+"year, tmIDWinner, round, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, round, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, series, lgIDWinner",1.0000,0.8882,0.0030
+"year, tmIDWinner, series, lgIDLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, series, GoalsWinner",1.0000,0.8882,0.0030
+"year, tmIDWinner, series, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, series, note",1.0000,0.0349,0.0010
+"year, tmIDWinner, lgIDWinner, lgIDLoser",0.3089,1.0000,0.0030
+"year, tmIDWinner, lgIDWinner, GoalsWinner",0.9219,1.0000,0.0030
+"year, tmIDWinner, lgIDWinner, GoalsLoser",0.9327,1.0000,0.0030
+"year, tmIDWinner, lgIDWinner, note",0.9688,0.0709,0.0020
+"year, tmIDWinner, lgIDLoser, GoalsWinner",0.9267,1.0000,0.0030
+"year, tmIDWinner, lgIDLoser, GoalsLoser",0.9327,1.0000,0.0030
+"year, tmIDWinner, lgIDLoser, note",0.9712,0.0709,0.0020
+"year, tmIDWinner, GoalsWinner, GoalsLoser",0.9952,1.0000,0.0020
+"year, tmIDWinner, GoalsWinner, note",0.9976,0.0709,0.0010
+"year, tmIDWinner, GoalsLoser, note",0.9976,0.0709,0.0020
+"year, tmIDLoser, round, series",1.0000,0.8882,0.0030
+"year, tmIDLoser, round, lgIDWinner",1.0000,1.0000,0.0030
+"year, tmIDLoser, round, lgIDLoser",1.0000,1.0000,0.0030
+"year, tmIDLoser, round, GoalsWinner",1.0000,1.0000,0.0030
+"year, tmIDLoser, round, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDLoser, round, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, series, lgIDWinner",1.0000,0.8882,0.0040
+"year, tmIDLoser, series, lgIDLoser",1.0000,0.8882,0.0030
+"year, tmIDLoser, series, GoalsWinner",1.0000,0.8882,0.0030
+"year, tmIDLoser, series, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDLoser, series, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, lgIDWinner, lgIDLoser",0.9952,1.0000,0.0030
+"year, tmIDLoser, lgIDWinner, GoalsWinner",1.0000,1.0000,0.0030
+"year, tmIDLoser, lgIDWinner, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDLoser, lgIDWinner, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, lgIDLoser, GoalsWinner",1.0000,1.0000,0.0030
+"year, tmIDLoser, lgIDLoser, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDLoser, lgIDLoser, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, GoalsWinner, GoalsLoser",1.0000,1.0000,0.0020
+"year, tmIDLoser, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, GoalsLoser, note",1.0000,0.0709,0.0010
+"year, round, series, lgIDWinner",1.0000,0.8882,0.0030
+"year, round, series, lgIDLoser",1.0000,0.8882,0.0030
+"year, round, series, GoalsWinner",1.0000,0.8882,0.0030
+"year, round, series, GoalsLoser",1.0000,0.8882,0.0030
+"year, round, series, note",1.0000,0.0349,0.0020
+"year, round, lgIDWinner, lgIDLoser",0.1695,1.0000,0.0030
+"year, round, lgIDWinner, GoalsWinner",0.8125,1.0000,0.0020
+"year, round, lgIDWinner, GoalsLoser",0.8462,1.0000,0.0020
+"year, round, lgIDWinner, note",0.9712,0.0709,0.0020
+"year, round, lgIDLoser, GoalsWinner",0.8125,1.0000,0.0030
+"year, round, lgIDLoser, GoalsLoser",0.8462,1.0000,0.0030
+"year, round, lgIDLoser, note",0.9712,0.0709,0.0020
+"year, round, GoalsWinner, GoalsLoser",0.9784,1.0000,0.0030
+"year, round, GoalsWinner, note",0.9976,0.0709,0.0020
+"year, round, GoalsLoser, note",0.9904,0.0709,0.0020
+"year, series, lgIDWinner, lgIDLoser",1.0000,0.8882,0.0020
+"year, series, lgIDWinner, GoalsWinner",1.0000,0.8882,0.0020
+"year, series, lgIDWinner, GoalsLoser",1.0000,0.8882,0.0020
+"year, series, lgIDWinner, note",1.0000,0.0349,0.0020
+"year, series, lgIDLoser, GoalsWinner",1.0000,0.8882,0.0030
+"year, series, lgIDLoser, GoalsLoser",1.0000,0.8882,0.0030
+"year, series, lgIDLoser, note",1.0000,0.0349,0.0020
+"year, series, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0020
+"year, series, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, series, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, lgIDWinner, lgIDLoser, GoalsWinner",0.5877,1.0000,0.0030
+"year, lgIDWinner, lgIDLoser, GoalsLoser",0.6274,1.0000,0.0030
+"year, lgIDWinner, lgIDLoser, note",0.9555,0.0709,0.0020
+"year, lgIDWinner, GoalsWinner, GoalsLoser",0.9591,1.0000,0.0030
+"year, lgIDWinner, GoalsWinner, note",0.9976,0.0709,0.0020
+"year, lgIDWinner, GoalsLoser, note",0.9916,0.0709,0.0010
+"year, lgIDLoser, GoalsWinner, GoalsLoser",0.9591,1.0000,0.0030
+"year, lgIDLoser, GoalsWinner, note",0.9976,0.0709,0.0020
+"year, lgIDLoser, GoalsLoser, note",0.9892,0.0709,0.0020
+"year, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"tmIDWinner, tmIDLoser, round, series",0.7115,0.8882,0.0030
+"tmIDWinner, tmIDLoser, round, lgIDWinner",0.5601,1.0000,0.0030
+"tmIDWinner, tmIDLoser, round, lgIDLoser",0.5601,1.0000,0.0030
+"tmIDWinner, tmIDLoser, round, GoalsWinner",0.9519,1.0000,0.0030
+"tmIDWinner, tmIDLoser, round, GoalsLoser",0.9651,1.0000,0.0030
+"tmIDWinner, tmIDLoser, round, note",0.9892,0.0709,0.0020
+"tmIDWinner, tmIDLoser, series, lgIDWinner",0.6587,0.8882,0.0030
+"tmIDWinner, tmIDLoser, series, lgIDLoser",0.6587,0.8882,0.0030
+"tmIDWinner, tmIDLoser, series, GoalsWinner",0.9688,0.8882,0.0030
+"tmIDWinner, tmIDLoser, series, GoalsLoser",0.9880,0.8882,0.0030
+"tmIDWinner, tmIDLoser, series, note",0.9976,0.0349,0.0010
+"tmIDWinner, tmIDLoser, lgIDWinner, lgIDLoser",0.2921,1.0000,0.0030
+"tmIDWinner, tmIDLoser, lgIDWinner, GoalsWinner",0.8726,1.0000,0.0030
+"tmIDWinner, tmIDLoser, lgIDWinner, GoalsLoser",0.8966,1.0000,0.0030
+"tmIDWinner, tmIDLoser, lgIDWinner, note",0.9820,0.0709,0.0020
+"tmIDWinner, tmIDLoser, lgIDLoser, GoalsWinner",0.8726,1.0000,0.0040
+"tmIDWinner, tmIDLoser, lgIDLoser, GoalsLoser",0.8966,1.0000,0.0030
+"tmIDWinner, tmIDLoser, lgIDLoser, note",0.9820,0.0709,0.0020
+"tmIDWinner, tmIDLoser, GoalsWinner, GoalsLoser",0.9904,1.0000,0.0030
+"tmIDWinner, tmIDLoser, GoalsWinner, note",0.9976,0.0709,0.0020
+"tmIDWinner, tmIDLoser, GoalsLoser, note",0.9928,0.0709,0.0020
+"tmIDWinner, round, series, lgIDWinner",0.3233,0.8882,0.0030
+"tmIDWinner, round, series, lgIDLoser",0.3233,0.8882,0.0030
+"tmIDWinner, round, series, GoalsWinner",0.8786,0.8882,0.0030
+"tmIDWinner, round, series, GoalsLoser",0.8882,0.8882,0.0030
+"tmIDWinner, round, series, note",0.9808,0.0349,0.0020
+"tmIDWinner, round, lgIDWinner, lgIDLoser",0.1178,1.0000,0.0030
+"tmIDWinner, round, lgIDWinner, GoalsWinner",0.7416,1.0000,0.0030
+"tmIDWinner, round, lgIDWinner, GoalsLoser",0.7560,1.0000,0.0030
+"tmIDWinner, round, lgIDWinner, note",0.9555,0.0709,0.0020
+"tmIDWinner, round, lgIDLoser, GoalsWinner",0.7440,1.0000,0.0030
+"tmIDWinner, round, lgIDLoser, GoalsLoser",0.7584,1.0000,0.0020
+"tmIDWinner, round, lgIDLoser, note",0.9555,0.0709,0.0020
+"tmIDWinner, round, GoalsWinner, GoalsLoser",0.9639,1.0000,0.0030
+"tmIDWinner, round, GoalsWinner, note",0.9868,0.0709,0.0020
+"tmIDWinner, round, GoalsLoser, note",0.9820,0.0709,0.0020
+"tmIDWinner, series, lgIDWinner, lgIDLoser",0.2284,0.8882,0.0030
+"tmIDWinner, series, lgIDWinner, GoalsWinner",0.8077,0.8882,0.0030
+"tmIDWinner, series, lgIDWinner, GoalsLoser",0.8317,0.8882,0.0020
+"tmIDWinner, series, lgIDWinner, note",0.9796,0.0349,0.0010
+"tmIDWinner, series, lgIDLoser, GoalsWinner",0.8077,0.8882,0.0030
+"tmIDWinner, series, lgIDLoser, GoalsLoser",0.8317,0.8882,0.0030
+"tmIDWinner, series, lgIDLoser, note",0.9796,0.0349,0.0020
+"tmIDWinner, series, GoalsWinner, GoalsLoser",0.9736,0.8882,0.0030
+"tmIDWinner, series, GoalsWinner, note",0.9904,0.0349,0.0020
+"tmIDWinner, series, GoalsLoser, note",0.9928,0.0349,0.0020
+"tmIDWinner, lgIDWinner, lgIDLoser, GoalsWinner",0.3462,1.0000,0.0030
+"tmIDWinner, lgIDWinner, lgIDLoser, GoalsLoser",0.3317,1.0000,0.0020
+"tmIDWinner, lgIDWinner, lgIDLoser, note",0.9447,0.0709,0.0020
+"tmIDWinner, lgIDWinner, GoalsWinner, GoalsLoser",0.8558,1.0000,0.0030
+"tmIDWinner, lgIDWinner, GoalsWinner, note",0.9796,0.0709,0.0020
+"tmIDWinner, lgIDWinner, GoalsLoser, note",0.9712,0.0709,0.0020
+"tmIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",0.8558,1.0000,0.0020
+"tmIDWinner, lgIDLoser, GoalsWinner, note",0.9796,0.0709,0.0020
+"tmIDWinner, lgIDLoser, GoalsLoser, note",0.9724,0.0709,0.0020
+"tmIDWinner, GoalsWinner, GoalsLoser, note",0.9880,0.0709,0.0020
+"tmIDLoser, round, series, lgIDWinner",0.3450,0.8882,0.0030
+"tmIDLoser, round, series, lgIDLoser",0.3450,0.8882,0.0030
+"tmIDLoser, round, series, GoalsWinner",0.8990,0.8882,0.0030
+"tmIDLoser, round, series, GoalsLoser",0.9207,0.8882,0.0030
+"tmIDLoser, round, series, note",0.9844,0.0349,0.0020
+"tmIDLoser, round, lgIDWinner, lgIDLoser",0.1310,1.0000,0.0030
+"tmIDLoser, round, lgIDWinner, GoalsWinner",0.7861,1.0000,0.0030
+"tmIDLoser, round, lgIDWinner, GoalsLoser",0.8053,1.0000,0.0030
+"tmIDLoser, round, lgIDWinner, note",0.9555,0.0709,0.0010
+"tmIDLoser, round, lgIDLoser, GoalsWinner",0.7837,1.0000,0.0030
+"tmIDLoser, round, lgIDLoser, GoalsLoser",0.8029,1.0000,0.0030
+"tmIDLoser, round, lgIDLoser, note",0.9555,0.0709,0.0020
+"tmIDLoser, round, GoalsWinner, GoalsLoser",0.9784,1.0000,0.0030
+"tmIDLoser, round, GoalsWinner, note",0.9904,0.0709,0.0010
+"tmIDLoser, round, GoalsLoser, note",0.9880,0.0709,0.0020
+"tmIDLoser, series, lgIDWinner, lgIDLoser",0.2464,0.8882,0.0020
+"tmIDLoser, series, lgIDWinner, GoalsWinner",0.8329,0.8882,0.0030
+"tmIDLoser, series, lgIDWinner, GoalsLoser",0.8558,0.8882,0.0030
+"tmIDLoser, series, lgIDWinner, note",0.9844,0.0349,0.0020
+"tmIDLoser, series, lgIDLoser, GoalsWinner",0.8329,0.8882,0.0030
+"tmIDLoser, series, lgIDLoser, GoalsLoser",0.8558,0.8882,0.0030
+"tmIDLoser, series, lgIDLoser, note",0.9844,0.0349,0.0030
+"tmIDLoser, series, GoalsWinner, GoalsLoser",0.9880,0.8882,0.0020
+"tmIDLoser, series, GoalsWinner, note",0.9976,0.0349,0.0020
+"tmIDLoser, series, GoalsLoser, note",0.9952,0.0349,0.0020
+"tmIDLoser, lgIDWinner, lgIDLoser, GoalsWinner",0.3690,1.0000,0.0030
+"tmIDLoser, lgIDWinner, lgIDLoser, GoalsLoser",0.3738,1.0000,0.0030
+"tmIDLoser, lgIDWinner, lgIDLoser, note",0.9447,0.0709,0.0020
+"tmIDLoser, lgIDWinner, GoalsWinner, GoalsLoser",0.8942,1.0000,0.0030
+"tmIDLoser, lgIDWinner, GoalsWinner, note",0.9856,0.0709,0.0020
+"tmIDLoser, lgIDWinner, GoalsLoser, note",0.9736,0.0709,0.0020
+"tmIDLoser, lgIDLoser, GoalsWinner, GoalsLoser",0.8918,1.0000,0.0030
+"tmIDLoser, lgIDLoser, GoalsWinner, note",0.9856,0.0709,0.0020
+"tmIDLoser, lgIDLoser, GoalsLoser, note",0.9712,0.0709,0.0020
+"tmIDLoser, GoalsWinner, GoalsLoser, note",0.9952,0.0709,0.0010
+"round, series, lgIDWinner, lgIDLoser",0.1118,0.8882,0.0030
+"round, series, lgIDWinner, GoalsWinner",0.4675,0.8882,0.0030
+"round, series, lgIDWinner, GoalsLoser",0.5252,0.8882,0.0030
+"round, series, lgIDWinner, note",0.9651,0.0349,0.0020
+"round, series, lgIDLoser, GoalsWinner",0.4675,0.8882,0.0030
+"round, series, lgIDLoser, GoalsLoser",0.5252,0.8882,0.0030
+"round, series, lgIDLoser, note",0.9651,0.0349,0.0020
+"round, series, GoalsWinner, GoalsLoser",0.9014,0.8882,0.0030
+"round, series, GoalsWinner, note",0.9784,0.0349,0.0020
+"round, series, GoalsLoser, note",0.9772,0.0349,0.0020
+"round, lgIDWinner, lgIDLoser, GoalsWinner",0.1370,1.0000,0.0030
+"round, lgIDWinner, lgIDLoser, GoalsLoser",0.1310,1.0000,0.0030
+"round, lgIDWinner, lgIDLoser, note",0.9339,0.0709,0.0020
+"round, lgIDWinner, GoalsWinner, GoalsLoser",0.7224,1.0000,0.0020
+"round, lgIDWinner, GoalsWinner, note",0.9567,0.0709,0.0020
+"round, lgIDWinner, GoalsLoser, note",0.9531,0.0709,0.0020
+"round, lgIDLoser, GoalsWinner, GoalsLoser",0.7236,1.0000,0.0030
+"round, lgIDLoser, GoalsWinner, note",0.9567,0.0709,0.0020
+"round, lgIDLoser, GoalsLoser, note",0.9531,0.0709,0.0020
+"round, GoalsWinner, GoalsLoser, note",0.9748,0.0709,0.0020
+"series, lgIDWinner, lgIDLoser, GoalsWinner",0.2212,0.8882,0.0030
+"series, lgIDWinner, lgIDLoser, GoalsLoser",0.2344,0.8882,0.0030
+"series, lgIDWinner, lgIDLoser, note",0.9651,0.0349,0.0020
+"series, lgIDWinner, GoalsWinner, GoalsLoser",0.7849,0.8882,0.0030
+"series, lgIDWinner, GoalsWinner, note",0.9760,0.0349,0.0020
+"series, lgIDWinner, GoalsLoser, note",0.9736,0.0349,0.0020
+"series, lgIDLoser, GoalsWinner, GoalsLoser",0.7849,0.8882,0.0030
+"series, lgIDLoser, GoalsWinner, note",0.9760,0.0349,0.0020
+"series, lgIDLoser, GoalsLoser, note",0.9736,0.0349,0.0020
+"series, GoalsWinner, GoalsLoser, note",0.9952,0.0349,0.0010
+"lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",0.2464,1.0000,0.0020
+"lgIDWinner, lgIDLoser, GoalsWinner, note",0.9471,0.0709,0.0020
+"lgIDWinner, lgIDLoser, GoalsLoser, note",0.9435,0.0709,0.0010
+"lgIDWinner, GoalsWinner, GoalsLoser, note",0.9663,0.0709,0.0020
+"lgIDLoser, GoalsWinner, GoalsLoser, note",0.9663,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, round, series",1.0000,0.8882,0.0030
+"year, tmIDWinner, tmIDLoser, round, lgIDWinner",1.0000,1.0000,0.0030
+"year, tmIDWinner, tmIDLoser, round, lgIDLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, tmIDLoser, round, GoalsWinner",1.0000,1.0000,0.0039
+"year, tmIDWinner, tmIDLoser, round, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, tmIDLoser, round, note",1.0000,0.0709,0.0010
+"year, tmIDWinner, tmIDLoser, series, lgIDWinner",1.0000,0.8882,0.0030
+"year, tmIDWinner, tmIDLoser, series, lgIDLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, tmIDLoser, series, GoalsWinner",1.0000,0.8882,0.0030
+"year, tmIDWinner, tmIDLoser, series, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, tmIDLoser, series, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, lgIDWinner, lgIDLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, tmIDLoser, lgIDWinner, GoalsWinner",1.0000,1.0000,0.0030
+"year, tmIDWinner, tmIDLoser, lgIDWinner, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, tmIDLoser, lgIDWinner, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, lgIDLoser, GoalsWinner",1.0000,1.0000,0.0040
+"year, tmIDWinner, tmIDLoser, lgIDLoser, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, tmIDLoser, lgIDLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, GoalsWinner, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, tmIDLoser, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, round, series, lgIDWinner",1.0000,0.8882,0.0030
+"year, tmIDWinner, round, series, lgIDLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, round, series, GoalsWinner",1.0000,0.8882,0.0040
+"year, tmIDWinner, round, series, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, round, series, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, round, lgIDWinner, lgIDLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, round, lgIDWinner, GoalsWinner",1.0000,1.0000,0.0040
+"year, tmIDWinner, round, lgIDWinner, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, round, lgIDWinner, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, round, lgIDLoser, GoalsWinner",1.0000,1.0000,0.0030
+"year, tmIDWinner, round, lgIDLoser, GoalsLoser",1.0000,1.0000,0.0040
+"year, tmIDWinner, round, lgIDLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, round, GoalsWinner, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, round, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, round, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, series, lgIDWinner, lgIDLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, series, lgIDWinner, GoalsWinner",1.0000,0.8882,0.0030
+"year, tmIDWinner, series, lgIDWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, series, lgIDWinner, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, series, lgIDLoser, GoalsWinner",1.0000,0.8882,0.0030
+"year, tmIDWinner, series, lgIDLoser, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, series, lgIDLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, series, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0050
+"year, tmIDWinner, series, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, series, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, lgIDWinner, lgIDLoser, GoalsWinner",0.9267,1.0000,0.0030
+"year, tmIDWinner, lgIDWinner, lgIDLoser, GoalsLoser",0.9327,1.0000,0.0030
+"year, tmIDWinner, lgIDWinner, lgIDLoser, note",0.9712,0.0709,0.0020
+"year, tmIDWinner, lgIDWinner, GoalsWinner, GoalsLoser",0.9952,1.0000,0.0030
+"year, tmIDWinner, lgIDWinner, GoalsWinner, note",0.9976,0.0709,0.0020
+"year, tmIDWinner, lgIDWinner, GoalsLoser, note",0.9976,0.0709,0.0020
+"year, tmIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",0.9952,1.0000,0.0030
+"year, tmIDWinner, lgIDLoser, GoalsWinner, note",0.9976,0.0709,0.0020
+"year, tmIDWinner, lgIDLoser, GoalsLoser, note",0.9976,0.0709,0.0020
+"year, tmIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, round, series, lgIDWinner",1.0000,0.8882,0.0030
+"year, tmIDLoser, round, series, lgIDLoser",1.0000,0.8882,0.0030
+"year, tmIDLoser, round, series, GoalsWinner",1.0000,0.8882,0.0030
+"year, tmIDLoser, round, series, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDLoser, round, series, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, round, lgIDWinner, lgIDLoser",1.0000,1.0000,0.0040
+"year, tmIDLoser, round, lgIDWinner, GoalsWinner",1.0000,1.0000,0.0030
+"year, tmIDLoser, round, lgIDWinner, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDLoser, round, lgIDWinner, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, round, lgIDLoser, GoalsWinner",1.0000,1.0000,0.0030
+"year, tmIDLoser, round, lgIDLoser, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDLoser, round, lgIDLoser, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, round, GoalsWinner, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDLoser, round, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, round, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, series, lgIDWinner, lgIDLoser",1.0000,0.8882,0.0030
+"year, tmIDLoser, series, lgIDWinner, GoalsWinner",1.0000,0.8882,0.0030
+"year, tmIDLoser, series, lgIDWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDLoser, series, lgIDWinner, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, series, lgIDLoser, GoalsWinner",1.0000,0.8882,0.0030
+"year, tmIDLoser, series, lgIDLoser, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDLoser, series, lgIDLoser, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, series, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDLoser, series, GoalsWinner, note",1.0000,0.0349,0.0010
+"year, tmIDLoser, series, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, lgIDWinner, lgIDLoser, GoalsWinner",1.0000,1.0000,0.0030
+"year, tmIDLoser, lgIDWinner, lgIDLoser, GoalsLoser",1.0000,1.0000,0.0040
+"year, tmIDLoser, lgIDWinner, lgIDLoser, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, lgIDWinner, GoalsWinner, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDLoser, lgIDWinner, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, lgIDWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDLoser, lgIDLoser, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, lgIDLoser, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, round, series, lgIDWinner, lgIDLoser",1.0000,0.8882,0.0030
+"year, round, series, lgIDWinner, GoalsWinner",1.0000,0.8882,0.0030
+"year, round, series, lgIDWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, round, series, lgIDWinner, note",1.0000,0.0349,0.0020
+"year, round, series, lgIDLoser, GoalsWinner",1.0000,0.8882,0.0030
+"year, round, series, lgIDLoser, GoalsLoser",1.0000,0.8882,0.0030
+"year, round, series, lgIDLoser, note",1.0000,0.0349,0.0020
+"year, round, series, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, round, series, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, round, series, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, round, lgIDWinner, lgIDLoser, GoalsWinner",0.8125,1.0000,0.0030
+"year, round, lgIDWinner, lgIDLoser, GoalsLoser",0.8462,1.0000,0.0030
+"year, round, lgIDWinner, lgIDLoser, note",0.9712,0.0709,0.0020
+"year, round, lgIDWinner, GoalsWinner, GoalsLoser",0.9784,1.0000,0.0030
+"year, round, lgIDWinner, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, round, lgIDWinner, GoalsLoser, note",0.9952,0.0709,0.0020
+"year, round, lgIDLoser, GoalsWinner, GoalsLoser",0.9784,1.0000,0.0030
+"year, round, lgIDLoser, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, round, lgIDLoser, GoalsLoser, note",0.9952,0.0709,0.0020
+"year, round, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, series, lgIDWinner, lgIDLoser, GoalsWinner",1.0000,0.8882,0.0030
+"year, series, lgIDWinner, lgIDLoser, GoalsLoser",1.0000,0.8882,0.0030
+"year, series, lgIDWinner, lgIDLoser, note",1.0000,0.0349,0.0010
+"year, series, lgIDWinner, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, series, lgIDWinner, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, series, lgIDWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, series, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, series, lgIDLoser, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, series, lgIDLoser, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, series, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",0.9591,1.0000,0.0030
+"year, lgIDWinner, lgIDLoser, GoalsWinner, note",0.9976,0.0709,0.0020
+"year, lgIDWinner, lgIDLoser, GoalsLoser, note",0.9916,0.0709,0.0020
+"year, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"tmIDWinner, tmIDLoser, round, series, lgIDWinner",0.7115,0.8882,0.0030
+"tmIDWinner, tmIDLoser, round, series, lgIDLoser",0.7115,0.8882,0.0030
+"tmIDWinner, tmIDLoser, round, series, GoalsWinner",0.9760,0.8882,0.0030
+"tmIDWinner, tmIDLoser, round, series, GoalsLoser",0.9904,0.8882,0.0030
+"tmIDWinner, tmIDLoser, round, series, note",0.9976,0.0349,0.0020
+"tmIDWinner, tmIDLoser, round, lgIDWinner, lgIDLoser",0.5601,1.0000,0.0040
+"tmIDWinner, tmIDLoser, round, lgIDWinner, GoalsWinner",0.9519,1.0000,0.0030
+"tmIDWinner, tmIDLoser, round, lgIDWinner, GoalsLoser",0.9651,1.0000,0.0030
+"tmIDWinner, tmIDLoser, round, lgIDWinner, note",0.9892,0.0709,0.0020
+"tmIDWinner, tmIDLoser, round, lgIDLoser, GoalsWinner",0.9519,1.0000,0.0040
+"tmIDWinner, tmIDLoser, round, lgIDLoser, GoalsLoser",0.9651,1.0000,0.0030
+"tmIDWinner, tmIDLoser, round, lgIDLoser, note",0.9892,0.0709,0.0020
+"tmIDWinner, tmIDLoser, round, GoalsWinner, GoalsLoser",0.9976,1.0000,0.0030
+"tmIDWinner, tmIDLoser, round, GoalsWinner, note",0.9976,0.0709,0.0020
+"tmIDWinner, tmIDLoser, round, GoalsLoser, note",0.9952,0.0709,0.0020
+"tmIDWinner, tmIDLoser, series, lgIDWinner, lgIDLoser",0.6587,0.8882,0.0030
+"tmIDWinner, tmIDLoser, series, lgIDWinner, GoalsWinner",0.9688,0.8882,0.0030
+"tmIDWinner, tmIDLoser, series, lgIDWinner, GoalsLoser",0.9880,0.8882,0.0030
+"tmIDWinner, tmIDLoser, series, lgIDWinner, note",0.9976,0.0349,0.0020
+"tmIDWinner, tmIDLoser, series, lgIDLoser, GoalsWinner",0.9688,0.8882,0.0030
+"tmIDWinner, tmIDLoser, series, lgIDLoser, GoalsLoser",0.9880,0.8882,0.0030
+"tmIDWinner, tmIDLoser, series, lgIDLoser, note",0.9976,0.0349,0.0020
+"tmIDWinner, tmIDLoser, series, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"tmIDWinner, tmIDLoser, series, GoalsWinner, note",1.0000,0.0349,0.0010
+"tmIDWinner, tmIDLoser, series, GoalsLoser, note",0.9976,0.0349,0.0020
+"tmIDWinner, tmIDLoser, lgIDWinner, lgIDLoser, GoalsWinner",0.8726,1.0000,0.0030
+"tmIDWinner, tmIDLoser, lgIDWinner, lgIDLoser, GoalsLoser",0.8966,1.0000,0.0040
+"tmIDWinner, tmIDLoser, lgIDWinner, lgIDLoser, note",0.9820,0.0709,0.0020
+"tmIDWinner, tmIDLoser, lgIDWinner, GoalsWinner, GoalsLoser",0.9904,1.0000,0.0030
+"tmIDWinner, tmIDLoser, lgIDWinner, GoalsWinner, note",0.9976,0.0709,0.0030
+"tmIDWinner, tmIDLoser, lgIDWinner, GoalsLoser, note",0.9928,0.0709,0.0020
+"tmIDWinner, tmIDLoser, lgIDLoser, GoalsWinner, GoalsLoser",0.9904,1.0000,0.0030
+"tmIDWinner, tmIDLoser, lgIDLoser, GoalsWinner, note",0.9976,0.0709,0.0020
+"tmIDWinner, tmIDLoser, lgIDLoser, GoalsLoser, note",0.9928,0.0709,0.0020
+"tmIDWinner, tmIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"tmIDWinner, round, series, lgIDWinner, lgIDLoser",0.3233,0.8882,0.0030
+"tmIDWinner, round, series, lgIDWinner, GoalsWinner",0.8786,0.8882,0.0030
+"tmIDWinner, round, series, lgIDWinner, GoalsLoser",0.8882,0.8882,0.0030
+"tmIDWinner, round, series, lgIDWinner, note",0.9808,0.0349,0.0020
+"tmIDWinner, round, series, lgIDLoser, GoalsWinner",0.8786,0.8882,0.0030
+"tmIDWinner, round, series, lgIDLoser, GoalsLoser",0.8882,0.8882,0.0030
+"tmIDWinner, round, series, lgIDLoser, note",0.9808,0.0349,0.0020
+"tmIDWinner, round, series, GoalsWinner, GoalsLoser",0.9808,0.8882,0.0030
+"tmIDWinner, round, series, GoalsWinner, note",0.9928,0.0349,0.0020
+"tmIDWinner, round, series, GoalsLoser, note",0.9928,0.0349,0.0020
+"tmIDWinner, round, lgIDWinner, lgIDLoser, GoalsWinner",0.7440,1.0000,0.0030
+"tmIDWinner, round, lgIDWinner, lgIDLoser, GoalsLoser",0.7584,1.0000,0.0030
+"tmIDWinner, round, lgIDWinner, lgIDLoser, note",0.9555,0.0709,0.0020
+"tmIDWinner, round, lgIDWinner, GoalsWinner, GoalsLoser",0.9639,1.0000,0.0030
+"tmIDWinner, round, lgIDWinner, GoalsWinner, note",0.9868,0.0709,0.0020
+"tmIDWinner, round, lgIDWinner, GoalsLoser, note",0.9820,0.0709,0.0020
+"tmIDWinner, round, lgIDLoser, GoalsWinner, GoalsLoser",0.9639,1.0000,0.0030
+"tmIDWinner, round, lgIDLoser, GoalsWinner, note",0.9868,0.0709,0.0020
+"tmIDWinner, round, lgIDLoser, GoalsLoser, note",0.9820,0.0709,0.0020
+"tmIDWinner, round, GoalsWinner, GoalsLoser, note",0.9952,0.0709,0.0020
+"tmIDWinner, series, lgIDWinner, lgIDLoser, GoalsWinner",0.8077,0.8882,0.0030
+"tmIDWinner, series, lgIDWinner, lgIDLoser, GoalsLoser",0.8317,0.8882,0.0030
+"tmIDWinner, series, lgIDWinner, lgIDLoser, note",0.9796,0.0349,0.0020
+"tmIDWinner, series, lgIDWinner, GoalsWinner, GoalsLoser",0.9736,0.8882,0.0040
+"tmIDWinner, series, lgIDWinner, GoalsWinner, note",0.9904,0.0349,0.0020
+"tmIDWinner, series, lgIDWinner, GoalsLoser, note",0.9928,0.0349,0.0010
+"tmIDWinner, series, lgIDLoser, GoalsWinner, GoalsLoser",0.9736,0.8882,0.0030
+"tmIDWinner, series, lgIDLoser, GoalsWinner, note",0.9904,0.0349,0.0020
+"tmIDWinner, series, lgIDLoser, GoalsLoser, note",0.9928,0.0349,0.0010
+"tmIDWinner, series, GoalsWinner, GoalsLoser, note",0.9976,0.0349,0.0020
+"tmIDWinner, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",0.8558,1.0000,0.0030
+"tmIDWinner, lgIDWinner, lgIDLoser, GoalsWinner, note",0.9796,0.0709,0.0020
+"tmIDWinner, lgIDWinner, lgIDLoser, GoalsLoser, note",0.9724,0.0709,0.0020
+"tmIDWinner, lgIDWinner, GoalsWinner, GoalsLoser, note",0.9880,0.0709,0.0020
+"tmIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",0.9880,0.0709,0.0020
+"tmIDLoser, round, series, lgIDWinner, lgIDLoser",0.3450,0.8882,0.0030
+"tmIDLoser, round, series, lgIDWinner, GoalsWinner",0.8990,0.8882,0.0030
+"tmIDLoser, round, series, lgIDWinner, GoalsLoser",0.9207,0.8882,0.0030
+"tmIDLoser, round, series, lgIDWinner, note",0.9844,0.0349,0.0020
+"tmIDLoser, round, series, lgIDLoser, GoalsWinner",0.8990,0.8882,0.0040
+"tmIDLoser, round, series, lgIDLoser, GoalsLoser",0.9207,0.8882,0.0030
+"tmIDLoser, round, series, lgIDLoser, note",0.9844,0.0349,0.0010
+"tmIDLoser, round, series, GoalsWinner, GoalsLoser",0.9904,0.8882,0.0030
+"tmIDLoser, round, series, GoalsWinner, note",0.9976,0.0349,0.0020
+"tmIDLoser, round, series, GoalsLoser, note",0.9952,0.0349,0.0020
+"tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsWinner",0.7861,1.0000,0.0030
+"tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsLoser",0.8053,1.0000,0.0040
+"tmIDLoser, round, lgIDWinner, lgIDLoser, note",0.9555,0.0709,0.0020
+"tmIDLoser, round, lgIDWinner, GoalsWinner, GoalsLoser",0.9784,1.0000,0.0030
+"tmIDLoser, round, lgIDWinner, GoalsWinner, note",0.9904,0.0709,0.0020
+"tmIDLoser, round, lgIDWinner, GoalsLoser, note",0.9880,0.0709,0.0020
+"tmIDLoser, round, lgIDLoser, GoalsWinner, GoalsLoser",0.9784,1.0000,0.0030
+"tmIDLoser, round, lgIDLoser, GoalsWinner, note",0.9904,0.0709,0.0020
+"tmIDLoser, round, lgIDLoser, GoalsLoser, note",0.9880,0.0709,0.0020
+"tmIDLoser, round, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0010
+"tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsWinner",0.8329,0.8882,0.0030
+"tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsLoser",0.8558,0.8882,0.0040
+"tmIDLoser, series, lgIDWinner, lgIDLoser, note",0.9844,0.0349,0.0020
+"tmIDLoser, series, lgIDWinner, GoalsWinner, GoalsLoser",0.9880,0.8882,0.0030
+"tmIDLoser, series, lgIDWinner, GoalsWinner, note",0.9976,0.0349,0.0020
+"tmIDLoser, series, lgIDWinner, GoalsLoser, note",0.9952,0.0349,0.0020
+"tmIDLoser, series, lgIDLoser, GoalsWinner, GoalsLoser",0.9880,0.8882,0.0030
+"tmIDLoser, series, lgIDLoser, GoalsWinner, note",0.9976,0.0349,0.0020
+"tmIDLoser, series, lgIDLoser, GoalsLoser, note",0.9952,0.0349,0.0020
+"tmIDLoser, series, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"tmIDLoser, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",0.8942,1.0000,0.0030
+"tmIDLoser, lgIDWinner, lgIDLoser, GoalsWinner, note",0.9856,0.0709,0.0020
+"tmIDLoser, lgIDWinner, lgIDLoser, GoalsLoser, note",0.9736,0.0709,0.0020
+"tmIDLoser, lgIDWinner, GoalsWinner, GoalsLoser, note",0.9952,0.0709,0.0020
+"tmIDLoser, lgIDLoser, GoalsWinner, GoalsLoser, note",0.9952,0.0709,0.0020
+"round, series, lgIDWinner, lgIDLoser, GoalsWinner",0.4675,0.8882,0.0030
+"round, series, lgIDWinner, lgIDLoser, GoalsLoser",0.5252,0.8882,0.0030
+"round, series, lgIDWinner, lgIDLoser, note",0.9651,0.0349,0.0020
+"round, series, lgIDWinner, GoalsWinner, GoalsLoser",0.9014,0.8882,0.0030
+"round, series, lgIDWinner, GoalsWinner, note",0.9784,0.0349,0.0020
+"round, series, lgIDWinner, GoalsLoser, note",0.9772,0.0349,0.0020
+"round, series, lgIDLoser, GoalsWinner, GoalsLoser",0.9014,0.8882,0.0040
+"round, series, lgIDLoser, GoalsWinner, note",0.9784,0.0349,0.0020
+"round, series, lgIDLoser, GoalsLoser, note",0.9772,0.0349,0.0020
+"round, series, GoalsWinner, GoalsLoser, note",0.9952,0.0349,0.0020
+"round, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",0.7248,1.0000,0.0030
+"round, lgIDWinner, lgIDLoser, GoalsWinner, note",0.9567,0.0709,0.0020
+"round, lgIDWinner, lgIDLoser, GoalsLoser, note",0.9531,0.0709,0.0020
+"round, lgIDWinner, GoalsWinner, GoalsLoser, note",0.9880,0.0709,0.0020
+"round, lgIDLoser, GoalsWinner, GoalsLoser, note",0.9880,0.0709,0.0020
+"series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",0.7849,0.8882,0.0030
+"series, lgIDWinner, lgIDLoser, GoalsWinner, note",0.9760,0.0349,0.0010
+"series, lgIDWinner, lgIDLoser, GoalsLoser, note",0.9736,0.0349,0.0020
+"series, lgIDWinner, GoalsWinner, GoalsLoser, note",0.9952,0.0349,0.0020
+"series, lgIDLoser, GoalsWinner, GoalsLoser, note",0.9952,0.0349,0.0020
+"lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",0.9663,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, round, series, lgIDWinner",1.0000,0.8882,0.0030
+"year, tmIDWinner, tmIDLoser, round, series, lgIDLoser",1.0000,0.8882,0.0040
+"year, tmIDWinner, tmIDLoser, round, series, GoalsWinner",1.0000,0.8882,0.0030
+"year, tmIDWinner, tmIDLoser, round, series, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, tmIDLoser, round, series, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, round, lgIDWinner, lgIDLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, tmIDLoser, round, lgIDWinner, GoalsWinner",1.0000,1.0000,0.0040
+"year, tmIDWinner, tmIDLoser, round, lgIDWinner, GoalsLoser",1.0000,1.0000,0.0040
+"year, tmIDWinner, tmIDLoser, round, lgIDWinner, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, round, lgIDLoser, GoalsWinner",1.0000,1.0000,0.0040
+"year, tmIDWinner, tmIDLoser, round, lgIDLoser, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, tmIDLoser, round, lgIDLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, round, GoalsWinner, GoalsLoser",1.0000,1.0000,0.0040
+"year, tmIDWinner, tmIDLoser, round, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, round, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, series, lgIDWinner, lgIDLoser",1.0000,0.8882,0.0040
+"year, tmIDWinner, tmIDLoser, series, lgIDWinner, GoalsWinner",1.0000,0.8882,0.0030
+"year, tmIDWinner, tmIDLoser, series, lgIDWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, tmIDLoser, series, lgIDWinner, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, series, lgIDLoser, GoalsWinner",1.0000,0.8882,0.0030
+"year, tmIDWinner, tmIDLoser, series, lgIDLoser, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, tmIDLoser, series, lgIDLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, series, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, tmIDLoser, series, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, series, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, lgIDWinner, lgIDLoser, GoalsWinner",1.0000,1.0000,0.0030
+"year, tmIDWinner, tmIDLoser, lgIDWinner, lgIDLoser, GoalsLoser",1.0000,1.0000,0.0040
+"year, tmIDWinner, tmIDLoser, lgIDWinner, lgIDLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, lgIDWinner, GoalsWinner, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, tmIDLoser, lgIDWinner, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, lgIDWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, tmIDLoser, lgIDLoser, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, lgIDLoser, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, round, series, lgIDWinner, lgIDLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, round, series, lgIDWinner, GoalsWinner",1.0000,0.8882,0.0040
+"year, tmIDWinner, round, series, lgIDWinner, GoalsLoser",1.0000,0.8882,0.0040
+"year, tmIDWinner, round, series, lgIDWinner, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, round, series, lgIDLoser, GoalsWinner",1.0000,0.8882,0.0040
+"year, tmIDWinner, round, series, lgIDLoser, GoalsLoser",1.0000,0.8882,0.0040
+"year, tmIDWinner, round, series, lgIDLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, round, series, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0040
+"year, tmIDWinner, round, series, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, round, series, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, round, lgIDWinner, lgIDLoser, GoalsWinner",1.0000,1.0000,0.0030
+"year, tmIDWinner, round, lgIDWinner, lgIDLoser, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, round, lgIDWinner, lgIDLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, round, lgIDWinner, GoalsWinner, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, round, lgIDWinner, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, round, lgIDWinner, GoalsLoser, note",1.0000,0.0709,0.0030
+"year, tmIDWinner, round, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, round, lgIDLoser, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, round, lgIDLoser, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, round, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, series, lgIDWinner, lgIDLoser, GoalsWinner",1.0000,0.8882,0.0030
+"year, tmIDWinner, series, lgIDWinner, lgIDLoser, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, series, lgIDWinner, lgIDLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, series, lgIDWinner, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, series, lgIDWinner, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, series, lgIDWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, series, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0040
+"year, tmIDWinner, series, lgIDLoser, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, series, lgIDLoser, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, series, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",0.9952,1.0000,0.0030
+"year, tmIDWinner, lgIDWinner, lgIDLoser, GoalsWinner, note",0.9976,0.0709,0.0020
+"year, tmIDWinner, lgIDWinner, lgIDLoser, GoalsLoser, note",0.9976,0.0709,0.0020
+"year, tmIDWinner, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, round, series, lgIDWinner, lgIDLoser",1.0000,0.8882,0.0030
+"year, tmIDLoser, round, series, lgIDWinner, GoalsWinner",1.0000,0.8882,0.0030
+"year, tmIDLoser, round, series, lgIDWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDLoser, round, series, lgIDWinner, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, round, series, lgIDLoser, GoalsWinner",1.0000,0.8882,0.0030
+"year, tmIDLoser, round, series, lgIDLoser, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDLoser, round, series, lgIDLoser, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, round, series, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDLoser, round, series, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, round, series, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsWinner",1.0000,1.0000,0.0040
+"year, tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDLoser, round, lgIDWinner, lgIDLoser, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, round, lgIDWinner, GoalsWinner, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDLoser, round, lgIDWinner, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, round, lgIDWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, round, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDLoser, round, lgIDLoser, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, round, lgIDLoser, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, round, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsWinner",1.0000,0.8882,0.0030
+"year, tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsLoser",1.0000,0.8882,0.0040
+"year, tmIDLoser, series, lgIDWinner, lgIDLoser, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, series, lgIDWinner, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0040
+"year, tmIDLoser, series, lgIDWinner, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, series, lgIDWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, series, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0040
+"year, tmIDLoser, series, lgIDLoser, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, series, lgIDLoser, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, series, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDLoser, lgIDWinner, lgIDLoser, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, lgIDWinner, lgIDLoser, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, round, series, lgIDWinner, lgIDLoser, GoalsWinner",1.0000,0.8882,0.0030
+"year, round, series, lgIDWinner, lgIDLoser, GoalsLoser",1.0000,0.8882,0.0030
+"year, round, series, lgIDWinner, lgIDLoser, note",1.0000,0.0349,0.0020
+"year, round, series, lgIDWinner, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, round, series, lgIDWinner, GoalsWinner, note",1.0000,0.0349,0.0010
+"year, round, series, lgIDWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, round, series, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, round, series, lgIDLoser, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, round, series, lgIDLoser, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, round, series, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0030
+"year, round, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",0.9784,1.0000,0.0040
+"year, round, lgIDWinner, lgIDLoser, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, round, lgIDWinner, lgIDLoser, GoalsLoser, note",0.9952,0.0709,0.0020
+"year, round, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, round, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0040
+"year, series, lgIDWinner, lgIDLoser, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, series, lgIDWinner, lgIDLoser, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, series, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, series, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"tmIDWinner, tmIDLoser, round, series, lgIDWinner, lgIDLoser",0.7115,0.8882,0.0030
+"tmIDWinner, tmIDLoser, round, series, lgIDWinner, GoalsWinner",0.9760,0.8882,0.0040
+"tmIDWinner, tmIDLoser, round, series, lgIDWinner, GoalsLoser",0.9904,0.8882,0.0030
+"tmIDWinner, tmIDLoser, round, series, lgIDWinner, note",0.9976,0.0349,0.0020
+"tmIDWinner, tmIDLoser, round, series, lgIDLoser, GoalsWinner",0.9760,0.8882,0.0030
+"tmIDWinner, tmIDLoser, round, series, lgIDLoser, GoalsLoser",0.9904,0.8882,0.0030
+"tmIDWinner, tmIDLoser, round, series, lgIDLoser, note",0.9976,0.0349,0.0020
+"tmIDWinner, tmIDLoser, round, series, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"tmIDWinner, tmIDLoser, round, series, GoalsWinner, note",1.0000,0.0349,0.0020
+"tmIDWinner, tmIDLoser, round, series, GoalsLoser, note",0.9976,0.0349,0.0020
+"tmIDWinner, tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsWinner",0.9519,1.0000,0.0040
+"tmIDWinner, tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsLoser",0.9651,1.0000,0.0030
+"tmIDWinner, tmIDLoser, round, lgIDWinner, lgIDLoser, note",0.9892,0.0709,0.0020
+"tmIDWinner, tmIDLoser, round, lgIDWinner, GoalsWinner, GoalsLoser",0.9976,1.0000,0.0030
+"tmIDWinner, tmIDLoser, round, lgIDWinner, GoalsWinner, note",0.9976,0.0709,0.0030
+"tmIDWinner, tmIDLoser, round, lgIDWinner, GoalsLoser, note",0.9952,0.0709,0.0020
+"tmIDWinner, tmIDLoser, round, lgIDLoser, GoalsWinner, GoalsLoser",0.9976,1.0000,0.0040
+"tmIDWinner, tmIDLoser, round, lgIDLoser, GoalsWinner, note",0.9976,0.0709,0.0020
+"tmIDWinner, tmIDLoser, round, lgIDLoser, GoalsLoser, note",0.9952,0.0709,0.0020
+"tmIDWinner, tmIDLoser, round, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"tmIDWinner, tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsWinner",0.9688,0.8882,0.0030
+"tmIDWinner, tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsLoser",0.9880,0.8882,0.0040
+"tmIDWinner, tmIDLoser, series, lgIDWinner, lgIDLoser, note",0.9976,0.0349,0.0020
+"tmIDWinner, tmIDLoser, series, lgIDWinner, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"tmIDWinner, tmIDLoser, series, lgIDWinner, GoalsWinner, note",1.0000,0.0349,0.0020
+"tmIDWinner, tmIDLoser, series, lgIDWinner, GoalsLoser, note",0.9976,0.0349,0.0020
+"tmIDWinner, tmIDLoser, series, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"tmIDWinner, tmIDLoser, series, lgIDLoser, GoalsWinner, note",1.0000,0.0349,0.0020
+"tmIDWinner, tmIDLoser, series, lgIDLoser, GoalsLoser, note",0.9976,0.0349,0.0020
+"tmIDWinner, tmIDLoser, series, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"tmIDWinner, tmIDLoser, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",0.9904,1.0000,0.0030
+"tmIDWinner, tmIDLoser, lgIDWinner, lgIDLoser, GoalsWinner, note",0.9976,0.0709,0.0020
+"tmIDWinner, tmIDLoser, lgIDWinner, lgIDLoser, GoalsLoser, note",0.9928,0.0709,0.0020
+"tmIDWinner, tmIDLoser, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"tmIDWinner, tmIDLoser, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"tmIDWinner, round, series, lgIDWinner, lgIDLoser, GoalsWinner",0.8786,0.8882,0.0040
+"tmIDWinner, round, series, lgIDWinner, lgIDLoser, GoalsLoser",0.8882,0.8882,0.0030
+"tmIDWinner, round, series, lgIDWinner, lgIDLoser, note",0.9808,0.0349,0.0020
+"tmIDWinner, round, series, lgIDWinner, GoalsWinner, GoalsLoser",0.9808,0.8882,0.0030
+"tmIDWinner, round, series, lgIDWinner, GoalsWinner, note",0.9928,0.0349,0.0020
+"tmIDWinner, round, series, lgIDWinner, GoalsLoser, note",0.9928,0.0349,0.0020
+"tmIDWinner, round, series, lgIDLoser, GoalsWinner, GoalsLoser",0.9808,0.8882,0.0040
+"tmIDWinner, round, series, lgIDLoser, GoalsWinner, note",0.9928,0.0349,0.0020
+"tmIDWinner, round, series, lgIDLoser, GoalsLoser, note",0.9928,0.0349,0.0020
+"tmIDWinner, round, series, GoalsWinner, GoalsLoser, note",0.9976,0.0349,0.0020
+"tmIDWinner, round, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",0.9639,1.0000,0.0030
+"tmIDWinner, round, lgIDWinner, lgIDLoser, GoalsWinner, note",0.9868,0.0709,0.0020
+"tmIDWinner, round, lgIDWinner, lgIDLoser, GoalsLoser, note",0.9820,0.0709,0.0020
+"tmIDWinner, round, lgIDWinner, GoalsWinner, GoalsLoser, note",0.9952,0.0709,0.0020
+"tmIDWinner, round, lgIDLoser, GoalsWinner, GoalsLoser, note",0.9952,0.0709,0.0020
+"tmIDWinner, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",0.9736,0.8882,0.0030
+"tmIDWinner, series, lgIDWinner, lgIDLoser, GoalsWinner, note",0.9904,0.0349,0.0020
+"tmIDWinner, series, lgIDWinner, lgIDLoser, GoalsLoser, note",0.9928,0.0349,0.0020
+"tmIDWinner, series, lgIDWinner, GoalsWinner, GoalsLoser, note",0.9976,0.0349,0.0020
+"tmIDWinner, series, lgIDLoser, GoalsWinner, GoalsLoser, note",0.9976,0.0349,0.0020
+"tmIDWinner, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",0.9880,0.0709,0.0020
+"tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsWinner",0.8990,0.8882,0.0040
+"tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsLoser",0.9207,0.8882,0.0030
+"tmIDLoser, round, series, lgIDWinner, lgIDLoser, note",0.9844,0.0349,0.0020
+"tmIDLoser, round, series, lgIDWinner, GoalsWinner, GoalsLoser",0.9904,0.8882,0.0030
+"tmIDLoser, round, series, lgIDWinner, GoalsWinner, note",0.9976,0.0349,0.0020
+"tmIDLoser, round, series, lgIDWinner, GoalsLoser, note",0.9952,0.0349,0.0020
+"tmIDLoser, round, series, lgIDLoser, GoalsWinner, GoalsLoser",0.9904,0.8882,0.0030
+"tmIDLoser, round, series, lgIDLoser, GoalsWinner, note",0.9976,0.0349,0.0020
+"tmIDLoser, round, series, lgIDLoser, GoalsLoser, note",0.9952,0.0349,0.0020
+"tmIDLoser, round, series, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",0.9784,1.0000,0.0040
+"tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsWinner, note",0.9904,0.0709,0.0020
+"tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsLoser, note",0.9880,0.0709,0.0020
+"tmIDLoser, round, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"tmIDLoser, round, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",0.9880,0.8882,0.0040
+"tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsWinner, note",0.9976,0.0349,0.0020
+"tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsLoser, note",0.9952,0.0349,0.0020
+"tmIDLoser, series, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"tmIDLoser, series, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"tmIDLoser, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",0.9952,0.0709,0.0020
+"round, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",0.9014,0.8882,0.0040
+"round, series, lgIDWinner, lgIDLoser, GoalsWinner, note",0.9784,0.0349,0.0020
+"round, series, lgIDWinner, lgIDLoser, GoalsLoser, note",0.9772,0.0349,0.0020
+"round, series, lgIDWinner, GoalsWinner, GoalsLoser, note",0.9952,0.0349,0.0020
+"round, series, lgIDLoser, GoalsWinner, GoalsLoser, note",0.9952,0.0349,0.0020
+"round, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",0.9880,0.0709,0.0030
+"series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",0.9952,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, round, series, lgIDWinner, lgIDLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, tmIDLoser, round, series, lgIDWinner, GoalsWinner",1.0000,0.8882,0.0040
+"year, tmIDWinner, tmIDLoser, round, series, lgIDWinner, GoalsLoser",1.0000,0.8882,0.0040
+"year, tmIDWinner, tmIDLoser, round, series, lgIDWinner, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, round, series, lgIDLoser, GoalsWinner",1.0000,0.8882,0.0030
+"year, tmIDWinner, tmIDLoser, round, series, lgIDLoser, GoalsLoser",1.0000,0.8882,0.0040
+"year, tmIDWinner, tmIDLoser, round, series, lgIDLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, round, series, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, tmIDLoser, round, series, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, round, series, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsWinner",1.0000,1.0000,0.0030
+"year, tmIDWinner, tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, tmIDLoser, round, lgIDWinner, lgIDLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, round, lgIDWinner, GoalsWinner, GoalsLoser",1.0000,1.0000,0.0040
+"year, tmIDWinner, tmIDLoser, round, lgIDWinner, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, round, lgIDWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, round, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, tmIDLoser, round, lgIDLoser, GoalsWinner, note",1.0000,0.0709,0.0030
+"year, tmIDWinner, tmIDLoser, round, lgIDLoser, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, round, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsWinner",1.0000,0.8882,0.0040
+"year, tmIDWinner, tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsLoser",1.0000,0.8882,0.0040
+"year, tmIDWinner, tmIDLoser, series, lgIDWinner, lgIDLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, series, lgIDWinner, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0040
+"year, tmIDWinner, tmIDLoser, series, lgIDWinner, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, series, lgIDWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, series, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, tmIDLoser, series, lgIDLoser, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, series, lgIDLoser, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, series, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,1.0000,0.0040
+"year, tmIDWinner, tmIDLoser, lgIDWinner, lgIDLoser, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, lgIDWinner, lgIDLoser, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, round, series, lgIDWinner, lgIDLoser, GoalsWinner",1.0000,0.8882,0.0030
+"year, tmIDWinner, round, series, lgIDWinner, lgIDLoser, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, round, series, lgIDWinner, lgIDLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, round, series, lgIDWinner, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, round, series, lgIDWinner, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, round, series, lgIDWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, round, series, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0040
+"year, tmIDWinner, round, series, lgIDLoser, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, round, series, lgIDLoser, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, round, series, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, round, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,1.0000,0.0040
+"year, tmIDWinner, round, lgIDWinner, lgIDLoser, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, round, lgIDWinner, lgIDLoser, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, round, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, round, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, series, lgIDWinner, lgIDLoser, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, series, lgIDWinner, lgIDLoser, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, series, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, series, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsWinner",1.0000,0.8882,0.0030
+"year, tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDLoser, round, series, lgIDWinner, lgIDLoser, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, round, series, lgIDWinner, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDLoser, round, series, lgIDWinner, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, round, series, lgIDWinner, GoalsLoser, note",1.0000,0.0349,0.0030
+"year, tmIDLoser, round, series, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDLoser, round, series, lgIDLoser, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, round, series, lgIDLoser, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, round, series, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,1.0000,0.0040
+"year, tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, round, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, round, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, series, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0019
+"year, tmIDLoser, series, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, round, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, round, series, lgIDWinner, lgIDLoser, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, round, series, lgIDWinner, lgIDLoser, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, round, series, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, round, series, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, round, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0030
+"year, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"tmIDWinner, tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsWinner",0.9760,0.8882,0.0030
+"tmIDWinner, tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsLoser",0.9904,0.8882,0.0040
+"tmIDWinner, tmIDLoser, round, series, lgIDWinner, lgIDLoser, note",0.9976,0.0349,0.0020
+"tmIDWinner, tmIDLoser, round, series, lgIDWinner, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0040
+"tmIDWinner, tmIDLoser, round, series, lgIDWinner, GoalsWinner, note",1.0000,0.0349,0.0020
+"tmIDWinner, tmIDLoser, round, series, lgIDWinner, GoalsLoser, note",0.9976,0.0349,0.0020
+"tmIDWinner, tmIDLoser, round, series, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0040
+"tmIDWinner, tmIDLoser, round, series, lgIDLoser, GoalsWinner, note",1.0000,0.0349,0.0020
+"tmIDWinner, tmIDLoser, round, series, lgIDLoser, GoalsLoser, note",0.9976,0.0349,0.0020
+"tmIDWinner, tmIDLoser, round, series, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"tmIDWinner, tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",0.9976,1.0000,0.0030
+"tmIDWinner, tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsWinner, note",0.9976,0.0709,0.0020
+"tmIDWinner, tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsLoser, note",0.9952,0.0709,0.0020
+"tmIDWinner, tmIDLoser, round, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0030
+"tmIDWinner, tmIDLoser, round, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"tmIDWinner, tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0040
+"tmIDWinner, tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsWinner, note",1.0000,0.0349,0.0030
+"tmIDWinner, tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsLoser, note",0.9976,0.0349,0.0020
+"tmIDWinner, tmIDLoser, series, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"tmIDWinner, tmIDLoser, series, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"tmIDWinner, tmIDLoser, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"tmIDWinner, round, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",0.9808,0.8882,0.0040
+"tmIDWinner, round, series, lgIDWinner, lgIDLoser, GoalsWinner, note",0.9928,0.0349,0.0020
+"tmIDWinner, round, series, lgIDWinner, lgIDLoser, GoalsLoser, note",0.9928,0.0349,0.0020
+"tmIDWinner, round, series, lgIDWinner, GoalsWinner, GoalsLoser, note",0.9976,0.0349,0.0020
+"tmIDWinner, round, series, lgIDLoser, GoalsWinner, GoalsLoser, note",0.9976,0.0349,0.0020
+"tmIDWinner, round, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",0.9952,0.0709,0.0020
+"tmIDWinner, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",0.9976,0.0349,0.0020
+"tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",0.9904,0.8882,0.0030
+"tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsWinner, note",0.9976,0.0349,0.0020
+"tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsLoser, note",0.9952,0.0349,0.0020
+"tmIDLoser, round, series, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"tmIDLoser, round, series, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"round, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",0.9952,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsWinner",1.0000,0.8882,0.0040
+"year, tmIDWinner, tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsLoser",1.0000,0.8882,0.0040
+"year, tmIDWinner, tmIDLoser, round, series, lgIDWinner, lgIDLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, round, series, lgIDWinner, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0040
+"year, tmIDWinner, tmIDLoser, round, series, lgIDWinner, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, round, series, lgIDWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, round, series, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0040
+"year, tmIDWinner, tmIDLoser, round, series, lgIDLoser, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, round, series, lgIDLoser, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, round, series, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,1.0000,0.0030
+"year, tmIDWinner, tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsWinner, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsLoser, note",1.0000,0.0709,0.0030
+"year, tmIDWinner, tmIDLoser, round, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, round, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0040
+"year, tmIDWinner, tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, series, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, series, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0030
+"year, tmIDWinner, round, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0030
+"year, tmIDWinner, round, series, lgIDWinner, lgIDLoser, GoalsWinner, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, round, series, lgIDWinner, lgIDLoser, GoalsLoser, note",1.0000,0.0349,0.0030
+"year, tmIDWinner, round, series, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, round, series, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, round, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0040
+"year, tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsWinner, note",1.0000,0.0349,0.0030
+"year, tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, round, series, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, round, series, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0030
+"year, round, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"tmIDWinner, tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0040
+"tmIDWinner, tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsWinner, note",1.0000,0.0349,0.0020
+"tmIDWinner, tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsLoser, note",0.9976,0.0349,0.0020
+"tmIDWinner, tmIDLoser, round, series, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0030
+"tmIDWinner, tmIDLoser, round, series, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"tmIDWinner, tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0030
+"tmIDWinner, tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0030
+"tmIDWinner, round, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",0.9976,0.0349,0.0030
+"tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0030
+"year, tmIDWinner, tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser",1.0000,0.8882,0.0040
+"year, tmIDWinner, tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsWinner, note",1.0000,0.0349,0.0030
+"year, tmIDWinner, tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, round, series, lgIDWinner, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, round, series, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, tmIDLoser, round, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0709,0.0020
+"year, tmIDWinner, tmIDLoser, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDWinner, round, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"year, tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020
+"tmIDWinner, tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0030
+"year, tmIDWinner, tmIDLoser, round, series, lgIDWinner, lgIDLoser, GoalsWinner, GoalsLoser, note",1.0000,0.0349,0.0020

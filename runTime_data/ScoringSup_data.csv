@@ -1,0 +1,16 @@
+Key,Uniqueness Ratio,Completeness Ratio,Running Time for UR
+playerID,0.7445,1.0000,0.0080
+year,0.0000,1.0000,0.0010
+PPA,0.1533,0.9270,0.0010
+SHA,0.7153,0.2993,0.0010
+"playerID, year",1.0000,1.0000,0.0010
+"playerID, PPA",0.9708,0.9270,0.0010
+"playerID, SHA",1.0000,0.2993,0.0000
+"year, PPA",0.2847,0.9270,0.0010
+"year, SHA",0.7226,0.2993,0.0010
+"PPA, SHA",0.8686,0.2263,0.0010
+"playerID, year, PPA",1.0000,0.9270,0.0010
+"playerID, year, SHA",1.0000,0.2993,0.0010
+"playerID, PPA, SHA",1.0000,0.2263,0.0010
+"year, PPA, SHA",0.9270,0.2263,0.0010
+"playerID, year, PPA, SHA",1.0000,0.2263,0.0010

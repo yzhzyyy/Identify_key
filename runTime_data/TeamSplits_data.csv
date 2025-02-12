@@ -1,0 +1,1024 @@
+Key,Uniqueness Ratio,Completeness Ratio,Running Time for UR
+year,0.0000,1.0000,0.0010
+tmID,0.0158,1.0000,0.0020
+lgID,0.0000,1.0000,0.0020
+hW,0.0007,1.0000,0.0020
+hL,0.0013,1.0000,0.0020
+hOTL,0.7643,0.2357,0.0020
+rW,0.0013,1.0000,0.0020
+rL,0.0033,1.0000,0.0020
+rT,0.1389,0.8618,0.0030
+rOTL,0.7643,0.2357,0.0020
+"year, tmID",1.0000,1.0000,0.0020
+"year, lgID",0.0000,1.0000,0.0020
+"year, hW",0.3667,1.0000,0.0020
+"year, hL",0.3660,1.0000,0.0020
+"year, hOTL",0.7775,0.2357,0.0020
+"year, rW",0.3562,1.0000,0.0020
+"year, rL",0.3608,1.0000,0.0020
+"year, rT",0.2818,0.8618,0.0020
+"year, rOTL",0.7781,0.2357,0.0020
+"tmID, lgID",0.0158,1.0000,0.0030
+"tmID, hW",0.2607,1.0000,0.0030
+"tmID, hL",0.2383,1.0000,0.0020
+"tmID, hOTL",0.8354,0.2357,0.0020
+"tmID, rW",0.2521,1.0000,0.0040
+"tmID, rL",0.2633,1.0000,0.0030
+"tmID, rT",0.2758,0.8618,0.0030
+"tmID, rOTL",0.8315,0.2357,0.0020
+"lgID, hW",0.0086,1.0000,0.0020
+"lgID, hL",0.0053,1.0000,0.0020
+"lgID, hOTL",0.7643,0.2357,0.0020
+"lgID, rW",0.0092,1.0000,0.0030
+"lgID, rL",0.0105,1.0000,0.0030
+"lgID, rT",0.1396,0.8618,0.0030
+"lgID, rOTL",0.7643,0.2357,0.0030
+"hW, hL",0.0981,1.0000,0.0030
+"hW, hOTL",0.8071,0.2357,0.0020
+"hW, rW",0.0797,1.0000,0.0020
+"hW, rL",0.1422,1.0000,0.0020
+"hW, rT",0.1889,0.8618,0.0030
+"hW, rOTL",0.7979,0.2357,0.0020
+"hL, hOTL",0.8005,0.2357,0.0030
+"hL, rW",0.0895,1.0000,0.0020
+"hL, rL",0.0862,1.0000,0.0020
+"hL, rT",0.1863,0.8618,0.0020
+"hL, rOTL",0.7986,0.2357,0.0020
+"hOTL, rW",0.8045,0.2357,0.0020
+"hOTL, rL",0.7979,0.2357,0.0020
+"hOTL, rT",0.9098,0.0974,0.0030
+"hOTL, rOTL",0.7788,0.2357,0.0020
+"rW, rL",0.0955,1.0000,0.0020
+"rW, rT",0.1850,0.8618,0.0030
+"rW, rOTL",0.7992,0.2357,0.0040
+"rL, rT",0.1810,0.8618,0.0030
+"rL, rOTL",0.8032,0.2357,0.0020
+"rT, rOTL",0.9144,0.0974,0.0020
+"year, tmID, lgID",1.0000,1.0000,0.0040
+"year, tmID, hW",1.0000,1.0000,0.0030
+"year, tmID, hL",1.0000,1.0000,0.0030
+"year, tmID, hOTL",1.0000,0.2357,0.0030
+"year, tmID, rW",1.0000,1.0000,0.0040
+"year, tmID, rL",1.0000,1.0000,0.0040
+"year, tmID, rT",1.0000,0.8618,0.0030
+"year, tmID, rOTL",1.0000,0.2357,0.0020
+"year, lgID, hW",0.4174,1.0000,0.0030
+"year, lgID, hL",0.4266,1.0000,0.0030
+"year, lgID, hOTL",0.7775,0.2357,0.0020
+"year, lgID, rW",0.4042,1.0000,0.0050
+"year, lgID, rL",0.4147,1.0000,0.0030
+"year, lgID, rT",0.2989,0.8618,0.0030
+"year, lgID, rOTL",0.7781,0.2357,0.0020
+"year, hW, hL",0.8420,1.0000,0.0030
+"year, hW, hOTL",0.9460,0.2357,0.0170
+"year, hW, rW",0.9078,1.0000,0.0030
+"year, hW, rL",0.8940,1.0000,0.0030
+"year, hW, rT",0.8677,0.8618,0.0030
+"year, hW, rOTL",0.9401,0.2357,0.0030
+"year, hL, hOTL",0.9322,0.2357,0.0030
+"year, hL, rW",0.8953,1.0000,0.0029
+"year, hL, rL",0.9019,1.0000,0.0020
+"year, hL, rT",0.8479,0.8618,0.0030
+"year, hL, rOTL",0.9440,0.2357,0.0030
+"year, hOTL, rW",0.9427,0.2357,0.0020
+"year, hOTL, rL",0.9539,0.2357,0.0020
+"year, hOTL, rT",0.9533,0.0974,0.0020
+"year, hOTL, rOTL",0.8887,0.2357,0.0020
+"year, rW, rL",0.8486,1.0000,0.0030
+"year, rW, rT",0.8552,0.8618,0.0030
+"year, rW, rOTL",0.9454,0.2357,0.0030
+"year, rL, rT",0.8571,0.8618,0.0030
+"year, rL, rOTL",0.9487,0.2357,0.0030
+"year, rT, rOTL",0.9572,0.0974,0.0020
+"tmID, lgID, hW",0.2607,1.0000,0.0030
+"tmID, lgID, hL",0.2383,1.0000,0.0040
+"tmID, lgID, hOTL",0.8354,0.2357,0.0020
+"tmID, lgID, rW",0.2521,1.0000,0.0030
+"tmID, lgID, rL",0.2633,1.0000,0.0030
+"tmID, lgID, rT",0.2758,0.8618,0.0030
+"tmID, lgID, rOTL",0.8315,0.2357,0.0030
+"tmID, hW, hL",0.8223,1.0000,0.0030
+"tmID, hW, hOTL",0.9743,0.2357,0.0020
+"tmID, hW, rW",0.8440,1.0000,0.0030
+"tmID, hW, rL",0.8795,1.0000,0.0030
+"tmID, hW, rT",0.7874,0.8618,0.0030
+"tmID, hW, rOTL",0.9750,0.2357,0.0030
+"tmID, hL, hOTL",0.9783,0.2357,0.0050
+"tmID, hL, rW",0.8604,1.0000,0.0030
+"tmID, hL, rL",0.8275,1.0000,0.0030
+"tmID, hL, rT",0.7584,0.8618,0.0030
+"tmID, hL, rOTL",0.9770,0.2357,0.0020
+"tmID, hOTL, rW",0.9770,0.2357,0.0020
+"tmID, hOTL, rL",0.9763,0.2357,0.0020
+"tmID, hOTL, rT",0.9888,0.0974,0.0020
+"tmID, hOTL, rOTL",0.9710,0.2357,0.0020
+"tmID, rW, rL",0.8262,1.0000,0.0030
+"tmID, rW, rT",0.7749,0.8618,0.0040
+"tmID, rW, rOTL",0.9816,0.2357,0.0020
+"tmID, rL, rT",0.7821,0.8618,0.0040
+"tmID, rL, rOTL",0.9724,0.2357,0.0020
+"tmID, rT, rOTL",0.9921,0.0974,0.0020
+"lgID, hW, hL",0.1501,1.0000,0.0040
+"lgID, hW, hOTL",0.8071,0.2357,0.0020
+"lgID, hW, rW",0.1560,1.0000,0.0030
+"lgID, hW, rL",0.2100,1.0000,0.0030
+"lgID, hW, rT",0.2238,0.8618,0.0030
+"lgID, hW, rOTL",0.7979,0.2357,0.0030
+"lgID, hL, hOTL",0.8005,0.2357,0.0030
+"lgID, hL, rW",0.1646,1.0000,0.0030
+"lgID, hL, rL",0.1501,1.0000,0.0030
+"lgID, hL, rT",0.2192,0.8618,0.0030
+"lgID, hL, rOTL",0.7986,0.2357,0.0030
+"lgID, hOTL, rW",0.8045,0.2357,0.0020
+"lgID, hOTL, rL",0.7979,0.2357,0.0020
+"lgID, hOTL, rT",0.9098,0.0974,0.0020
+"lgID, hOTL, rOTL",0.7788,0.2357,0.0030
+"lgID, rW, rL",0.1580,1.0000,0.0030
+"lgID, rW, rT",0.2258,0.8618,0.0030
+"lgID, rW, rOTL",0.7992,0.2357,0.0020
+"lgID, rL, rT",0.2311,0.8618,0.0030
+"lgID, rL, rOTL",0.8032,0.2357,0.0030
+"lgID, rT, rOTL",0.9144,0.0974,0.0030
+"hW, hL, hOTL",0.8729,0.2357,0.0020
+"hW, hL, rW",0.7176,1.0000,0.0020
+"hW, hL, rL",0.7202,1.0000,0.0030
+"hW, hL, rT",0.6399,0.8618,0.0030
+"hW, hL, rOTL",0.9408,0.2357,0.0030
+"hW, hOTL, rW",0.9645,0.2357,0.0030
+"hW, hOTL, rL",0.9598,0.2357,0.0030
+"hW, hOTL, rT",0.9829,0.0974,0.0030
+"hW, hOTL, rOTL",0.9236,0.2357,0.0030
+"hW, rW, rL",0.7360,1.0000,0.0030
+"hW, rW, rT",0.6524,0.8618,0.0030
+"hW, rW, rOTL",0.9533,0.2357,0.0030
+"hW, rL, rT",0.7294,0.8618,0.0030
+"hW, rL, rOTL",0.9566,0.2357,0.0020
+"hW, rT, rOTL",0.9822,0.0974,0.0030
+"hL, hOTL, rW",0.9677,0.2357,0.0030
+"hL, hOTL, rL",0.9500,0.2357,0.0020
+"hL, hOTL, rT",0.9756,0.0974,0.0020
+"hL, hOTL, rOTL",0.9124,0.2357,0.0030
+"hL, rW, rL",0.7215,1.0000,0.0030
+"hL, rW, rT",0.7077,0.8618,0.0030
+"hL, rW, rOTL",0.9585,0.2357,0.0030
+"hL, rL, rT",0.6754,0.8618,0.0030
+"hL, rL, rOTL",0.9533,0.2357,0.0030
+"hL, rT, rOTL",0.9816,0.0974,0.0020
+"hOTL, rW, rL",0.9315,0.2357,0.0020
+"hOTL, rW, rT",0.9704,0.0974,0.0020
+"hOTL, rW, rOTL",0.9269,0.2357,0.0020
+"hOTL, rL, rT",0.9724,0.0974,0.0020
+"hOTL, rL, rOTL",0.9131,0.2357,0.0020
+"hOTL, rT, rOTL",0.9552,0.0974,0.0020
+"rW, rL, rT",0.4964,0.8618,0.0030
+"rW, rL, rOTL",0.8822,0.2357,0.0020
+"rW, rT, rOTL",0.9868,0.0974,0.0020
+"rL, rT, rOTL",0.9868,0.0974,0.0020
+"year, tmID, lgID, hW",1.0000,1.0000,0.0040
+"year, tmID, lgID, hL",1.0000,1.0000,0.0040
+"year, tmID, lgID, hOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, rW",1.0000,1.0000,0.0040
+"year, tmID, lgID, rL",1.0000,1.0000,0.0040
+"year, tmID, lgID, rT",1.0000,0.8618,0.0030
+"year, tmID, lgID, rOTL",1.0000,0.2357,0.0020
+"year, tmID, hW, hL",1.0000,1.0000,0.0040
+"year, tmID, hW, hOTL",1.0000,0.2357,0.0030
+"year, tmID, hW, rW",1.0000,1.0000,0.0030
+"year, tmID, hW, rL",1.0000,1.0000,0.0030
+"year, tmID, hW, rT",1.0000,0.8618,0.0030
+"year, tmID, hW, rOTL",1.0000,0.2357,0.0020
+"year, tmID, hL, hOTL",1.0000,0.2357,0.0020
+"year, tmID, hL, rW",1.0000,1.0000,0.0040
+"year, tmID, hL, rL",1.0000,1.0000,0.0040
+"year, tmID, hL, rT",1.0000,0.8618,0.0030
+"year, tmID, hL, rOTL",1.0000,0.2357,0.0020
+"year, tmID, hOTL, rW",1.0000,0.2357,0.0030
+"year, tmID, hOTL, rL",1.0000,0.2357,0.0020
+"year, tmID, hOTL, rT",1.0000,0.0974,0.0020
+"year, tmID, hOTL, rOTL",1.0000,0.2357,0.0020
+"year, tmID, rW, rL",1.0000,1.0000,0.0030
+"year, tmID, rW, rT",1.0000,0.8618,0.0030
+"year, tmID, rW, rOTL",1.0000,0.2357,0.0020
+"year, tmID, rL, rT",1.0000,0.8618,0.0030
+"year, tmID, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, rT, rOTL",1.0000,0.0974,0.0020
+"year, lgID, hW, hL",0.8519,1.0000,0.0040
+"year, lgID, hW, hOTL",0.9460,0.2357,0.0030
+"year, lgID, hW, rW",0.9217,1.0000,0.0040
+"year, lgID, hW, rL",0.9098,1.0000,0.0040
+"year, lgID, hW, rT",0.8894,0.8618,0.0030
+"year, lgID, hW, rOTL",0.9401,0.2357,0.0030
+"year, lgID, hL, hOTL",0.9322,0.2357,0.0030
+"year, lgID, hL, rW",0.9105,1.0000,0.0040
+"year, lgID, hL, rL",0.9157,1.0000,0.0040
+"year, lgID, hL, rT",0.8762,0.8618,0.0040
+"year, lgID, hL, rOTL",0.9440,0.2357,0.0030
+"year, lgID, hOTL, rW",0.9427,0.2357,0.0030
+"year, lgID, hOTL, rL",0.9539,0.2357,0.0030
+"year, lgID, hOTL, rT",0.9533,0.0974,0.0020
+"year, lgID, hOTL, rOTL",0.8887,0.2357,0.0020
+"year, lgID, rW, rL",0.8565,1.0000,0.0040
+"year, lgID, rW, rT",0.8762,0.8618,0.0030
+"year, lgID, rW, rOTL",0.9454,0.2357,0.0030
+"year, lgID, rL, rT",0.8743,0.8618,0.0030
+"year, lgID, rL, rOTL",0.9487,0.2357,0.0020
+"year, lgID, rT, rOTL",0.9572,0.0974,0.0020
+"year, hW, hL, hOTL",0.9631,0.2357,0.0020
+"year, hW, hL, rW",0.9895,1.0000,0.0030
+"year, hW, hL, rL",0.9822,1.0000,0.0030
+"year, hW, hL, rT",0.9612,0.8618,0.0030
+"year, hW, hL, rOTL",0.9947,0.2357,0.0020
+"year, hW, hOTL, rW",0.9987,0.2357,0.0030
+"year, hW, hOTL, rL",0.9961,0.2357,0.0020
+"year, hW, hOTL, rT",0.9987,0.0974,0.0020
+"year, hW, hOTL, rOTL",0.9921,0.2357,0.0030
+"year, hW, rW, rL",0.9816,1.0000,0.0040
+"year, hW, rW, rT",0.9829,0.8618,0.0030
+"year, hW, rW, rOTL",0.9921,0.2357,0.0030
+"year, hW, rL, rT",0.9756,0.8618,0.0030
+"year, hW, rL, rOTL",0.9934,0.2357,0.0020
+"year, hW, rT, rOTL",0.9974,0.0974,0.0020
+"year, hL, hOTL, rW",0.9961,0.2357,0.0020
+"year, hL, hOTL, rL",0.9961,0.2357,0.0030
+"year, hL, hOTL, rT",0.9947,0.0974,0.0020
+"year, hL, hOTL, rOTL",0.9855,0.2357,0.0020
+"year, hL, rW, rL",0.9829,1.0000,0.0030
+"year, hL, rW, rT",0.9822,0.8618,0.0030
+"year, hL, rW, rOTL",0.9934,0.2357,0.0020
+"year, hL, rL, rT",0.9809,0.8618,0.0030
+"year, hL, rL, rOTL",0.9934,0.2357,0.0030
+"year, hL, rT, rOTL",0.9961,0.0974,0.0020
+"year, hOTL, rW, rL",0.9934,0.2357,0.0020
+"year, hOTL, rW, rT",0.9921,0.0974,0.0020
+"year, hOTL, rW, rOTL",0.9934,0.2357,0.0020
+"year, hOTL, rL, rT",0.9961,0.0974,0.0020
+"year, hOTL, rL, rOTL",0.9921,0.2357,0.0030
+"year, hOTL, rT, rOTL",0.9835,0.0974,0.0020
+"year, rW, rL, rT",0.9052,0.8618,0.0030
+"year, rW, rL, rOTL",0.9664,0.2357,0.0030
+"year, rW, rT, rOTL",0.9974,0.0974,0.0020
+"year, rL, rT, rOTL",0.9974,0.0974,0.0020
+"tmID, lgID, hW, hL",0.8223,1.0000,0.0030
+"tmID, lgID, hW, hOTL",0.9743,0.2357,0.0030
+"tmID, lgID, hW, rW",0.8440,1.0000,0.0040
+"tmID, lgID, hW, rL",0.8795,1.0000,0.0040
+"tmID, lgID, hW, rT",0.7874,0.8618,0.0050
+"tmID, lgID, hW, rOTL",0.9750,0.2357,0.0030
+"tmID, lgID, hL, hOTL",0.9783,0.2357,0.0030
+"tmID, lgID, hL, rW",0.8604,1.0000,0.0040
+"tmID, lgID, hL, rL",0.8275,1.0000,0.0040
+"tmID, lgID, hL, rT",0.7584,0.8618,0.0030
+"tmID, lgID, hL, rOTL",0.9770,0.2357,0.0020
+"tmID, lgID, hOTL, rW",0.9770,0.2357,0.0020
+"tmID, lgID, hOTL, rL",0.9763,0.2357,0.0020
+"tmID, lgID, hOTL, rT",0.9888,0.0974,0.0020
+"tmID, lgID, hOTL, rOTL",0.9710,0.2357,0.0020
+"tmID, lgID, rW, rL",0.8262,1.0000,0.0050
+"tmID, lgID, rW, rT",0.7749,0.8618,0.0040
+"tmID, lgID, rW, rOTL",0.9816,0.2357,0.0030
+"tmID, lgID, rL, rT",0.7821,0.8618,0.0040
+"tmID, lgID, rL, rOTL",0.9724,0.2357,0.0030
+"tmID, lgID, rT, rOTL",0.9921,0.0974,0.0030
+"tmID, hW, hL, hOTL",0.9875,0.2357,0.0030
+"tmID, hW, hL, rW",0.9776,1.0000,0.0040
+"tmID, hW, hL, rL",0.9882,1.0000,0.0030
+"tmID, hW, hL, rT",0.9677,0.8618,0.0030
+"tmID, hW, hL, rOTL",1.0000,0.2357,0.0020
+"tmID, hW, hOTL, rW",0.9974,0.2357,0.0030
+"tmID, hW, hOTL, rL",0.9934,0.2357,0.0030
+"tmID, hW, hOTL, rT",1.0000,0.0974,0.0020
+"tmID, hW, hOTL, rOTL",0.9961,0.2357,0.0030
+"tmID, hW, rW, rL",0.9789,1.0000,0.0030
+"tmID, hW, rW, rT",0.9638,0.8618,0.0030
+"tmID, hW, rW, rOTL",1.0000,0.2357,0.0020
+"tmID, hW, rL, rT",0.9763,0.8618,0.0030
+"tmID, hW, rL, rOTL",0.9987,0.2357,0.0020
+"tmID, hW, rT, rOTL",1.0000,0.0974,0.0020
+"tmID, hL, hOTL, rW",0.9974,0.2357,0.0020
+"tmID, hL, hOTL, rL",0.9987,0.2357,0.0030
+"tmID, hL, hOTL, rT",0.9987,0.0974,0.0020
+"tmID, hL, hOTL, rOTL",1.0000,0.2357,0.0030
+"tmID, hL, rW, rL",0.9816,1.0000,0.0040
+"tmID, hL, rW, rT",0.9737,0.8618,0.0040
+"tmID, hL, rW, rOTL",0.9974,0.2357,0.0030
+"tmID, hL, rL, rT",0.9776,0.8618,0.0030
+"tmID, hL, rL, rOTL",0.9947,0.2357,0.0030
+"tmID, hL, rT, rOTL",1.0000,0.0974,0.0020
+"tmID, hOTL, rW, rL",0.9974,0.2357,0.0020
+"tmID, hOTL, rW, rT",0.9974,0.0974,0.0020
+"tmID, hOTL, rW, rOTL",0.9974,0.2357,0.0020
+"tmID, hOTL, rL, rT",0.9987,0.0974,0.0020
+"tmID, hOTL, rL, rOTL",0.9947,0.2357,0.0020
+"tmID, hOTL, rT, rOTL",0.9987,0.0974,0.0020
+"tmID, rW, rL, rT",0.9296,0.8618,0.0040
+"tmID, rW, rL, rOTL",0.9921,0.2357,0.0030
+"tmID, rW, rT, rOTL",1.0000,0.0974,0.0020
+"tmID, rL, rT, rOTL",1.0000,0.0974,0.0030
+"lgID, hW, hL, hOTL",0.8729,0.2357,0.0020
+"lgID, hW, hL, rW",0.7571,1.0000,0.0040
+"lgID, hW, hL, rL",0.7505,1.0000,0.0030
+"lgID, hW, hL, rT",0.6807,0.8618,0.0030
+"lgID, hW, hL, rOTL",0.9408,0.2357,0.0020
+"lgID, hW, hOTL, rW",0.9645,0.2357,0.0030
+"lgID, hW, hOTL, rL",0.9598,0.2357,0.0030
+"lgID, hW, hOTL, rT",0.9829,0.0974,0.0020
+"lgID, hW, hOTL, rOTL",0.9236,0.2357,0.0020
+"lgID, hW, rW, rL",0.7676,1.0000,0.0040
+"lgID, hW, rW, rT",0.7018,0.8618,0.0030
+"lgID, hW, rW, rOTL",0.9533,0.2357,0.0030
+"lgID, hW, rL, rT",0.7670,0.8618,0.0040
+"lgID, hW, rL, rOTL",0.9566,0.2357,0.0030
+"lgID, hW, rT, rOTL",0.9822,0.0974,0.0030
+"lgID, hL, hOTL, rW",0.9677,0.2357,0.0030
+"lgID, hL, hOTL, rL",0.9500,0.2357,0.0030
+"lgID, hL, hOTL, rT",0.9756,0.0974,0.0020
+"lgID, hL, hOTL, rOTL",0.9124,0.2357,0.0030
+"lgID, hL, rW, rL",0.7558,1.0000,0.0040
+"lgID, hL, rW, rT",0.7439,0.8618,0.0040
+"lgID, hL, rW, rOTL",0.9585,0.2357,0.0030
+"lgID, hL, rL, rT",0.7255,0.8618,0.0040
+"lgID, hL, rL, rOTL",0.9533,0.2357,0.0030
+"lgID, hL, rT, rOTL",0.9816,0.0974,0.0020
+"lgID, hOTL, rW, rL",0.9315,0.2357,0.0030
+"lgID, hOTL, rW, rT",0.9704,0.0974,0.0020
+"lgID, hOTL, rW, rOTL",0.9269,0.2357,0.0030
+"lgID, hOTL, rL, rT",0.9724,0.0974,0.0030
+"lgID, hOTL, rL, rOTL",0.9131,0.2357,0.0030
+"lgID, hOTL, rT, rOTL",0.9552,0.0974,0.0020
+"lgID, rW, rL, rT",0.5339,0.8618,0.0030
+"lgID, rW, rL, rOTL",0.8822,0.2357,0.0030
+"lgID, rW, rT, rOTL",0.9868,0.0974,0.0020
+"lgID, rL, rT, rOTL",0.9868,0.0974,0.0020
+"hW, hL, hOTL, rW",0.9895,0.2357,0.0020
+"hW, hL, hOTL, rL",0.9816,0.2357,0.0030
+"hW, hL, hOTL, rT",0.9974,0.0974,0.0020
+"hW, hL, hOTL, rOTL",0.9598,0.2357,0.0020
+"hW, hL, rW, rL",0.9579,1.0000,0.0030
+"hW, hL, rW, rT",0.9460,0.8618,0.0030
+"hW, hL, rW, rOTL",1.0000,0.2357,0.0020
+"hW, hL, rL, rT",0.9612,0.8618,0.0030
+"hW, hL, rL, rOTL",1.0000,0.2357,0.0020
+"hW, hL, rT, rOTL",0.9974,0.0974,0.0020
+"hW, hOTL, rW, rL",0.9974,0.2357,0.0020
+"hW, hOTL, rW, rT",0.9974,0.0974,0.0020
+"hW, hOTL, rW, rOTL",0.9947,0.2357,0.0030
+"hW, hOTL, rL, rT",0.9961,0.0974,0.0030
+"hW, hOTL, rL, rOTL",0.9934,0.2357,0.0030
+"hW, hOTL, rT, rOTL",0.9947,0.0974,0.0020
+"hW, rW, rL, rT",0.9065,0.8618,0.0030
+"hW, rW, rL, rOTL",0.9704,0.2357,0.0030
+"hW, rW, rT, rOTL",0.9974,0.0974,0.0020
+"hW, rL, rT, rOTL",0.9974,0.0974,0.0020
+"hL, hOTL, rW, rL",0.9974,0.2357,0.0020
+"hL, hOTL, rW, rT",0.9967,0.0974,0.0020
+"hL, hOTL, rW, rOTL",0.9921,0.2357,0.0030
+"hL, hOTL, rL, rT",0.9974,0.0974,0.0030
+"hL, hOTL, rL, rOTL",0.9928,0.2357,0.0030
+"hL, hOTL, rT, rOTL",0.9934,0.0974,0.0020
+"hL, rW, rL, rT",0.9085,0.8618,0.0030
+"hL, rW, rL, rOTL",0.9803,0.2357,0.0030
+"hL, rW, rT, rOTL",0.9987,0.0974,0.0020
+"hL, rL, rT, rOTL",0.9987,0.0974,0.0020
+"hOTL, rW, rL, rT",0.9947,0.0974,0.0030
+"hOTL, rW, rL, rOTL",0.9579,0.2357,0.0030
+"hOTL, rW, rT, rOTL",0.9947,0.0974,0.0020
+"hOTL, rL, rT, rOTL",0.9947,0.0974,0.0020
+"rW, rL, rT, rOTL",0.9868,0.0974,0.0030
+"year, tmID, lgID, hW, hL",1.0000,1.0000,0.0050
+"year, tmID, lgID, hW, hOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hW, rW",1.0000,1.0000,0.0040
+"year, tmID, lgID, hW, rL",1.0000,1.0000,0.0040
+"year, tmID, lgID, hW, rT",1.0000,0.8618,0.0040
+"year, tmID, lgID, hW, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hL, hOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hL, rW",1.0000,1.0000,0.0050
+"year, tmID, lgID, hL, rL",1.0000,1.0000,0.0050
+"year, tmID, lgID, hL, rT",1.0000,0.8618,0.0040
+"year, tmID, lgID, hL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hOTL, rW",1.0000,0.2357,0.0030
+"year, tmID, lgID, hOTL, rL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hOTL, rT",1.0000,0.0974,0.0030
+"year, tmID, lgID, hOTL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, rW, rL",1.0000,1.0000,0.0040
+"year, tmID, lgID, rW, rT",1.0000,0.8618,0.0040
+"year, tmID, lgID, rW, rOTL",1.0000,0.2357,0.0020
+"year, tmID, lgID, rL, rT",1.0000,0.8618,0.0040
+"year, tmID, lgID, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, rT, rOTL",1.0000,0.0974,0.0020
+"year, tmID, hW, hL, hOTL",1.0000,0.2357,0.0020
+"year, tmID, hW, hL, rW",1.0000,1.0000,0.0040
+"year, tmID, hW, hL, rL",1.0000,1.0000,0.0040
+"year, tmID, hW, hL, rT",1.0000,0.8618,0.0040
+"year, tmID, hW, hL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hW, hOTL, rW",1.0000,0.2357,0.0030
+"year, tmID, hW, hOTL, rL",1.0000,0.2357,0.0030
+"year, tmID, hW, hOTL, rT",1.0000,0.0974,0.0020
+"year, tmID, hW, hOTL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hW, rW, rL",1.0000,1.0000,0.0040
+"year, tmID, hW, rW, rT",1.0000,0.8618,0.0040
+"year, tmID, hW, rW, rOTL",1.0000,0.2357,0.0020
+"year, tmID, hW, rL, rT",1.0000,0.8618,0.0030
+"year, tmID, hW, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hW, rT, rOTL",1.0000,0.0974,0.0020
+"year, tmID, hL, hOTL, rW",1.0000,0.2357,0.0030
+"year, tmID, hL, hOTL, rL",1.0000,0.2357,0.0030
+"year, tmID, hL, hOTL, rT",1.0000,0.0974,0.0030
+"year, tmID, hL, hOTL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hL, rW, rL",1.0000,1.0000,0.0040
+"year, tmID, hL, rW, rT",1.0000,0.8618,0.0040
+"year, tmID, hL, rW, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hL, rL, rT",1.0000,0.8618,0.0030
+"year, tmID, hL, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hL, rT, rOTL",1.0000,0.0974,0.0020
+"year, tmID, hOTL, rW, rL",1.0000,0.2357,0.0030
+"year, tmID, hOTL, rW, rT",1.0000,0.0974,0.0020
+"year, tmID, hOTL, rW, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hOTL, rL, rT",1.0000,0.0974,0.0020
+"year, tmID, hOTL, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hOTL, rT, rOTL",1.0000,0.0974,0.0020
+"year, tmID, rW, rL, rT",1.0000,0.8618,0.0030
+"year, tmID, rW, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, lgID, hW, hL, hOTL",0.9631,0.2357,0.0030
+"year, lgID, hW, hL, rW",0.9908,1.0000,0.0040
+"year, lgID, hW, hL, rL",0.9855,1.0000,0.0050
+"year, lgID, hW, hL, rT",0.9671,0.8618,0.0040
+"year, lgID, hW, hL, rOTL",0.9947,0.2357,0.0030
+"year, lgID, hW, hOTL, rW",0.9987,0.2357,0.0030
+"year, lgID, hW, hOTL, rL",0.9961,0.2357,0.0030
+"year, lgID, hW, hOTL, rT",0.9987,0.0974,0.0020
+"year, lgID, hW, hOTL, rOTL",0.9921,0.2357,0.0030
+"year, lgID, hW, rW, rL",0.9816,1.0000,0.0040
+"year, lgID, hW, rW, rT",0.9882,0.8618,0.0030
+"year, lgID, hW, rW, rOTL",0.9921,0.2357,0.0030
+"year, lgID, hW, rL, rT",0.9855,0.8618,0.0040
+"year, lgID, hW, rL, rOTL",0.9934,0.2357,0.0030
+"year, lgID, hW, rT, rOTL",0.9974,0.0974,0.0020
+"year, lgID, hL, hOTL, rW",0.9961,0.2357,0.0030
+"year, lgID, hL, hOTL, rL",0.9961,0.2357,0.0030
+"year, lgID, hL, hOTL, rT",0.9947,0.0974,0.0020
+"year, lgID, hL, hOTL, rOTL",0.9855,0.2357,0.0030
+"year, lgID, hL, rW, rL",0.9855,1.0000,0.0040
+"year, lgID, hL, rW, rT",0.9882,0.8618,0.0040
+"year, lgID, hL, rW, rOTL",0.9934,0.2357,0.0020
+"year, lgID, hL, rL, rT",0.9908,0.8618,0.0040
+"year, lgID, hL, rL, rOTL",0.9934,0.2357,0.0030
+"year, lgID, hL, rT, rOTL",0.9961,0.0974,0.0030
+"year, lgID, hOTL, rW, rL",0.9934,0.2357,0.0030
+"year, lgID, hOTL, rW, rT",0.9921,0.0974,0.0030
+"year, lgID, hOTL, rW, rOTL",0.9934,0.2357,0.0030
+"year, lgID, hOTL, rL, rT",0.9961,0.0974,0.0030
+"year, lgID, hOTL, rL, rOTL",0.9921,0.2357,0.0030
+"year, lgID, hOTL, rT, rOTL",0.9835,0.0974,0.0030
+"year, lgID, rW, rL, rT",0.9098,0.8618,0.0030
+"year, lgID, rW, rL, rOTL",0.9664,0.2357,0.0029
+"year, lgID, rW, rT, rOTL",0.9974,0.0974,0.0030
+"year, lgID, rL, rT, rOTL",0.9974,0.0974,0.0030
+"year, hW, hL, hOTL, rW",0.9987,0.2357,0.0030
+"year, hW, hL, hOTL, rL",0.9987,0.2357,0.0030
+"year, hW, hL, hOTL, rT",1.0000,0.0974,0.0020
+"year, hW, hL, hOTL, rOTL",0.9961,0.2357,0.0030
+"year, hW, hL, rW, rL",0.9987,1.0000,0.0040
+"year, hW, hL, rW, rT",1.0000,0.8618,0.0030
+"year, hW, hL, rW, rOTL",1.0000,0.2357,0.0030
+"year, hW, hL, rL, rT",0.9974,0.8618,0.0040
+"year, hW, hL, rL, rOTL",1.0000,0.2357,0.0030
+"year, hW, hL, rT, rOTL",1.0000,0.0974,0.0020
+"year, hW, hOTL, rW, rL",1.0000,0.2357,0.0020
+"year, hW, hOTL, rW, rT",1.0000,0.0974,0.0020
+"year, hW, hOTL, rW, rOTL",1.0000,0.2357,0.0030
+"year, hW, hOTL, rL, rT",0.9987,0.0974,0.0020
+"year, hW, hOTL, rL, rOTL",1.0000,0.2357,0.0030
+"year, hW, hOTL, rT, rOTL",1.0000,0.0974,0.0030
+"year, hW, rW, rL, rT",0.9908,0.8618,0.0030
+"year, hW, rW, rL, rOTL",0.9934,0.2357,0.0020
+"year, hW, rW, rT, rOTL",1.0000,0.0974,0.0020
+"year, hW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, hL, hOTL, rW, rL",1.0000,0.2357,0.0030
+"year, hL, hOTL, rW, rT",1.0000,0.0974,0.0020
+"year, hL, hOTL, rW, rOTL",0.9987,0.2357,0.0030
+"year, hL, hOTL, rL, rT",1.0000,0.0974,0.0030
+"year, hL, hOTL, rL, rOTL",0.9974,0.2357,0.0030
+"year, hL, hOTL, rT, rOTL",0.9987,0.0974,0.0020
+"year, hL, rW, rL, rT",0.9908,0.8618,0.0030
+"year, hL, rW, rL, rOTL",0.9961,0.2357,0.0020
+"year, hL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, hL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, hOTL, rW, rL, rT",1.0000,0.0974,0.0020
+"year, hOTL, rW, rL, rOTL",0.9987,0.2357,0.0020
+"year, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, rW, rL, rT, rOTL",0.9974,0.0974,0.0030
+"tmID, lgID, hW, hL, hOTL",0.9875,0.2357,0.0030
+"tmID, lgID, hW, hL, rW",0.9776,1.0000,0.0040
+"tmID, lgID, hW, hL, rL",0.9882,1.0000,0.0040
+"tmID, lgID, hW, hL, rT",0.9677,0.8618,0.0040
+"tmID, lgID, hW, hL, rOTL",1.0000,0.2357,0.0030
+"tmID, lgID, hW, hOTL, rW",0.9974,0.2357,0.0030
+"tmID, lgID, hW, hOTL, rL",0.9934,0.2357,0.0030
+"tmID, lgID, hW, hOTL, rT",1.0000,0.0974,0.0030
+"tmID, lgID, hW, hOTL, rOTL",0.9961,0.2357,0.0030
+"tmID, lgID, hW, rW, rL",0.9789,1.0000,0.0040
+"tmID, lgID, hW, rW, rT",0.9638,0.8618,0.0040
+"tmID, lgID, hW, rW, rOTL",1.0000,0.2357,0.0030
+"tmID, lgID, hW, rL, rT",0.9763,0.8618,0.0040
+"tmID, lgID, hW, rL, rOTL",0.9987,0.2357,0.0030
+"tmID, lgID, hW, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hL, hOTL, rW",0.9974,0.2357,0.0030
+"tmID, lgID, hL, hOTL, rL",0.9987,0.2357,0.0030
+"tmID, lgID, hL, hOTL, rT",0.9987,0.0974,0.0030
+"tmID, lgID, hL, hOTL, rOTL",1.0000,0.2357,0.0030
+"tmID, lgID, hL, rW, rL",0.9816,1.0000,0.0050
+"tmID, lgID, hL, rW, rT",0.9737,0.8618,0.0040
+"tmID, lgID, hL, rW, rOTL",0.9974,0.2357,0.0030
+"tmID, lgID, hL, rL, rT",0.9776,0.8618,0.0040
+"tmID, lgID, hL, rL, rOTL",0.9947,0.2357,0.0030
+"tmID, lgID, hL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hOTL, rW, rL",0.9974,0.2357,0.0030
+"tmID, lgID, hOTL, rW, rT",0.9974,0.0974,0.0030
+"tmID, lgID, hOTL, rW, rOTL",0.9974,0.2357,0.0030
+"tmID, lgID, hOTL, rL, rT",0.9987,0.0974,0.0030
+"tmID, lgID, hOTL, rL, rOTL",0.9947,0.2357,0.0030
+"tmID, lgID, hOTL, rT, rOTL",0.9987,0.0974,0.0020
+"tmID, lgID, rW, rL, rT",0.9296,0.8618,0.0040
+"tmID, lgID, rW, rL, rOTL",0.9921,0.2357,0.0030
+"tmID, lgID, rW, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, hW, hL, hOTL, rW",0.9987,0.2357,0.0030
+"tmID, hW, hL, hOTL, rL",0.9987,0.2357,0.0030
+"tmID, hW, hL, hOTL, rT",1.0000,0.0974,0.0020
+"tmID, hW, hL, hOTL, rOTL",1.0000,0.2357,0.0020
+"tmID, hW, hL, rW, rL",0.9974,1.0000,0.0040
+"tmID, hW, hL, rW, rT",0.9921,0.8618,0.0030
+"tmID, hW, hL, rW, rOTL",1.0000,0.2357,0.0030
+"tmID, hW, hL, rL, rT",0.9987,0.8618,0.0040
+"tmID, hW, hL, rL, rOTL",1.0000,0.2357,0.0030
+"tmID, hW, hL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, hW, hOTL, rW, rL",1.0000,0.2357,0.0030
+"tmID, hW, hOTL, rW, rT",1.0000,0.0974,0.0030
+"tmID, hW, hOTL, rW, rOTL",1.0000,0.2357,0.0030
+"tmID, hW, hOTL, rL, rT",1.0000,0.0974,0.0020
+"tmID, hW, hOTL, rL, rOTL",0.9987,0.2357,0.0020
+"tmID, hW, hOTL, rT, rOTL",1.0000,0.0974,0.0020
+"tmID, hW, rW, rL, rT",0.9868,0.8618,0.0040
+"tmID, hW, rW, rL, rOTL",1.0000,0.2357,0.0030
+"tmID, hW, rW, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, hW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, hL, hOTL, rW, rL",1.0000,0.2357,0.0030
+"tmID, hL, hOTL, rW, rT",0.9987,0.0974,0.0030
+"tmID, hL, hOTL, rW, rOTL",1.0000,0.2357,0.0030
+"tmID, hL, hOTL, rL, rT",1.0000,0.0974,0.0030
+"tmID, hL, hOTL, rL, rOTL",1.0000,0.2357,0.0030
+"tmID, hL, hOTL, rT, rOTL",1.0000,0.0974,0.0020
+"tmID, hL, rW, rL, rT",0.9908,0.8618,0.0030
+"tmID, hL, rW, rL, rOTL",0.9987,0.2357,0.0020
+"tmID, hL, rW, rT, rOTL",1.0000,0.0974,0.0020
+"tmID, hL, rL, rT, rOTL",1.0000,0.0974,0.0020
+"tmID, hOTL, rW, rL, rT",1.0000,0.0974,0.0020
+"tmID, hOTL, rW, rL, rOTL",0.9974,0.2357,0.0030
+"tmID, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, rW, rL, rT, rOTL",1.0000,0.0974,0.0020
+"lgID, hW, hL, hOTL, rW",0.9895,0.2357,0.0030
+"lgID, hW, hL, hOTL, rL",0.9816,0.2357,0.0030
+"lgID, hW, hL, hOTL, rT",0.9974,0.0974,0.0030
+"lgID, hW, hL, hOTL, rOTL",0.9598,0.2357,0.0030
+"lgID, hW, hL, rW, rL",0.9664,1.0000,0.0050
+"lgID, hW, hL, rW, rT",0.9585,0.8618,0.0040
+"lgID, hW, hL, rW, rOTL",1.0000,0.2357,0.0030
+"lgID, hW, hL, rL, rT",0.9770,0.8618,0.0040
+"lgID, hW, hL, rL, rOTL",1.0000,0.2357,0.0030
+"lgID, hW, hL, rT, rOTL",0.9974,0.0974,0.0030
+"lgID, hW, hOTL, rW, rL",0.9974,0.2357,0.0030
+"lgID, hW, hOTL, rW, rT",0.9974,0.0974,0.0030
+"lgID, hW, hOTL, rW, rOTL",0.9947,0.2357,0.0030
+"lgID, hW, hOTL, rL, rT",0.9961,0.0974,0.0030
+"lgID, hW, hOTL, rL, rOTL",0.9934,0.2357,0.0030
+"lgID, hW, hOTL, rT, rOTL",0.9947,0.0974,0.0020
+"lgID, hW, rW, rL, rT",0.9217,0.8618,0.0040
+"lgID, hW, rW, rL, rOTL",0.9704,0.2357,0.0030
+"lgID, hW, rW, rT, rOTL",0.9974,0.0974,0.0020
+"lgID, hW, rL, rT, rOTL",0.9974,0.0974,0.0030
+"lgID, hL, hOTL, rW, rL",0.9974,0.2357,0.0030
+"lgID, hL, hOTL, rW, rT",0.9967,0.0974,0.0030
+"lgID, hL, hOTL, rW, rOTL",0.9921,0.2357,0.0030
+"lgID, hL, hOTL, rL, rT",0.9974,0.0974,0.0030
+"lgID, hL, hOTL, rL, rOTL",0.9928,0.2357,0.0030
+"lgID, hL, hOTL, rT, rOTL",0.9934,0.0974,0.0020
+"lgID, hL, rW, rL, rT",0.9230,0.8618,0.0030
+"lgID, hL, rW, rL, rOTL",0.9803,0.2357,0.0030
+"lgID, hL, rW, rT, rOTL",0.9987,0.0974,0.0030
+"lgID, hL, rL, rT, rOTL",0.9987,0.0974,0.0030
+"lgID, hOTL, rW, rL, rT",0.9947,0.0974,0.0030
+"lgID, hOTL, rW, rL, rOTL",0.9579,0.2357,0.0030
+"lgID, hOTL, rW, rT, rOTL",0.9947,0.0974,0.0020
+"lgID, hOTL, rL, rT, rOTL",0.9947,0.0974,0.0020
+"lgID, rW, rL, rT, rOTL",0.9868,0.0974,0.0020
+"hW, hL, hOTL, rW, rL",1.0000,0.2357,0.0030
+"hW, hL, hOTL, rW, rT",1.0000,0.0974,0.0030
+"hW, hL, hOTL, rW, rOTL",1.0000,0.2357,0.0030
+"hW, hL, hOTL, rL, rT",1.0000,0.0974,0.0030
+"hW, hL, hOTL, rL, rOTL",1.0000,0.2357,0.0030
+"hW, hL, hOTL, rT, rOTL",0.9987,0.0974,0.0020
+"hW, hL, rW, rL, rT",0.9835,0.8618,0.0030
+"hW, hL, rW, rL, rOTL",1.0000,0.2357,0.0029
+"hW, hL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"hW, hL, rL, rT, rOTL",1.0000,0.0974,0.0020
+"hW, hOTL, rW, rL, rT",0.9987,0.0974,0.0020
+"hW, hOTL, rW, rL, rOTL",0.9987,0.2357,0.0020
+"hW, hOTL, rW, rT, rOTL",0.9987,0.0974,0.0030
+"hW, hOTL, rL, rT, rOTL",0.9987,0.0974,0.0030
+"hW, rW, rL, rT, rOTL",0.9974,0.0974,0.0030
+"hL, hOTL, rW, rL, rT",0.9987,0.0974,0.0030
+"hL, hOTL, rW, rL, rOTL",0.9987,0.2357,0.0030
+"hL, hOTL, rW, rT, rOTL",0.9987,0.0974,0.0030
+"hL, hOTL, rL, rT, rOTL",0.9987,0.0974,0.0030
+"hL, rW, rL, rT, rOTL",0.9987,0.0974,0.0030
+"hOTL, rW, rL, rT, rOTL",0.9947,0.0974,0.0030
+"year, tmID, lgID, hW, hL, hOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hW, hL, rW",1.0000,1.0000,0.0040
+"year, tmID, lgID, hW, hL, rL",1.0000,1.0000,0.0050
+"year, tmID, lgID, hW, hL, rT",1.0000,0.8618,0.0040
+"year, tmID, lgID, hW, hL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hW, hOTL, rW",1.0000,0.2357,0.0030
+"year, tmID, lgID, hW, hOTL, rL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hW, hOTL, rT",1.0000,0.0974,0.0030
+"year, tmID, lgID, hW, hOTL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hW, rW, rL",1.0000,1.0000,0.0050
+"year, tmID, lgID, hW, rW, rT",1.0000,0.8618,0.0040
+"year, tmID, lgID, hW, rW, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hW, rL, rT",1.0000,0.8618,0.0040
+"year, tmID, lgID, hW, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hW, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, hL, hOTL, rW",1.0000,0.2357,0.0030
+"year, tmID, lgID, hL, hOTL, rL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hL, hOTL, rT",1.0000,0.0974,0.0030
+"year, tmID, lgID, hL, hOTL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hL, rW, rL",1.0000,1.0000,0.0050
+"year, tmID, lgID, hL, rW, rT",1.0000,0.8618,0.0040
+"year, tmID, lgID, hL, rW, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hL, rL, rT",1.0000,0.8618,0.0040
+"year, tmID, lgID, hL, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, hOTL, rW, rL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hOTL, rW, rT",1.0000,0.0974,0.0030
+"year, tmID, lgID, hOTL, rW, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hOTL, rL, rT",1.0000,0.0974,0.0030
+"year, tmID, lgID, hOTL, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hOTL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, rW, rL, rT",1.0000,0.8618,0.0040
+"year, tmID, lgID, rW, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hW, hL, hOTL, rW",1.0000,0.2357,0.0030
+"year, tmID, hW, hL, hOTL, rL",1.0000,0.2357,0.0030
+"year, tmID, hW, hL, hOTL, rT",1.0000,0.0974,0.0030
+"year, tmID, hW, hL, hOTL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hW, hL, rW, rL",1.0000,1.0000,0.0040
+"year, tmID, hW, hL, rW, rT",1.0000,0.8618,0.0050
+"year, tmID, hW, hL, rW, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hW, hL, rL, rT",1.0000,0.8618,0.0040
+"year, tmID, hW, hL, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hW, hL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hW, hOTL, rW, rL",1.0000,0.2357,0.0030
+"year, tmID, hW, hOTL, rW, rT",1.0000,0.0974,0.0030
+"year, tmID, hW, hOTL, rW, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hW, hOTL, rL, rT",1.0000,0.0974,0.0030
+"year, tmID, hW, hOTL, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hW, hOTL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hW, rW, rL, rT",1.0000,0.8618,0.0040
+"year, tmID, hW, rW, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hW, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hL, hOTL, rW, rL",1.0000,0.2357,0.0030
+"year, tmID, hL, hOTL, rW, rT",1.0000,0.0974,0.0030
+"year, tmID, hL, hOTL, rW, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hL, hOTL, rL, rT",1.0000,0.0974,0.0030
+"year, tmID, hL, hOTL, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hL, hOTL, rT, rOTL",1.0000,0.0974,0.0020
+"year, tmID, hL, rW, rL, rT",1.0000,0.8618,0.0040
+"year, tmID, hL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hL, rW, rT, rOTL",1.0000,0.0974,0.0020
+"year, tmID, hL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hOTL, rW, rL, rT",1.0000,0.0974,0.0030
+"year, tmID, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, lgID, hW, hL, hOTL, rW",0.9987,0.2357,0.0030
+"year, lgID, hW, hL, hOTL, rL",0.9987,0.2357,0.0020
+"year, lgID, hW, hL, hOTL, rT",1.0000,0.0974,0.0030
+"year, lgID, hW, hL, hOTL, rOTL",0.9961,0.2357,0.0030
+"year, lgID, hW, hL, rW, rL",0.9987,1.0000,0.0040
+"year, lgID, hW, hL, rW, rT",1.0000,0.8618,0.0040
+"year, lgID, hW, hL, rW, rOTL",1.0000,0.2357,0.0040
+"year, lgID, hW, hL, rL, rT",1.0000,0.8618,0.0050
+"year, lgID, hW, hL, rL, rOTL",1.0000,0.2357,0.0040
+"year, lgID, hW, hL, rT, rOTL",1.0000,0.0974,0.0020
+"year, lgID, hW, hOTL, rW, rL",1.0000,0.2357,0.0030
+"year, lgID, hW, hOTL, rW, rT",1.0000,0.0974,0.0020
+"year, lgID, hW, hOTL, rW, rOTL",1.0000,0.2357,0.0030
+"year, lgID, hW, hOTL, rL, rT",0.9987,0.0974,0.0030
+"year, lgID, hW, hOTL, rL, rOTL",1.0000,0.2357,0.0040
+"year, lgID, hW, hOTL, rT, rOTL",1.0000,0.0974,0.0030
+"year, lgID, hW, rW, rL, rT",0.9908,0.8618,0.0040
+"year, lgID, hW, rW, rL, rOTL",0.9934,0.2357,0.0030
+"year, lgID, hW, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, lgID, hW, rL, rT, rOTL",1.0000,0.0974,0.0020
+"year, lgID, hL, hOTL, rW, rL",1.0000,0.2357,0.0030
+"year, lgID, hL, hOTL, rW, rT",1.0000,0.0974,0.0030
+"year, lgID, hL, hOTL, rW, rOTL",0.9987,0.2357,0.0030
+"year, lgID, hL, hOTL, rL, rT",1.0000,0.0974,0.0030
+"year, lgID, hL, hOTL, rL, rOTL",0.9974,0.2357,0.0030
+"year, lgID, hL, hOTL, rT, rOTL",0.9987,0.0974,0.0030
+"year, lgID, hL, rW, rL, rT",0.9934,0.8618,0.0040
+"year, lgID, hL, rW, rL, rOTL",0.9961,0.2357,0.0030
+"year, lgID, hL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, lgID, hL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, lgID, hOTL, rW, rL, rT",1.0000,0.0974,0.0030
+"year, lgID, hOTL, rW, rL, rOTL",0.9987,0.2357,0.0030
+"year, lgID, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0020
+"year, lgID, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, lgID, rW, rL, rT, rOTL",0.9974,0.0974,0.0020
+"year, hW, hL, hOTL, rW, rL",1.0000,0.2357,0.0030
+"year, hW, hL, hOTL, rW, rT",1.0000,0.0974,0.0030
+"year, hW, hL, hOTL, rW, rOTL",1.0000,0.2357,0.0030
+"year, hW, hL, hOTL, rL, rT",1.0000,0.0974,0.0020
+"year, hW, hL, hOTL, rL, rOTL",1.0000,0.2357,0.0030
+"year, hW, hL, hOTL, rT, rOTL",1.0000,0.0974,0.0030
+"year, hW, hL, rW, rL, rT",1.0000,0.8618,0.0040
+"year, hW, hL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"year, hW, hL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, hW, hL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, hW, hOTL, rW, rL, rT",1.0000,0.0974,0.0020
+"year, hW, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"year, hW, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, hW, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, hW, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, hL, hOTL, rW, rL, rT",1.0000,0.0974,0.0020
+"year, hL, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"year, hL, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, hL, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0020
+"year, hL, rW, rL, rT, rOTL",1.0000,0.0974,0.0020
+"year, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hW, hL, hOTL, rW",0.9987,0.2357,0.0030
+"tmID, lgID, hW, hL, hOTL, rL",0.9987,0.2357,0.0030
+"tmID, lgID, hW, hL, hOTL, rT",1.0000,0.0974,0.0030
+"tmID, lgID, hW, hL, hOTL, rOTL",1.0000,0.2357,0.0030
+"tmID, lgID, hW, hL, rW, rL",0.9974,1.0000,0.0050
+"tmID, lgID, hW, hL, rW, rT",0.9921,0.8618,0.0050
+"tmID, lgID, hW, hL, rW, rOTL",1.0000,0.2357,0.0030
+"tmID, lgID, hW, hL, rL, rT",0.9987,0.8618,0.0040
+"tmID, lgID, hW, hL, rL, rOTL",1.0000,0.2357,0.0030
+"tmID, lgID, hW, hL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hW, hOTL, rW, rL",1.0000,0.2357,0.0030
+"tmID, lgID, hW, hOTL, rW, rT",1.0000,0.0974,0.0030
+"tmID, lgID, hW, hOTL, rW, rOTL",1.0000,0.2357,0.0030
+"tmID, lgID, hW, hOTL, rL, rT",1.0000,0.0974,0.0030
+"tmID, lgID, hW, hOTL, rL, rOTL",0.9987,0.2357,0.0030
+"tmID, lgID, hW, hOTL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hW, rW, rL, rT",0.9868,0.8618,0.0040
+"tmID, lgID, hW, rW, rL, rOTL",1.0000,0.2357,0.0030
+"tmID, lgID, hW, rW, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hL, hOTL, rW, rL",1.0000,0.2357,0.0030
+"tmID, lgID, hL, hOTL, rW, rT",0.9987,0.0974,0.0030
+"tmID, lgID, hL, hOTL, rW, rOTL",1.0000,0.2357,0.0040
+"tmID, lgID, hL, hOTL, rL, rT",1.0000,0.0974,0.0030
+"tmID, lgID, hL, hOTL, rL, rOTL",1.0000,0.2357,0.0040
+"tmID, lgID, hL, hOTL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hL, rW, rL, rT",0.9908,0.8618,0.0050
+"tmID, lgID, hL, rW, rL, rOTL",0.9987,0.2357,0.0030
+"tmID, lgID, hL, rW, rT, rOTL",1.0000,0.0974,0.0020
+"tmID, lgID, hL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hOTL, rW, rL, rT",1.0000,0.0974,0.0030
+"tmID, lgID, hOTL, rW, rL, rOTL",0.9974,0.2357,0.0030
+"tmID, lgID, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, hW, hL, hOTL, rW, rL",1.0000,0.2357,0.0030
+"tmID, hW, hL, hOTL, rW, rT",1.0000,0.0974,0.0030
+"tmID, hW, hL, hOTL, rW, rOTL",1.0000,0.2357,0.0030
+"tmID, hW, hL, hOTL, rL, rT",1.0000,0.0974,0.0030
+"tmID, hW, hL, hOTL, rL, rOTL",1.0000,0.2357,0.0030
+"tmID, hW, hL, hOTL, rT, rOTL",1.0000,0.0974,0.0020
+"tmID, hW, hL, rW, rL, rT",0.9987,0.8618,0.0040
+"tmID, hW, hL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"tmID, hW, hL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, hW, hL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, hW, hOTL, rW, rL, rT",1.0000,0.0974,0.0030
+"tmID, hW, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"tmID, hW, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, hW, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, hW, rW, rL, rT, rOTL",1.0000,0.0974,0.0020
+"tmID, hL, hOTL, rW, rL, rT",1.0000,0.0974,0.0020
+"tmID, hL, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"tmID, hL, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, hL, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, hL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"lgID, hW, hL, hOTL, rW, rL",1.0000,0.2357,0.0030
+"lgID, hW, hL, hOTL, rW, rT",1.0000,0.0974,0.0030
+"lgID, hW, hL, hOTL, rW, rOTL",1.0000,0.2357,0.0030
+"lgID, hW, hL, hOTL, rL, rT",1.0000,0.0974,0.0030
+"lgID, hW, hL, hOTL, rL, rOTL",1.0000,0.2357,0.0030
+"lgID, hW, hL, hOTL, rT, rOTL",0.9987,0.0974,0.0030
+"lgID, hW, hL, rW, rL, rT",0.9901,0.8618,0.0040
+"lgID, hW, hL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"lgID, hW, hL, rW, rT, rOTL",1.0000,0.0974,0.0020
+"lgID, hW, hL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"lgID, hW, hOTL, rW, rL, rT",0.9987,0.0974,0.0030
+"lgID, hW, hOTL, rW, rL, rOTL",0.9987,0.2357,0.0030
+"lgID, hW, hOTL, rW, rT, rOTL",0.9987,0.0974,0.0030
+"lgID, hW, hOTL, rL, rT, rOTL",0.9987,0.0974,0.0030
+"lgID, hW, rW, rL, rT, rOTL",0.9974,0.0974,0.0030
+"lgID, hL, hOTL, rW, rL, rT",0.9987,0.0974,0.0020
+"lgID, hL, hOTL, rW, rL, rOTL",0.9987,0.2357,0.0030
+"lgID, hL, hOTL, rW, rT, rOTL",0.9987,0.0974,0.0020
+"lgID, hL, hOTL, rL, rT, rOTL",0.9987,0.0974,0.0030
+"lgID, hL, rW, rL, rT, rOTL",0.9987,0.0974,0.0030
+"lgID, hOTL, rW, rL, rT, rOTL",0.9947,0.0974,0.0020
+"hW, hL, hOTL, rW, rL, rT",1.0000,0.0974,0.0030
+"hW, hL, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"hW, hL, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"hW, hL, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0020
+"hW, hL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"hW, hOTL, rW, rL, rT, rOTL",0.9987,0.0974,0.0030
+"hL, hOTL, rW, rL, rT, rOTL",0.9987,0.0974,0.0030
+"year, tmID, lgID, hW, hL, hOTL, rW",1.0000,0.2357,0.0040
+"year, tmID, lgID, hW, hL, hOTL, rL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hW, hL, hOTL, rT",1.0000,0.0974,0.0030
+"year, tmID, lgID, hW, hL, hOTL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hW, hL, rW, rL",1.0000,1.0000,0.0050
+"year, tmID, lgID, hW, hL, rW, rT",1.0000,0.8618,0.0050
+"year, tmID, lgID, hW, hL, rW, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hW, hL, rL, rT",1.0000,0.8618,0.0050
+"year, tmID, lgID, hW, hL, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hW, hL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, hW, hOTL, rW, rL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hW, hOTL, rW, rT",1.0000,0.0974,0.0030
+"year, tmID, lgID, hW, hOTL, rW, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hW, hOTL, rL, rT",1.0000,0.0974,0.0030
+"year, tmID, lgID, hW, hOTL, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hW, hOTL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, hW, rW, rL, rT",1.0000,0.8618,0.0050
+"year, tmID, lgID, hW, rW, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hW, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, hW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, hL, hOTL, rW, rL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hL, hOTL, rW, rT",1.0000,0.0974,0.0030
+"year, tmID, lgID, hL, hOTL, rW, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hL, hOTL, rL, rT",1.0000,0.0974,0.0020
+"year, tmID, lgID, hL, hOTL, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hL, hOTL, rT, rOTL",1.0000,0.0974,0.0020
+"year, tmID, lgID, hL, rW, rL, rT",1.0000,0.8618,0.0050
+"year, tmID, lgID, hL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hL, rW, rT, rOTL",1.0000,0.0974,0.0020
+"year, tmID, lgID, hL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, hOTL, rW, rL, rT",1.0000,0.0974,0.0030
+"year, tmID, lgID, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0020
+"year, tmID, lgID, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hW, hL, hOTL, rW, rL",1.0000,0.2357,0.0030
+"year, tmID, hW, hL, hOTL, rW, rT",1.0000,0.0974,0.0030
+"year, tmID, hW, hL, hOTL, rW, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hW, hL, hOTL, rL, rT",1.0000,0.0974,0.0030
+"year, tmID, hW, hL, hOTL, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hW, hL, hOTL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hW, hL, rW, rL, rT",1.0000,0.8618,0.0050
+"year, tmID, hW, hL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hW, hL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hW, hL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hW, hOTL, rW, rL, rT",1.0000,0.0974,0.0020
+"year, tmID, hW, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hW, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hW, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hW, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hL, hOTL, rW, rL, rT",1.0000,0.0974,0.0030
+"year, tmID, hL, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hL, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hL, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, lgID, hW, hL, hOTL, rW, rL",1.0000,0.2357,0.0030
+"year, lgID, hW, hL, hOTL, rW, rT",1.0000,0.0974,0.0030
+"year, lgID, hW, hL, hOTL, rW, rOTL",1.0000,0.2357,0.0030
+"year, lgID, hW, hL, hOTL, rL, rT",1.0000,0.0974,0.0030
+"year, lgID, hW, hL, hOTL, rL, rOTL",1.0000,0.2357,0.0030
+"year, lgID, hW, hL, hOTL, rT, rOTL",1.0000,0.0974,0.0030
+"year, lgID, hW, hL, rW, rL, rT",1.0000,0.8618,0.0050
+"year, lgID, hW, hL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"year, lgID, hW, hL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, lgID, hW, hL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, lgID, hW, hOTL, rW, rL, rT",1.0000,0.0974,0.0020
+"year, lgID, hW, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"year, lgID, hW, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, lgID, hW, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, lgID, hW, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, lgID, hL, hOTL, rW, rL, rT",1.0000,0.0974,0.0030
+"year, lgID, hL, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0040
+"year, lgID, hL, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, lgID, hL, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0020
+"year, lgID, hL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, lgID, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, hW, hL, hOTL, rW, rL, rT",1.0000,0.0974,0.0020
+"year, hW, hL, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"year, hW, hL, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, hW, hL, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, hW, hL, rW, rL, rT, rOTL",1.0000,0.0974,0.0020
+"year, hW, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, hL, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hW, hL, hOTL, rW, rL",1.0000,0.2357,0.0030
+"tmID, lgID, hW, hL, hOTL, rW, rT",1.0000,0.0974,0.0030
+"tmID, lgID, hW, hL, hOTL, rW, rOTL",1.0000,0.2357,0.0030
+"tmID, lgID, hW, hL, hOTL, rL, rT",1.0000,0.0974,0.0030
+"tmID, lgID, hW, hL, hOTL, rL, rOTL",1.0000,0.2357,0.0040
+"tmID, lgID, hW, hL, hOTL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hW, hL, rW, rL, rT",0.9987,0.8618,0.0070
+"tmID, lgID, hW, hL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"tmID, lgID, hW, hL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hW, hL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hW, hOTL, rW, rL, rT",1.0000,0.0974,0.0040
+"tmID, lgID, hW, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0040
+"tmID, lgID, hW, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hW, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hW, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hL, hOTL, rW, rL, rT",1.0000,0.0974,0.0040
+"tmID, lgID, hL, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"tmID, lgID, hL, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hL, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, hW, hL, hOTL, rW, rL, rT",1.0000,0.0974,0.0030
+"tmID, hW, hL, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0040
+"tmID, hW, hL, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, hW, hL, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, hW, hL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, hW, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0020
+"tmID, hL, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"lgID, hW, hL, hOTL, rW, rL, rT",1.0000,0.0974,0.0030
+"lgID, hW, hL, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0040
+"lgID, hW, hL, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"lgID, hW, hL, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"lgID, hW, hL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"lgID, hW, hOTL, rW, rL, rT, rOTL",0.9987,0.0974,0.0040
+"lgID, hL, hOTL, rW, rL, rT, rOTL",0.9987,0.0974,0.0020
+"hW, hL, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, hW, hL, hOTL, rW, rL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hW, hL, hOTL, rW, rT",1.0000,0.0974,0.0030
+"year, tmID, lgID, hW, hL, hOTL, rW, rOTL",1.0000,0.2357,0.0040
+"year, tmID, lgID, hW, hL, hOTL, rL, rT",1.0000,0.0974,0.0030
+"year, tmID, lgID, hW, hL, hOTL, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hW, hL, hOTL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, hW, hL, rW, rL, rT",1.0000,0.8618,0.0050
+"year, tmID, lgID, hW, hL, rW, rL, rOTL",1.0000,0.2357,0.0040
+"year, tmID, lgID, hW, hL, rW, rT, rOTL",1.0000,0.0974,0.0020
+"year, tmID, lgID, hW, hL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, hW, hOTL, rW, rL, rT",1.0000,0.0974,0.0020
+"year, tmID, lgID, hW, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hW, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, hW, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, hW, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, hL, hOTL, rW, rL, rT",1.0000,0.0974,0.0030
+"year, tmID, lgID, hL, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, lgID, hL, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, hL, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, hL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hW, hL, hOTL, rW, rL, rT",1.0000,0.0974,0.0030
+"year, tmID, hW, hL, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"year, tmID, hW, hL, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hW, hL, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hW, hL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hW, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hL, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0020
+"year, lgID, hW, hL, hOTL, rW, rL, rT",1.0000,0.0974,0.0030
+"year, lgID, hW, hL, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"year, lgID, hW, hL, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, lgID, hW, hL, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, lgID, hW, hL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, lgID, hW, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, lgID, hL, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, hW, hL, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0020
+"tmID, lgID, hW, hL, hOTL, rW, rL, rT",1.0000,0.0974,0.0030
+"tmID, lgID, hW, hL, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0030
+"tmID, lgID, hW, hL, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hW, hL, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0040
+"tmID, lgID, hW, hL, rW, rL, rT, rOTL",1.0000,0.0974,0.0020
+"tmID, lgID, hW, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hL, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, hW, hL, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"lgID, hW, hL, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, hW, hL, hOTL, rW, rL, rT",1.0000,0.0974,0.0030
+"year, tmID, lgID, hW, hL, hOTL, rW, rL, rOTL",1.0000,0.2357,0.0040
+"year, tmID, lgID, hW, hL, hOTL, rW, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, hW, hL, hOTL, rL, rT, rOTL",1.0000,0.0974,0.0020
+"year, tmID, lgID, hW, hL, rW, rL, rT, rOTL",1.0000,0.0974,0.0040
+"year, tmID, lgID, hW, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0040
+"year, tmID, lgID, hL, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, hW, hL, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, lgID, hW, hL, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"tmID, lgID, hW, hL, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030
+"year, tmID, lgID, hW, hL, hOTL, rW, rL, rT, rOTL",1.0000,0.0974,0.0030

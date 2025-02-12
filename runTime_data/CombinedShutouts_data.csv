@@ -1,0 +1,256 @@
+Key,Uniqueness Ratio,Completeness Ratio,Running Time for UR
+year,0.3333,1.0000,0.0090
+month,0.0185,1.0000,0.0010
+date,0.1852,1.0000,0.0010
+tmID,0.2407,1.0000,0.0010
+oppID,0.2963,1.0000,0.0010
+R/P,0.0000,1.0000,0.0010
+IDgoalie1,0.6296,1.0000,0.0010
+IDgoalie2,0.7963,1.0000,0.0010
+"year, month",0.8889,1.0000,0.0010
+"year, date",1.0000,1.0000,0.0010
+"year, tmID",0.8889,1.0000,0.0010
+"year, oppID",1.0000,1.0000,0.0000
+"year, R/P",0.3333,1.0000,0.0000
+"year, IDgoalie1",0.8889,1.0000,0.0000
+"year, IDgoalie2",0.9259,1.0000,0.0010
+"month, date",0.8889,1.0000,0.0010
+"month, tmID",0.7407,1.0000,0.0000
+"month, oppID",0.8889,1.0000,0.0000
+"month, R/P",0.0556,1.0000,0.0000
+"month, IDgoalie1",0.9630,1.0000,0.0010
+"month, IDgoalie2",0.9630,1.0000,0.0010
+"date, tmID",1.0000,1.0000,0.0010
+"date, oppID",0.8889,1.0000,0.0000
+"date, R/P",0.2778,1.0000,0.0011
+"date, IDgoalie1",1.0000,1.0000,0.0009
+"date, IDgoalie2",1.0000,1.0000,0.0010
+"tmID, oppID",0.9630,1.0000,0.0010
+"tmID, R/P",0.2963,1.0000,0.0010
+"tmID, IDgoalie1",0.7222,1.0000,0.0000
+"tmID, IDgoalie2",0.9259,1.0000,0.0000
+"oppID, R/P",0.3333,1.0000,0.0000
+"oppID, IDgoalie1",0.9630,1.0000,0.0000
+"oppID, IDgoalie2",1.0000,1.0000,0.0000
+"R/P, IDgoalie1",0.6852,1.0000,0.0000
+"R/P, IDgoalie2",0.8333,1.0000,0.0000
+"IDgoalie1, IDgoalie2",0.9259,1.0000,0.0020
+"year, month, date",1.0000,1.0000,0.0000
+"year, month, tmID",1.0000,1.0000,0.0010
+"year, month, oppID",1.0000,1.0000,0.0010
+"year, month, R/P",0.8889,1.0000,0.0010
+"year, month, IDgoalie1",1.0000,1.0000,0.0010
+"year, month, IDgoalie2",1.0000,1.0000,0.0010
+"year, date, tmID",1.0000,1.0000,0.0000
+"year, date, oppID",1.0000,1.0000,0.0000
+"year, date, R/P",1.0000,1.0000,0.0010
+"year, date, IDgoalie1",1.0000,1.0000,0.0000
+"year, date, IDgoalie2",1.0000,1.0000,0.0000
+"year, tmID, oppID",1.0000,1.0000,0.0010
+"year, tmID, R/P",0.8889,1.0000,0.0010
+"year, tmID, IDgoalie1",0.8889,1.0000,0.0010
+"year, tmID, IDgoalie2",0.9259,1.0000,0.0000
+"year, oppID, R/P",1.0000,1.0000,0.0000
+"year, oppID, IDgoalie1",1.0000,1.0000,0.0000
+"year, oppID, IDgoalie2",1.0000,1.0000,0.0000
+"year, R/P, IDgoalie1",0.8889,1.0000,0.0000
+"year, R/P, IDgoalie2",0.9259,1.0000,0.0010
+"year, IDgoalie1, IDgoalie2",0.9259,1.0000,0.0010
+"month, date, tmID",1.0000,1.0000,0.0010
+"month, date, oppID",1.0000,1.0000,0.0010
+"month, date, R/P",0.8889,1.0000,0.0010
+"month, date, IDgoalie1",1.0000,1.0000,0.0010
+"month, date, IDgoalie2",1.0000,1.0000,0.0010
+"month, tmID, oppID",1.0000,1.0000,0.0010
+"month, tmID, R/P",0.7778,1.0000,0.0010
+"month, tmID, IDgoalie1",1.0000,1.0000,0.0000
+"month, tmID, IDgoalie2",1.0000,1.0000,0.0000
+"month, oppID, R/P",0.8889,1.0000,0.0000
+"month, oppID, IDgoalie1",1.0000,1.0000,0.0010
+"month, oppID, IDgoalie2",1.0000,1.0000,0.0010
+"month, R/P, IDgoalie1",1.0000,1.0000,0.0010
+"month, R/P, IDgoalie2",0.9630,1.0000,0.0010
+"month, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"date, tmID, oppID",1.0000,1.0000,0.0010
+"date, tmID, R/P",1.0000,1.0000,0.0010
+"date, tmID, IDgoalie1",1.0000,1.0000,0.0000
+"date, tmID, IDgoalie2",1.0000,1.0000,0.0000
+"date, oppID, R/P",0.8889,1.0000,0.0000
+"date, oppID, IDgoalie1",1.0000,1.0000,0.0000
+"date, oppID, IDgoalie2",1.0000,1.0000,0.0000
+"date, R/P, IDgoalie1",1.0000,1.0000,0.0000
+"date, R/P, IDgoalie2",1.0000,1.0000,0.0000
+"date, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0000
+"tmID, oppID, R/P",0.9630,1.0000,0.0010
+"tmID, oppID, IDgoalie1",0.9630,1.0000,0.0010
+"tmID, oppID, IDgoalie2",1.0000,1.0000,0.0010
+"tmID, R/P, IDgoalie1",0.7593,1.0000,0.0010
+"tmID, R/P, IDgoalie2",0.9259,1.0000,0.0010
+"tmID, IDgoalie1, IDgoalie2",0.9259,1.0000,0.0000
+"oppID, R/P, IDgoalie1",0.9630,1.0000,0.0010
+"oppID, R/P, IDgoalie2",1.0000,1.0000,0.0010
+"oppID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"R/P, IDgoalie1, IDgoalie2",0.9259,1.0000,0.0010
+"year, month, date, tmID",1.0000,1.0000,0.0010
+"year, month, date, oppID",1.0000,1.0000,0.0000
+"year, month, date, R/P",1.0000,1.0000,0.0000
+"year, month, date, IDgoalie1",1.0000,1.0000,0.0000
+"year, month, date, IDgoalie2",1.0000,1.0000,0.0010
+"year, month, tmID, oppID",1.0000,1.0000,0.0010
+"year, month, tmID, R/P",1.0000,1.0000,0.0010
+"year, month, tmID, IDgoalie1",1.0000,1.0000,0.0010
+"year, month, tmID, IDgoalie2",1.0000,1.0000,0.0010
+"year, month, oppID, R/P",1.0000,1.0000,0.0010
+"year, month, oppID, IDgoalie1",1.0000,1.0000,0.0010
+"year, month, oppID, IDgoalie2",1.0000,1.0000,0.0010
+"year, month, R/P, IDgoalie1",1.0000,1.0000,0.0010
+"year, month, R/P, IDgoalie2",1.0000,1.0000,0.0010
+"year, month, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"year, date, tmID, oppID",1.0000,1.0000,0.0010
+"year, date, tmID, R/P",1.0000,1.0000,0.0010
+"year, date, tmID, IDgoalie1",1.0000,1.0000,0.0010
+"year, date, tmID, IDgoalie2",1.0000,1.0000,0.0010
+"year, date, oppID, R/P",1.0000,1.0000,0.0000
+"year, date, oppID, IDgoalie1",1.0000,1.0000,0.0000
+"year, date, oppID, IDgoalie2",1.0000,1.0000,0.0000
+"year, date, R/P, IDgoalie1",1.0000,1.0000,0.0000
+"year, date, R/P, IDgoalie2",1.0000,1.0000,0.0010
+"year, date, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"year, tmID, oppID, R/P",1.0000,1.0000,0.0010
+"year, tmID, oppID, IDgoalie1",1.0000,1.0000,0.0010
+"year, tmID, oppID, IDgoalie2",1.0000,1.0000,0.0000
+"year, tmID, R/P, IDgoalie1",0.8889,1.0000,0.0000
+"year, tmID, R/P, IDgoalie2",0.9259,1.0000,0.0000
+"year, tmID, IDgoalie1, IDgoalie2",0.9259,1.0000,0.0000
+"year, oppID, R/P, IDgoalie1",1.0000,1.0000,0.0000
+"year, oppID, R/P, IDgoalie2",1.0000,1.0000,0.0000
+"year, oppID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0000
+"year, R/P, IDgoalie1, IDgoalie2",0.9259,1.0000,0.0000
+"month, date, tmID, oppID",1.0000,1.0000,0.0000
+"month, date, tmID, R/P",1.0000,1.0000,0.0000
+"month, date, tmID, IDgoalie1",1.0000,1.0000,0.0000
+"month, date, tmID, IDgoalie2",1.0000,1.0000,0.0000
+"month, date, oppID, R/P",1.0000,1.0000,0.0000
+"month, date, oppID, IDgoalie1",1.0000,1.0000,0.0000
+"month, date, oppID, IDgoalie2",1.0000,1.0000,0.0010
+"month, date, R/P, IDgoalie1",1.0000,1.0000,0.0010
+"month, date, R/P, IDgoalie2",1.0000,1.0000,0.0010
+"month, date, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"month, tmID, oppID, R/P",1.0000,1.0000,0.0000
+"month, tmID, oppID, IDgoalie1",1.0000,1.0000,0.0000
+"month, tmID, oppID, IDgoalie2",1.0000,1.0000,0.0000
+"month, tmID, R/P, IDgoalie1",1.0000,1.0000,0.0000
+"month, tmID, R/P, IDgoalie2",1.0000,1.0000,0.0000
+"month, tmID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"month, oppID, R/P, IDgoalie1",1.0000,1.0000,0.0000
+"month, oppID, R/P, IDgoalie2",1.0000,1.0000,0.0009
+"month, oppID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"month, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"date, tmID, oppID, R/P",1.0000,1.0000,0.0010
+"date, tmID, oppID, IDgoalie1",1.0000,1.0000,0.0010
+"date, tmID, oppID, IDgoalie2",1.0000,1.0000,0.0010
+"date, tmID, R/P, IDgoalie1",1.0000,1.0000,0.0010
+"date, tmID, R/P, IDgoalie2",1.0000,1.0000,0.0010
+"date, tmID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"date, oppID, R/P, IDgoalie1",1.0000,1.0000,0.0010
+"date, oppID, R/P, IDgoalie2",1.0000,1.0000,0.0010
+"date, oppID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"date, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"tmID, oppID, R/P, IDgoalie1",0.9630,1.0000,0.0010
+"tmID, oppID, R/P, IDgoalie2",1.0000,1.0000,0.0000
+"tmID, oppID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"tmID, R/P, IDgoalie1, IDgoalie2",0.9259,1.0000,0.0010
+"oppID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"year, month, date, tmID, oppID",1.0000,1.0000,0.0010
+"year, month, date, tmID, R/P",1.0000,1.0000,0.0000
+"year, month, date, tmID, IDgoalie1",1.0000,1.0000,0.0000
+"year, month, date, tmID, IDgoalie2",1.0000,1.0000,0.0010
+"year, month, date, oppID, R/P",1.0000,1.0000,0.0010
+"year, month, date, oppID, IDgoalie1",1.0000,1.0000,0.0010
+"year, month, date, oppID, IDgoalie2",1.0000,1.0000,0.0000
+"year, month, date, R/P, IDgoalie1",1.0000,1.0000,0.0000
+"year, month, date, R/P, IDgoalie2",1.0000,1.0000,0.0000
+"year, month, date, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0000
+"year, month, tmID, oppID, R/P",1.0000,1.0000,0.0000
+"year, month, tmID, oppID, IDgoalie1",1.0000,1.0000,0.0010
+"year, month, tmID, oppID, IDgoalie2",1.0000,1.0000,0.0010
+"year, month, tmID, R/P, IDgoalie1",1.0000,1.0000,0.0000
+"year, month, tmID, R/P, IDgoalie2",1.0000,1.0000,0.0000
+"year, month, tmID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0000
+"year, month, oppID, R/P, IDgoalie1",1.0000,1.0000,0.0000
+"year, month, oppID, R/P, IDgoalie2",1.0000,1.0000,0.0000
+"year, month, oppID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"year, month, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0000
+"year, date, tmID, oppID, R/P",1.0000,1.0000,0.0000
+"year, date, tmID, oppID, IDgoalie1",1.0000,1.0000,0.0010
+"year, date, tmID, oppID, IDgoalie2",1.0000,1.0000,0.0010
+"year, date, tmID, R/P, IDgoalie1",1.0000,1.0000,0.0010
+"year, date, tmID, R/P, IDgoalie2",1.0000,1.0000,0.0010
+"year, date, tmID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"year, date, oppID, R/P, IDgoalie1",1.0000,1.0000,0.0010
+"year, date, oppID, R/P, IDgoalie2",1.0000,1.0000,0.0010
+"year, date, oppID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0000
+"year, date, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"year, tmID, oppID, R/P, IDgoalie1",1.0000,1.0000,0.0010
+"year, tmID, oppID, R/P, IDgoalie2",1.0000,1.0000,0.0020
+"year, tmID, oppID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"year, tmID, R/P, IDgoalie1, IDgoalie2",0.9259,1.0000,0.0000
+"year, oppID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0000
+"month, date, tmID, oppID, R/P",1.0000,1.0000,0.0010
+"month, date, tmID, oppID, IDgoalie1",1.0000,1.0000,0.0010
+"month, date, tmID, oppID, IDgoalie2",1.0000,1.0000,0.0000
+"month, date, tmID, R/P, IDgoalie1",1.0000,1.0000,0.0000
+"month, date, tmID, R/P, IDgoalie2",1.0000,1.0000,0.0010
+"month, date, tmID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"month, date, oppID, R/P, IDgoalie1",1.0000,1.0000,0.0010
+"month, date, oppID, R/P, IDgoalie2",1.0000,1.0000,0.0000
+"month, date, oppID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0000
+"month, date, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0000
+"month, tmID, oppID, R/P, IDgoalie1",1.0000,1.0000,0.0000
+"month, tmID, oppID, R/P, IDgoalie2",1.0000,1.0000,0.0000
+"month, tmID, oppID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0000
+"month, tmID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0000
+"month, oppID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0000
+"date, tmID, oppID, R/P, IDgoalie1",1.0000,1.0000,0.0000
+"date, tmID, oppID, R/P, IDgoalie2",1.0000,1.0000,0.0000
+"date, tmID, oppID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0000
+"date, tmID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0000
+"date, oppID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"tmID, oppID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"year, month, date, tmID, oppID, R/P",1.0000,1.0000,0.0010
+"year, month, date, tmID, oppID, IDgoalie1",1.0000,1.0000,0.0010
+"year, month, date, tmID, oppID, IDgoalie2",1.0000,1.0000,0.0010
+"year, month, date, tmID, R/P, IDgoalie1",1.0000,1.0000,0.0010
+"year, month, date, tmID, R/P, IDgoalie2",1.0000,1.0000,0.0010
+"year, month, date, tmID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"year, month, date, oppID, R/P, IDgoalie1",1.0000,1.0000,0.0010
+"year, month, date, oppID, R/P, IDgoalie2",1.0000,1.0000,0.0010
+"year, month, date, oppID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"year, month, date, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"year, month, tmID, oppID, R/P, IDgoalie1",1.0000,1.0000,0.0010
+"year, month, tmID, oppID, R/P, IDgoalie2",1.0000,1.0000,0.0010
+"year, month, tmID, oppID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"year, month, tmID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"year, month, oppID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"year, date, tmID, oppID, R/P, IDgoalie1",1.0000,1.0000,0.0010
+"year, date, tmID, oppID, R/P, IDgoalie2",1.0000,1.0000,0.0010
+"year, date, tmID, oppID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"year, date, tmID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"year, date, oppID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"year, tmID, oppID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"month, date, tmID, oppID, R/P, IDgoalie1",1.0000,1.0000,0.0000
+"month, date, tmID, oppID, R/P, IDgoalie2",1.0000,1.0000,0.0010
+"month, date, tmID, oppID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"month, date, tmID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"month, date, oppID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"month, tmID, oppID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"date, tmID, oppID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"year, month, date, tmID, oppID, R/P, IDgoalie1",1.0000,1.0000,0.0010
+"year, month, date, tmID, oppID, R/P, IDgoalie2",1.0000,1.0000,0.0009
+"year, month, date, tmID, oppID, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0020
+"year, month, date, tmID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"year, month, date, oppID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0000
+"year, month, tmID, oppID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"year, date, tmID, oppID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"month, date, tmID, oppID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010
+"year, month, date, tmID, oppID, R/P, IDgoalie1, IDgoalie2",1.0000,1.0000,0.0010

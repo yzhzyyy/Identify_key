@@ -1,0 +1,256 @@
+Key,Uniqueness Ratio,Completeness Ratio,Running Time for UR
+year,0.0000,1.0000,0.0110
+lgID,0.0000,1.0000,0.0259
+tmID,0.0000,1.0000,0.0199
+oppID,0.0000,1.0000,0.0139
+W,0.0000,1.0000,0.0239
+L,0.0000,1.0000,0.0219
+T,0.2203,0.7797,0.0219
+OTL,0.6143,0.3857,0.0219
+"year, lgID",0.0000,1.0000,0.0290
+"year, tmID",0.0000,1.0000,0.0140
+"year, oppID",0.0000,1.0000,0.0209
+"year, W",0.0039,1.0000,0.0239
+"year, L",0.0041,1.0000,0.0259
+"year, T",0.2203,0.7797,0.0239
+"year, OTL",0.6145,0.3857,0.0239
+"lgID, tmID",0.0000,1.0000,0.0359
+"lgID, oppID",0.0000,1.0000,0.0409
+"lgID, W",0.0002,1.0000,0.0329
+"lgID, L",0.0002,1.0000,0.0319
+"lgID, T",0.2203,0.7797,0.0299
+"lgID, OTL",0.6143,0.3857,0.0269
+"tmID, oppID",0.0178,1.0000,0.0269
+"tmID, W",0.0050,1.0000,0.0319
+"tmID, L",0.0057,1.0000,0.0299
+"tmID, T",0.2224,0.7797,0.0270
+"tmID, OTL",0.6150,0.3857,0.0239
+"oppID, W",0.0056,1.0000,0.0319
+"oppID, L",0.0050,1.0000,0.0299
+"oppID, T",0.2224,0.7797,0.0279
+"oppID, OTL",0.6148,0.3857,0.0239
+"W, L",0.0005,1.0000,0.0299
+"W, T",0.2208,0.7797,0.0249
+"W, OTL",0.6144,0.3857,0.0249
+"L, T",0.2208,0.7797,0.0249
+"L, OTL",0.6144,0.3857,0.0239
+"T, OTL",0.8347,0.1654,0.0219
+"year, lgID, tmID",0.0000,1.0000,0.0369
+"year, lgID, oppID",0.0000,1.0000,0.0369
+"year, lgID, W",0.0056,1.0000,0.0369
+"year, lgID, L",0.0058,1.0000,0.0369
+"year, lgID, T",0.2203,0.7797,0.0329
+"year, lgID, OTL",0.6145,0.3857,0.0269
+"year, tmID, oppID",1.0000,1.0000,0.0229
+"year, tmID, W",0.0871,1.0000,0.0359
+"year, tmID, L",0.0859,1.0000,0.0359
+"year, tmID, T",0.2602,0.7797,0.0319
+"year, tmID, OTL",0.6206,0.3857,0.0259
+"year, oppID, W",0.0875,1.0000,0.0359
+"year, oppID, L",0.0861,1.0000,0.0359
+"year, oppID, T",0.2602,0.7797,0.0319
+"year, oppID, OTL",0.6205,0.3857,0.0259
+"year, W, L",0.0292,1.0000,0.0299
+"year, W, T",0.2438,0.7797,0.0280
+"year, W, OTL",0.6157,0.3857,0.0259
+"year, L, T",0.2439,0.7797,0.0289
+"year, L, OTL",0.6157,0.3857,0.0269
+"year, T, OTL",0.8348,0.1654,0.0229
+"lgID, tmID, oppID",0.0178,1.0000,0.0399
+"lgID, tmID, W",0.0050,1.0000,0.0388
+"lgID, tmID, L",0.0057,1.0000,0.0408
+"lgID, tmID, T",0.2224,0.7797,0.0349
+"lgID, tmID, OTL",0.6150,0.3857,0.0329
+"lgID, oppID, W",0.0059,1.0000,0.0399
+"lgID, oppID, L",0.0055,1.0000,0.0408
+"lgID, oppID, T",0.2224,0.7797,0.0349
+"lgID, oppID, OTL",0.6148,0.3857,0.0289
+"lgID, W, L",0.0023,1.0000,0.0359
+"lgID, W, T",0.2216,0.7797,0.0339
+"lgID, W, OTL",0.6144,0.3857,0.0289
+"lgID, L, T",0.2216,0.7797,0.0339
+"lgID, L, OTL",0.6144,0.3857,0.0329
+"lgID, T, OTL",0.8347,0.1654,0.0249
+"tmID, oppID, W",0.0942,1.0000,0.0429
+"tmID, oppID, L",0.0935,1.0000,0.0408
+"tmID, oppID, T",0.2787,0.7797,0.0379
+"tmID, oppID, OTL",0.6328,0.3857,0.0299
+"tmID, W, L",0.0354,1.0000,0.0379
+"tmID, W, T",0.2401,0.7797,0.0329
+"tmID, W, OTL",0.6197,0.3857,0.0279
+"tmID, L, T",0.2392,0.7797,0.0329
+"tmID, L, OTL",0.6193,0.3857,0.0279
+"tmID, T, OTL",0.8366,0.1654,0.0229
+"oppID, W, L",0.0351,1.0000,0.0379
+"oppID, W, T",0.2392,0.7797,0.0329
+"oppID, W, OTL",0.6194,0.3857,0.0289
+"oppID, L, T",0.2399,0.7797,0.0339
+"oppID, L, OTL",0.6191,0.3857,0.0309
+"oppID, T, OTL",0.8366,0.1654,0.0239
+"W, L, T",0.2232,0.7797,0.0299
+"W, L, OTL",0.6146,0.3857,0.0289
+"W, T, OTL",0.8349,0.1654,0.0239
+"L, T, OTL",0.8348,0.1654,0.0239
+"year, lgID, tmID, oppID",1.0000,1.0000,0.0618
+"year, lgID, tmID, W",0.0871,1.0000,0.0439
+"year, lgID, tmID, L",0.0859,1.0000,0.0468
+"year, lgID, tmID, T",0.2602,0.7797,0.0389
+"year, lgID, tmID, OTL",0.6206,0.3857,0.0339
+"year, lgID, oppID, W",0.0880,1.0000,0.0489
+"year, lgID, oppID, L",0.0866,1.0000,0.0448
+"year, lgID, oppID, T",0.2604,0.7797,0.0389
+"year, lgID, oppID, OTL",0.6205,0.3857,0.0329
+"year, lgID, W, L",0.0305,1.0000,0.0399
+"year, lgID, W, T",0.2465,0.7797,0.0369
+"year, lgID, W, OTL",0.6157,0.3857,0.0319
+"year, lgID, L, T",0.2467,0.7797,0.0389
+"year, lgID, L, OTL",0.6157,0.3857,0.0339
+"year, lgID, T, OTL",0.8348,0.1654,0.0270
+"year, tmID, oppID, W",1.0000,1.0000,0.0568
+"year, tmID, oppID, L",1.0000,1.0000,0.0588
+"year, tmID, oppID, T",1.0000,0.7797,0.0488
+"year, tmID, oppID, OTL",1.0000,0.3857,0.0359
+"year, tmID, W, L",0.3199,1.0000,0.0449
+"year, tmID, W, T",0.4281,0.7797,0.0408
+"year, tmID, W, OTL",0.6642,0.3857,0.0309
+"year, tmID, L, T",0.4248,0.7797,0.0389
+"year, tmID, L, OTL",0.6601,0.3857,0.0319
+"year, tmID, T, OTL",0.8432,0.1654,0.0269
+"year, oppID, W, L",0.3177,1.0000,0.0449
+"year, oppID, W, T",0.4265,0.7797,0.0389
+"year, oppID, W, OTL",0.6632,0.3857,0.0309
+"year, oppID, L, T",0.4278,0.7797,0.0389
+"year, oppID, L, OTL",0.6576,0.3857,0.0309
+"year, oppID, T, OTL",0.8434,0.1654,0.0249
+"year, W, L, T",0.2598,0.7797,0.0349
+"year, W, L, OTL",0.6174,0.3857,0.0289
+"year, W, T, OTL",0.8361,0.1654,0.0260
+"year, L, T, OTL",0.8358,0.1654,0.0249
+"lgID, tmID, oppID, W",0.0942,1.0000,0.0489
+"lgID, tmID, oppID, L",0.0935,1.0000,0.0508
+"lgID, tmID, oppID, T",0.2787,0.7797,0.0449
+"lgID, tmID, oppID, OTL",0.6328,0.3857,0.0389
+"lgID, tmID, W, L",0.0354,1.0000,0.0448
+"lgID, tmID, W, T",0.2401,0.7797,0.0408
+"lgID, tmID, W, OTL",0.6197,0.3857,0.0329
+"lgID, tmID, L, T",0.2392,0.7797,0.0389
+"lgID, tmID, L, OTL",0.6193,0.3857,0.0319
+"lgID, tmID, T, OTL",0.8366,0.1654,0.0299
+"lgID, oppID, W, L",0.0353,1.0000,0.0458
+"lgID, oppID, W, T",0.2394,0.7797,0.0398
+"lgID, oppID, W, OTL",0.6194,0.3857,0.0319
+"lgID, oppID, L, T",0.2405,0.7797,0.0398
+"lgID, oppID, L, OTL",0.6191,0.3857,0.0340
+"lgID, oppID, T, OTL",0.8366,0.1654,0.0289
+"lgID, W, L, T",0.2267,0.7797,0.0379
+"lgID, W, L, OTL",0.6146,0.3857,0.0320
+"lgID, W, T, OTL",0.8349,0.1654,0.0279
+"lgID, L, T, OTL",0.8348,0.1654,0.0289
+"tmID, oppID, W, L",0.2937,1.0000,0.0519
+"tmID, oppID, W, T",0.4418,0.7797,0.0449
+"tmID, oppID, W, OTL",0.6994,0.3857,0.0339
+"tmID, oppID, L, T",0.4411,0.7797,0.0449
+"tmID, oppID, L, OTL",0.6949,0.3857,0.0339
+"tmID, oppID, T, OTL",0.8757,0.1654,0.0269
+"tmID, W, L, T",0.2854,0.7797,0.0419
+"tmID, W, L, OTL",0.6365,0.3857,0.0349
+"tmID, W, T, OTL",0.8424,0.1654,0.0269
+"tmID, L, T, OTL",0.8420,0.1654,0.0269
+"oppID, W, L, T",0.2854,0.7797,0.0409
+"oppID, W, L, OTL",0.6360,0.3857,0.0309
+"oppID, W, T, OTL",0.8427,0.1654,0.0260
+"oppID, L, T, OTL",0.8426,0.1654,0.0259
+"W, L, T, OTL",0.8353,0.1654,0.0259
+"year, lgID, tmID, oppID, W",1.0000,1.0000,0.0698
+"year, lgID, tmID, oppID, L",1.0000,1.0000,0.0718
+"year, lgID, tmID, oppID, T",1.0000,0.7797,0.0608
+"year, lgID, tmID, oppID, OTL",1.0000,0.3857,0.0438
+"year, lgID, tmID, W, L",0.3199,1.0000,0.0548
+"year, lgID, tmID, W, T",0.4281,0.7797,0.0498
+"year, lgID, tmID, W, OTL",0.6642,0.3857,0.0359
+"year, lgID, tmID, L, T",0.4248,0.7797,0.0469
+"year, lgID, tmID, L, OTL",0.6601,0.3857,0.0379
+"year, lgID, tmID, T, OTL",0.8432,0.1654,0.0279
+"year, lgID, oppID, W, L",0.3178,1.0000,0.0548
+"year, lgID, oppID, W, T",0.4268,0.7797,0.0499
+"year, lgID, oppID, W, OTL",0.6632,0.3857,0.0379
+"year, lgID, oppID, L, T",0.4282,0.7797,0.0478
+"year, lgID, oppID, L, OTL",0.6576,0.3857,0.0348
+"year, lgID, oppID, T, OTL",0.8434,0.1654,0.0279
+"year, lgID, W, L, T",0.2611,0.7797,0.0409
+"year, lgID, W, L, OTL",0.6174,0.3857,0.0349
+"year, lgID, W, T, OTL",0.8361,0.1654,0.0279
+"year, lgID, L, T, OTL",0.8358,0.1654,0.0300
+"year, tmID, oppID, W, L",1.0000,1.0000,0.0777
+"year, tmID, oppID, W, T",1.0000,0.7797,0.0548
+"year, tmID, oppID, W, OTL",1.0000,0.3857,0.0398
+"year, tmID, oppID, L, T",1.0000,0.7797,0.0559
+"year, tmID, oppID, L, OTL",1.0000,0.3857,0.0438
+"year, tmID, oppID, T, OTL",1.0000,0.1654,0.0299
+"year, tmID, W, L, T",0.5463,0.7797,0.0468
+"year, tmID, W, L, OTL",0.7305,0.3857,0.0359
+"year, tmID, W, T, OTL",0.8696,0.1654,0.0280
+"year, tmID, L, T, OTL",0.8668,0.1654,0.0289
+"year, oppID, W, L, T",0.5477,0.7797,0.0468
+"year, oppID, W, L, OTL",0.7267,0.3857,0.0359
+"year, oppID, W, T, OTL",0.8685,0.1654,0.0279
+"year, oppID, L, T, OTL",0.8665,0.1654,0.0289
+"year, W, L, T, OTL",0.8378,0.1654,0.0270
+"lgID, tmID, oppID, W, L",0.2937,1.0000,0.0598
+"lgID, tmID, oppID, W, T",0.4418,0.7797,0.0519
+"lgID, tmID, oppID, W, OTL",0.6994,0.3857,0.0389
+"lgID, tmID, oppID, L, T",0.4411,0.7797,0.0528
+"lgID, tmID, oppID, L, OTL",0.6949,0.3857,0.0379
+"lgID, tmID, oppID, T, OTL",0.8757,0.1654,0.0289
+"lgID, tmID, W, L, T",0.2854,0.7797,0.0459
+"lgID, tmID, W, L, OTL",0.6365,0.3857,0.0389
+"lgID, tmID, W, T, OTL",0.8424,0.1654,0.0299
+"lgID, tmID, L, T, OTL",0.8420,0.1654,0.0299
+"lgID, oppID, W, L, T",0.2854,0.7797,0.0449
+"lgID, oppID, W, L, OTL",0.6360,0.3857,0.0369
+"lgID, oppID, W, T, OTL",0.8427,0.1654,0.0329
+"lgID, oppID, L, T, OTL",0.8426,0.1654,0.0289
+"lgID, W, L, T, OTL",0.8353,0.1654,0.0300
+"tmID, oppID, W, L, T",0.6229,0.7797,0.0568
+"tmID, oppID, W, L, OTL",0.7567,0.3857,0.0449
+"tmID, oppID, W, T, OTL",0.9236,0.1654,0.0309
+"tmID, oppID, L, T, OTL",0.9238,0.1654,0.0319
+"tmID, W, L, T, OTL",0.8585,0.1654,0.0289
+"oppID, W, L, T, OTL",0.8592,0.1654,0.0290
+"year, lgID, tmID, oppID, W, L",1.0000,1.0000,0.0787
+"year, lgID, tmID, oppID, W, T",1.0000,0.7797,0.0648
+"year, lgID, tmID, oppID, W, OTL",1.0000,0.3857,0.0439
+"year, lgID, tmID, oppID, L, T",1.0000,0.7797,0.0668
+"year, lgID, tmID, oppID, L, OTL",1.0000,0.3857,0.0468
+"year, lgID, tmID, oppID, T, OTL",1.0000,0.1654,0.0349
+"year, lgID, tmID, W, L, T",0.5463,0.7797,0.0568
+"year, lgID, tmID, W, L, OTL",0.7305,0.3857,0.0398
+"year, lgID, tmID, W, T, OTL",0.8696,0.1654,0.0319
+"year, lgID, tmID, L, T, OTL",0.8668,0.1654,0.0319
+"year, lgID, oppID, W, L, T",0.5477,0.7797,0.0558
+"year, lgID, oppID, W, L, OTL",0.7267,0.3857,0.0408
+"year, lgID, oppID, W, T, OTL",0.8685,0.1654,0.0319
+"year, lgID, oppID, L, T, OTL",0.8665,0.1654,0.0309
+"year, lgID, W, L, T, OTL",0.8378,0.1654,0.0319
+"year, tmID, oppID, W, L, T",1.0000,0.7797,0.0608
+"year, tmID, oppID, W, L, OTL",1.0000,0.3857,0.0448
+"year, tmID, oppID, W, T, OTL",1.0000,0.1654,0.0329
+"year, tmID, oppID, L, T, OTL",1.0000,0.1654,0.0320
+"year, tmID, W, L, T, OTL",0.9024,0.1654,0.0319
+"year, oppID, W, L, T, OTL",0.9015,0.1654,0.0319
+"lgID, tmID, oppID, W, L, T",0.6229,0.7797,0.0608
+"lgID, tmID, oppID, W, L, OTL",0.7567,0.3857,0.0409
+"lgID, tmID, oppID, W, T, OTL",0.9236,0.1654,0.0329
+"lgID, tmID, oppID, L, T, OTL",0.9238,0.1654,0.0329
+"lgID, tmID, W, L, T, OTL",0.8585,0.1654,0.0329
+"lgID, oppID, W, L, T, OTL",0.8592,0.1654,0.0329
+"tmID, oppID, W, L, T, OTL",0.9430,0.1654,0.0329
+"year, lgID, tmID, oppID, W, L, T",1.0000,0.7797,0.0708
+"year, lgID, tmID, oppID, W, L, OTL",1.0000,0.3857,0.0478
+"year, lgID, tmID, oppID, W, T, OTL",1.0000,0.1654,0.0349
+"year, lgID, tmID, oppID, L, T, OTL",1.0000,0.1654,0.0339
+"year, lgID, tmID, W, L, T, OTL",0.9024,0.1654,0.0349
+"year, lgID, oppID, W, L, T, OTL",0.9015,0.1654,0.0350
+"year, tmID, oppID, W, L, T, OTL",1.0000,0.1654,0.0349
+"lgID, tmID, oppID, W, L, T, OTL",0.9430,0.1654,0.0359
+"year, lgID, tmID, oppID, W, L, T, OTL",1.0000,0.1654,0.0378

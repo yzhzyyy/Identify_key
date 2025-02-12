@@ -1,0 +1,256 @@
+Key,Uniqueness Ratio,Completeness Ratio,Running Time for UR
+playerID,0.0563,1.0000,0.0080
+year,0.0000,1.0000,0.0010
+stint,0.0000,1.0000,0.0020
+tmID,0.0021,1.0000,0.0010
+W,0.0000,1.0000,0.0020
+L,0.0021,1.0000,0.0010
+SA,0.0146,1.0000,0.0020
+GA,0.0063,1.0000,0.0010
+"playerID, year",0.9542,1.0000,0.0030
+"playerID, stint",0.0833,1.0000,0.0010
+"playerID, tmID",0.2375,1.0000,0.0030
+"playerID, W",0.5021,1.0000,0.0020
+"playerID, L",0.5167,1.0000,0.0020
+"playerID, SA",0.8917,1.0000,0.0020
+"playerID, GA",0.6542,1.0000,0.0010
+"year, stint",0.0042,1.0000,0.0020
+"year, tmID",0.0229,1.0000,0.0010
+"year, W",0.0313,1.0000,0.0010
+"year, L",0.0146,1.0000,0.0010
+"year, SA",0.2021,1.0000,0.0020
+"year, GA",0.0500,1.0000,0.0020
+"stint, tmID",0.0188,1.0000,0.0010
+"stint, W",0.0021,1.0000,0.0010
+"stint, L",0.0042,1.0000,0.0010
+"stint, SA",0.0313,1.0000,0.0010
+"stint, GA",0.0125,1.0000,0.0020
+"tmID, W",0.1396,1.0000,0.0010
+"tmID, L",0.1646,1.0000,0.0010
+"tmID, SA",0.6479,1.0000,0.0020
+"tmID, GA",0.3146,1.0000,0.0010
+"W, L",0.0542,1.0000,0.0020
+"W, SA",0.1729,1.0000,0.0010
+"W, GA",0.0813,1.0000,0.0010
+"L, SA",0.1896,1.0000,0.0010
+"L, GA",0.0583,1.0000,0.0010
+"SA, GA",0.2417,1.0000,0.0020
+"playerID, year, stint",1.0000,1.0000,0.0010
+"playerID, year, tmID",1.0000,1.0000,0.0020
+"playerID, year, W",0.9750,1.0000,0.0020
+"playerID, year, L",0.9875,1.0000,0.0020
+"playerID, year, SA",0.9958,1.0000,0.0020
+"playerID, year, GA",0.9917,1.0000,0.0010
+"playerID, stint, tmID",0.2583,1.0000,0.0020
+"playerID, stint, W",0.5313,1.0000,0.0010
+"playerID, stint, L",0.5479,1.0000,0.0020
+"playerID, stint, SA",0.9083,1.0000,0.0020
+"playerID, stint, GA",0.6813,1.0000,0.0020
+"playerID, tmID, W",0.7604,1.0000,0.0020
+"playerID, tmID, L",0.7333,1.0000,0.0020
+"playerID, tmID, SA",0.9375,1.0000,0.0010
+"playerID, tmID, GA",0.8229,1.0000,0.0020
+"playerID, W, L",0.8563,1.0000,0.0020
+"playerID, W, SA",0.9708,1.0000,0.0020
+"playerID, W, GA",0.9125,1.0000,0.0010
+"playerID, L, SA",0.9750,1.0000,0.0020
+"playerID, L, GA",0.8625,1.0000,0.0010
+"playerID, SA, GA",0.9667,1.0000,0.0020
+"year, stint, tmID",0.0604,1.0000,0.0020
+"year, stint, W",0.0417,1.0000,0.0020
+"year, stint, L",0.0292,1.0000,0.0020
+"year, stint, SA",0.2313,1.0000,0.0010
+"year, stint, GA",0.0688,1.0000,0.0010
+"year, tmID, W",0.7667,1.0000,0.0020
+"year, tmID, L",0.8333,1.0000,0.0010
+"year, tmID, SA",0.9375,1.0000,0.0020
+"year, tmID, GA",0.9000,1.0000,0.0010
+"year, W, L",0.2688,1.0000,0.0010
+"year, W, SA",0.6042,1.0000,0.0010
+"year, W, GA",0.4250,1.0000,0.0020
+"year, L, SA",0.6167,1.0000,0.0010
+"year, L, GA",0.2500,1.0000,0.0010
+"year, SA, GA",0.6729,1.0000,0.0010
+"stint, tmID, W",0.1750,1.0000,0.0020
+"stint, tmID, L",0.1875,1.0000,0.0020
+"stint, tmID, SA",0.6833,1.0000,0.0010
+"stint, tmID, GA",0.3500,1.0000,0.0010
+"stint, W, L",0.0708,1.0000,0.0020
+"stint, W, SA",0.1938,1.0000,0.0020
+"stint, W, GA",0.1000,1.0000,0.0010
+"stint, L, SA",0.2104,1.0000,0.0010
+"stint, L, GA",0.0708,1.0000,0.0010
+"stint, SA, GA",0.2563,1.0000,0.0010
+"tmID, W, L",0.6042,1.0000,0.0020
+"tmID, W, SA",0.8625,1.0000,0.0010
+"tmID, W, GA",0.7458,1.0000,0.0020
+"tmID, L, SA",0.8958,1.0000,0.0009
+"tmID, L, GA",0.6396,1.0000,0.0020
+"tmID, SA, GA",0.8896,1.0000,0.0010
+"W, L, SA",0.4167,1.0000,0.0010
+"W, L, GA",0.3063,1.0000,0.0010
+"W, SA, GA",0.5021,1.0000,0.0020
+"L, SA, GA",0.4833,1.0000,0.0020
+"playerID, year, stint, tmID",1.0000,1.0000,0.0010
+"playerID, year, stint, W",1.0000,1.0000,0.0020
+"playerID, year, stint, L",1.0000,1.0000,0.0010
+"playerID, year, stint, SA",1.0000,1.0000,0.0020
+"playerID, year, stint, GA",1.0000,1.0000,0.0020
+"playerID, year, tmID, W",1.0000,1.0000,0.0010
+"playerID, year, tmID, L",1.0000,1.0000,0.0020
+"playerID, year, tmID, SA",1.0000,1.0000,0.0020
+"playerID, year, tmID, GA",1.0000,1.0000,0.0010
+"playerID, year, W, L",0.9875,1.0000,0.0020
+"playerID, year, W, SA",0.9958,1.0000,0.0020
+"playerID, year, W, GA",0.9917,1.0000,0.0010
+"playerID, year, L, SA",0.9958,1.0000,0.0020
+"playerID, year, L, GA",0.9917,1.0000,0.0020
+"playerID, year, SA, GA",0.9958,1.0000,0.0030
+"playerID, stint, tmID, W",0.7604,1.0000,0.0020
+"playerID, stint, tmID, L",0.7417,1.0000,0.0020
+"playerID, stint, tmID, SA",0.9417,1.0000,0.0020
+"playerID, stint, tmID, GA",0.8271,1.0000,0.0020
+"playerID, stint, W, L",0.8708,1.0000,0.0020
+"playerID, stint, W, SA",0.9792,1.0000,0.0020
+"playerID, stint, W, GA",0.9250,1.0000,0.0010
+"playerID, stint, L, SA",0.9792,1.0000,0.0020
+"playerID, stint, L, GA",0.8688,1.0000,0.0010
+"playerID, stint, SA, GA",0.9750,1.0000,0.0020
+"playerID, tmID, W, L",0.9583,1.0000,0.0020
+"playerID, tmID, W, SA",0.9875,1.0000,0.0010
+"playerID, tmID, W, GA",0.9750,1.0000,0.0020
+"playerID, tmID, L, SA",0.9917,1.0000,0.0020
+"playerID, tmID, L, GA",0.9292,1.0000,0.0010
+"playerID, tmID, SA, GA",0.9708,1.0000,0.0020
+"playerID, W, L, SA",0.9917,1.0000,0.0020
+"playerID, W, L, GA",0.9583,1.0000,0.0020
+"playerID, W, SA, GA",0.9917,1.0000,0.0010
+"playerID, L, SA, GA",0.9917,1.0000,0.0020
+"year, stint, tmID, W",0.7958,1.0000,0.0010
+"year, stint, tmID, L",0.8583,1.0000,0.0020
+"year, stint, tmID, SA",0.9458,1.0000,0.0010
+"year, stint, tmID, GA",0.9167,1.0000,0.0020
+"year, stint, W, L",0.2917,1.0000,0.0010
+"year, stint, W, SA",0.6292,1.0000,0.0010
+"year, stint, W, GA",0.4354,1.0000,0.0010
+"year, stint, L, SA",0.6375,1.0000,0.0020
+"year, stint, L, GA",0.2667,1.0000,0.0010
+"year, stint, SA, GA",0.6792,1.0000,0.0010
+"year, tmID, W, L",0.9417,1.0000,0.0020
+"year, tmID, W, SA",0.9792,1.0000,0.0010
+"year, tmID, W, GA",0.9667,1.0000,0.0010
+"year, tmID, L, SA",0.9750,1.0000,0.0020
+"year, tmID, L, GA",0.9583,1.0000,0.0010
+"year, tmID, SA, GA",0.9667,1.0000,0.0020
+"year, W, L, SA",0.7521,1.0000,0.0020
+"year, W, L, GA",0.6333,1.0000,0.0010
+"year, W, SA, GA",0.8375,1.0000,0.0010
+"year, L, SA, GA",0.8083,1.0000,0.0020
+"stint, tmID, W, L",0.6250,1.0000,0.0020
+"stint, tmID, W, SA",0.8750,1.0000,0.0020
+"stint, tmID, W, GA",0.7708,1.0000,0.0010
+"stint, tmID, L, SA",0.9125,1.0000,0.0019
+"stint, tmID, L, GA",0.6583,1.0000,0.0020
+"stint, tmID, SA, GA",0.9063,1.0000,0.0020
+"stint, W, L, SA",0.4333,1.0000,0.0010
+"stint, W, L, GA",0.3208,1.0000,0.0010
+"stint, W, SA, GA",0.5167,1.0000,0.0010
+"stint, L, SA, GA",0.5000,1.0000,0.0020
+"tmID, W, L, SA",0.9333,1.0000,0.0010
+"tmID, W, L, GA",0.8604,1.0000,0.0010
+"tmID, W, SA, GA",0.9500,1.0000,0.0020
+"tmID, L, SA, GA",0.9500,1.0000,0.0010
+"W, L, SA, GA",0.6646,1.0000,0.0010
+"playerID, year, stint, tmID, W",1.0000,1.0000,0.0020
+"playerID, year, stint, tmID, L",1.0000,1.0000,0.0020
+"playerID, year, stint, tmID, SA",1.0000,1.0000,0.0020
+"playerID, year, stint, tmID, GA",1.0000,1.0000,0.0020
+"playerID, year, stint, W, L",1.0000,1.0000,0.0010
+"playerID, year, stint, W, SA",1.0000,1.0000,0.0020
+"playerID, year, stint, W, GA",1.0000,1.0000,0.0020
+"playerID, year, stint, L, SA",1.0000,1.0000,0.0020
+"playerID, year, stint, L, GA",1.0000,1.0000,0.0020
+"playerID, year, stint, SA, GA",1.0000,1.0000,0.0020
+"playerID, year, tmID, W, L",1.0000,1.0000,0.0020
+"playerID, year, tmID, W, SA",1.0000,1.0000,0.0030
+"playerID, year, tmID, W, GA",1.0000,1.0000,0.0030
+"playerID, year, tmID, L, SA",1.0000,1.0000,0.0030
+"playerID, year, tmID, L, GA",1.0000,1.0000,0.0040
+"playerID, year, tmID, SA, GA",1.0000,1.0000,0.0050
+"playerID, year, W, L, SA",0.9958,1.0000,0.0040
+"playerID, year, W, L, GA",0.9917,1.0000,0.0040
+"playerID, year, W, SA, GA",0.9958,1.0000,0.0040
+"playerID, year, L, SA, GA",0.9958,1.0000,0.0040
+"playerID, stint, tmID, W, L",0.9583,1.0000,0.0030
+"playerID, stint, tmID, W, SA",0.9875,1.0000,0.0020
+"playerID, stint, tmID, W, GA",0.9750,1.0000,0.0050
+"playerID, stint, tmID, L, SA",0.9917,1.0000,0.0020
+"playerID, stint, tmID, L, GA",0.9292,1.0000,0.0020
+"playerID, stint, tmID, SA, GA",0.9750,1.0000,0.0030
+"playerID, stint, W, L, SA",0.9958,1.0000,0.0040
+"playerID, stint, W, L, GA",0.9667,1.0000,0.0030
+"playerID, stint, W, SA, GA",0.9958,1.0000,0.0040
+"playerID, stint, L, SA, GA",0.9958,1.0000,0.0030
+"playerID, tmID, W, L, SA",1.0000,1.0000,0.0030
+"playerID, tmID, W, L, GA",0.9917,1.0000,0.0020
+"playerID, tmID, W, SA, GA",0.9958,1.0000,0.0030
+"playerID, tmID, L, SA, GA",0.9958,1.0000,0.0020
+"playerID, W, L, SA, GA",0.9958,1.0000,0.0030
+"year, stint, tmID, W, L",0.9542,1.0000,0.0030
+"year, stint, tmID, W, SA",0.9833,1.0000,0.0030
+"year, stint, tmID, W, GA",0.9750,1.0000,0.0030
+"year, stint, tmID, L, SA",0.9833,1.0000,0.0030
+"year, stint, tmID, L, GA",0.9708,1.0000,0.0040
+"year, stint, tmID, SA, GA",0.9750,1.0000,0.0030
+"year, stint, W, L, SA",0.7667,1.0000,0.0020
+"year, stint, W, L, GA",0.6500,1.0000,0.0020
+"year, stint, W, SA, GA",0.8458,1.0000,0.0020
+"year, stint, L, SA, GA",0.8167,1.0000,0.0020
+"year, tmID, W, L, SA",0.9875,1.0000,0.0030
+"year, tmID, W, L, GA",0.9750,1.0000,0.0040
+"year, tmID, W, SA, GA",0.9917,1.0000,0.0050
+"year, tmID, L, SA, GA",0.9833,1.0000,0.0020
+"year, W, L, SA, GA",0.8625,1.0000,0.0010
+"stint, tmID, W, L, SA",0.9458,1.0000,0.0020
+"stint, tmID, W, L, GA",0.8771,1.0000,0.0010
+"stint, tmID, W, SA, GA",0.9583,1.0000,0.0020
+"stint, tmID, L, SA, GA",0.9625,1.0000,0.0020
+"stint, W, L, SA, GA",0.6729,1.0000,0.0010
+"tmID, W, L, SA, GA",0.9708,1.0000,0.0020
+"playerID, year, stint, tmID, W, L",1.0000,1.0000,0.0020
+"playerID, year, stint, tmID, W, SA",1.0000,1.0000,0.0020
+"playerID, year, stint, tmID, W, GA",1.0000,1.0000,0.0020
+"playerID, year, stint, tmID, L, SA",1.0000,1.0000,0.0020
+"playerID, year, stint, tmID, L, GA",1.0000,1.0000,0.0020
+"playerID, year, stint, tmID, SA, GA",1.0000,1.0000,0.0030
+"playerID, year, stint, W, L, SA",1.0000,1.0000,0.0020
+"playerID, year, stint, W, L, GA",1.0000,1.0000,0.0020
+"playerID, year, stint, W, SA, GA",1.0000,1.0000,0.0020
+"playerID, year, stint, L, SA, GA",1.0000,1.0000,0.0020
+"playerID, year, tmID, W, L, SA",1.0000,1.0000,0.0030
+"playerID, year, tmID, W, L, GA",1.0000,1.0000,0.0030
+"playerID, year, tmID, W, SA, GA",1.0000,1.0000,0.0020
+"playerID, year, tmID, L, SA, GA",1.0000,1.0000,0.0030
+"playerID, year, W, L, SA, GA",0.9958,1.0000,0.0020
+"playerID, stint, tmID, W, L, SA",1.0000,1.0000,0.0030
+"playerID, stint, tmID, W, L, GA",0.9917,1.0000,0.0040
+"playerID, stint, tmID, W, SA, GA",0.9958,1.0000,0.0030
+"playerID, stint, tmID, L, SA, GA",0.9958,1.0000,0.0050
+"playerID, stint, W, L, SA, GA",1.0000,1.0000,0.0030
+"playerID, tmID, W, L, SA, GA",1.0000,1.0000,0.0020
+"year, stint, tmID, W, L, SA",0.9917,1.0000,0.0020
+"year, stint, tmID, W, L, GA",0.9833,1.0000,0.0020
+"year, stint, tmID, W, SA, GA",0.9958,1.0000,0.0030
+"year, stint, tmID, L, SA, GA",0.9917,1.0000,0.0020
+"year, stint, W, L, SA, GA",0.8667,1.0000,0.0010
+"year, tmID, W, L, SA, GA",0.9917,1.0000,0.0020
+"stint, tmID, W, L, SA, GA",0.9792,1.0000,0.0010
+"playerID, year, stint, tmID, W, L, SA",1.0000,1.0000,0.0030
+"playerID, year, stint, tmID, W, L, GA",1.0000,1.0000,0.0020
+"playerID, year, stint, tmID, W, SA, GA",1.0000,1.0000,0.0020
+"playerID, year, stint, tmID, L, SA, GA",1.0000,1.0000,0.0020
+"playerID, year, stint, W, L, SA, GA",1.0000,1.0000,0.0020
+"playerID, year, tmID, W, L, SA, GA",1.0000,1.0000,0.0030
+"playerID, stint, tmID, W, L, SA, GA",1.0000,1.0000,0.0020
+"year, stint, tmID, W, L, SA, GA",0.9958,1.0000,0.0030
+"playerID, year, stint, tmID, W, L, SA, GA",1.0000,1.0000,0.0020
