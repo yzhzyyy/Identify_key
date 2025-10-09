@@ -1,0 +1,32 @@
+Key,Uniqueness Ratio,Completeness Ratio,Running Time for UR
+playerID,0.1935,1.0000,0.0080
+year,0.0000,1.0000,0.0010
+tmID,0.2903,1.0000,0.0000
+lgID,0.0000,1.0000,0.0000
+GP,0.0645,1.0000,0.0000
+"playerID, year",1.0000,1.0000,0.0000
+"playerID, tmID",0.3226,1.0000,0.0000
+"playerID, lgID",0.2903,1.0000,0.0010
+"playerID, GP",0.4194,1.0000,0.0010
+"year, tmID",0.9355,1.0000,0.0010
+"year, lgID",0.9355,1.0000,0.0000
+"year, GP",0.1613,1.0000,0.0000
+"tmID, lgID",0.2903,1.0000,0.0010
+"tmID, GP",0.5806,1.0000,0.0000
+"lgID, GP",0.1613,1.0000,0.0000
+"playerID, year, tmID",1.0000,1.0000,0.0010
+"playerID, year, lgID",1.0000,1.0000,0.0000
+"playerID, year, GP",1.0000,1.0000,0.0000
+"playerID, tmID, lgID",0.3226,1.0000,0.0000
+"playerID, tmID, GP",0.5806,1.0000,0.0000
+"playerID, lgID, GP",0.5806,1.0000,0.0000
+"year, tmID, lgID",0.9355,1.0000,0.0000
+"year, tmID, GP",1.0000,1.0000,0.0000
+"year, lgID, GP",1.0000,1.0000,0.0000
+"tmID, lgID, GP",0.5806,1.0000,0.0000
+"playerID, year, tmID, lgID",1.0000,1.0000,0.0000
+"playerID, year, tmID, GP",1.0000,1.0000,0.0000
+"playerID, year, lgID, GP",1.0000,1.0000,0.0000
+"playerID, tmID, lgID, GP",0.5806,1.0000,0.0000
+"year, tmID, lgID, GP",1.0000,1.0000,0.0000
+"playerID, year, tmID, lgID, GP",1.0000,1.0000,0.0010

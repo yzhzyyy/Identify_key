@@ -1,0 +1,8 @@
+Key,Uniqueness Ratio,Completeness Ratio,Running Time for UR
+Type,0.0000,1.0000,0.0090
+Code,0.6552,1.0000,0.0010
+Fullname,1.0000,1.0000,0.0010
+"Type, Code",1.0000,1.0000,0.0010
+"Type, Fullname",1.0000,1.0000,0.0000
+"Code, Fullname",1.0000,1.0000,0.0010
+"Type, Code, Fullname",1.0000,1.0000,0.0010

@@ -1,0 +1,64 @@
+Key,Uniqueness Ratio,Completeness Ratio,Running Time for UR
+name,1.0000,1.0000,0.0100
+ID,1.0000,0.6855,0.0010
+award,0.0000,1.0000,0.0000
+year,0.0565,1.0000,0.0000
+lgID,0.0000,1.0000,0.0010
+note,0.8790,0.1210,0.0010
+"name, ID",1.0000,0.6855,0.0010
+"name, award",1.0000,1.0000,0.0010
+"name, year",1.0000,1.0000,0.0000
+"name, lgID",1.0000,1.0000,0.0010
+"name, note",1.0000,0.1210,0.0010
+"ID, award",1.0000,0.6855,0.0010
+"ID, year",1.0000,0.6855,0.0010
+"ID, lgID",1.0000,0.6855,0.0010
+"ID, note",1.0000,0.0968,0.0010
+"award, year",0.0565,1.0000,0.0000
+"award, lgID",0.0000,1.0000,0.0000
+"award, note",0.8790,0.1210,0.0000
+"year, lgID",0.0565,1.0000,0.0000
+"year, note",0.9355,0.1210,0.0000
+"lgID, note",0.8790,0.1210,0.0000
+"name, ID, award",1.0000,0.6855,0.0010
+"name, ID, year",1.0000,0.6855,0.0010
+"name, ID, lgID",1.0000,0.6855,0.0000
+"name, ID, note",1.0000,0.0968,0.0000
+"name, award, year",1.0000,1.0000,0.0000
+"name, award, lgID",1.0000,1.0000,0.0000
+"name, award, note",1.0000,0.1210,0.0000
+"name, year, lgID",1.0000,1.0000,0.0000
+"name, year, note",1.0000,0.1210,0.0000
+"name, lgID, note",1.0000,0.1210,0.0000
+"ID, award, year",1.0000,0.6855,0.0010
+"ID, award, lgID",1.0000,0.6855,0.0010
+"ID, award, note",1.0000,0.0968,0.0010
+"ID, year, lgID",1.0000,0.6855,0.0010
+"ID, year, note",1.0000,0.0968,0.0010
+"ID, lgID, note",1.0000,0.0968,0.0010
+"award, year, lgID",0.0565,1.0000,0.0010
+"award, year, note",0.9355,0.1210,0.0010
+"award, lgID, note",0.8790,0.1210,0.0010
+"year, lgID, note",0.9355,0.1210,0.0010
+"name, ID, award, year",1.0000,0.6855,0.0010
+"name, ID, award, lgID",1.0000,0.6855,0.0000
+"name, ID, award, note",1.0000,0.0968,0.0010
+"name, ID, year, lgID",1.0000,0.6855,0.0010
+"name, ID, year, note",1.0000,0.0968,0.0010
+"name, ID, lgID, note",1.0000,0.0968,0.0010
+"name, award, year, lgID",1.0000,1.0000,0.0000
+"name, award, year, note",1.0000,0.1210,0.0000
+"name, award, lgID, note",1.0000,0.1210,0.0000
+"name, year, lgID, note",1.0000,0.1210,0.0000
+"ID, award, year, lgID",1.0000,0.6855,0.0010
+"ID, award, year, note",1.0000,0.0968,0.0000
+"ID, award, lgID, note",1.0000,0.0968,0.0000
+"ID, year, lgID, note",1.0000,0.0968,0.0000
+"award, year, lgID, note",0.9355,0.1210,0.0000
+"name, ID, award, year, lgID",1.0000,0.6855,0.0000
+"name, ID, award, year, note",1.0000,0.0968,0.0010
+"name, ID, award, lgID, note",1.0000,0.0968,0.0010
+"name, ID, year, lgID, note",1.0000,0.0968,0.0010
+"name, award, year, lgID, note",1.0000,0.1210,0.0010
+"ID, award, year, lgID, note",1.0000,0.0968,0.0010
+"name, ID, award, year, lgID, note",1.0000,0.0968,0.0010

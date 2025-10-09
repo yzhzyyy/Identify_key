@@ -1,0 +1,32 @@
+Key,Uniqueness Ratio,Completeness Ratio,Running Time for UR
+coachID,0.4675,1.0000,0.0000
+award,0.0000,1.0000,0.0010
+year,0.4286,1.0000,0.0010
+lgID,0.0000,1.0000,0.0010
+note,1.0000,0.0000,0.0010
+"coachID, award",0.5714,1.0000,0.0010
+"coachID, year",1.0000,1.0000,0.0010
+"coachID, lgID",0.4935,1.0000,0.0010
+"coachID, note",1.0000,0.0000,0.0010
+"award, year",1.0000,1.0000,0.0010
+"award, lgID",0.0000,1.0000,0.0010
+"award, note",1.0000,0.0000,0.0010
+"year, lgID",0.5844,1.0000,0.0010
+"year, note",1.0000,0.0000,0.0010
+"lgID, note",1.0000,0.0000,0.0010
+"coachID, award, year",1.0000,1.0000,0.0010
+"coachID, award, lgID",0.5714,1.0000,0.0010
+"coachID, award, note",1.0000,0.0000,0.0010
+"coachID, year, lgID",1.0000,1.0000,0.0010
+"coachID, year, note",1.0000,0.0000,0.0010
+"coachID, lgID, note",1.0000,0.0000,0.0010
+"award, year, lgID",1.0000,1.0000,0.0010
+"award, year, note",1.0000,0.0000,0.0010
+"award, lgID, note",1.0000,0.0000,0.0010
+"year, lgID, note",1.0000,0.0000,0.0010
+"coachID, award, year, lgID",1.0000,1.0000,0.0010
+"coachID, award, year, note",1.0000,0.0000,0.0010
+"coachID, award, lgID, note",1.0000,0.0000,0.0010
+"coachID, year, lgID, note",1.0000,0.0000,0.0010
+"award, year, lgID, note",1.0000,0.0000,0.0010
+"coachID, award, year, lgID, note",1.0000,0.0000,0.0010

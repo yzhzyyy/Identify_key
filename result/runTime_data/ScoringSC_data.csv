@@ -1,0 +1,64 @@
+Key,Uniqueness Ratio,Completeness Ratio,Running Time for UR
+playerID,0.2570,1.0000,0.0080
+year,0.0000,1.0000,0.0010
+tmID,0.0000,1.0000,0.0010
+lgID,0.0000,1.0000,0.0020
+pos,0.0070,1.0000,0.0010
+GP,0.0000,1.0000,0.0010
+"playerID, year",1.0000,1.0000,0.0010
+"playerID, tmID",0.4683,1.0000,0.0010
+"playerID, lgID",0.3697,1.0000,0.0010
+"playerID, pos",0.3275,1.0000,0.0010
+"playerID, GP",0.5810,1.0000,0.0010
+"year, tmID",0.0000,1.0000,0.0010
+"year, lgID",0.0000,1.0000,0.0020
+"year, pos",0.0493,1.0000,0.0020
+"year, GP",0.0317,1.0000,0.0020
+"tmID, lgID",0.0000,1.0000,0.0010
+"tmID, pos",0.0915,1.0000,0.0010
+"tmID, GP",0.0246,1.0000,0.0010
+"lgID, pos",0.0141,1.0000,0.0010
+"lgID, GP",0.0035,1.0000,0.0010
+"pos, GP",0.0282,1.0000,0.0010
+"playerID, year, tmID",1.0000,1.0000,0.0010
+"playerID, year, lgID",1.0000,1.0000,0.0010
+"playerID, year, pos",1.0000,1.0000,0.0010
+"playerID, year, GP",1.0000,1.0000,0.0010
+"playerID, tmID, lgID",0.4683,1.0000,0.0020
+"playerID, tmID, pos",0.5070,1.0000,0.0010
+"playerID, tmID, GP",0.6796,1.0000,0.0010
+"playerID, lgID, pos",0.4331,1.0000,0.0010
+"playerID, lgID, GP",0.6303,1.0000,0.0020
+"playerID, pos, GP",0.6197,1.0000,0.0010
+"year, tmID, lgID",0.0000,1.0000,0.0010
+"year, tmID, pos",0.2817,1.0000,0.0010
+"year, tmID, GP",0.0458,1.0000,0.0010
+"year, lgID, pos",0.2817,1.0000,0.0010
+"year, lgID, GP",0.0458,1.0000,0.0010
+"year, pos, GP",0.1866,1.0000,0.0010
+"tmID, lgID, pos",0.0915,1.0000,0.0010
+"tmID, lgID, GP",0.0246,1.0000,0.0010
+"tmID, pos, GP",0.2254,1.0000,0.0010
+"lgID, pos, GP",0.0634,1.0000,0.0020
+"playerID, year, tmID, lgID",1.0000,1.0000,0.0020
+"playerID, year, tmID, pos",1.0000,1.0000,0.0020
+"playerID, year, tmID, GP",1.0000,1.0000,0.0010
+"playerID, year, lgID, pos",1.0000,1.0000,0.0010
+"playerID, year, lgID, GP",1.0000,1.0000,0.0010
+"playerID, year, pos, GP",1.0000,1.0000,0.0020
+"playerID, tmID, lgID, pos",0.5070,1.0000,0.0010
+"playerID, tmID, lgID, GP",0.6796,1.0000,0.0010
+"playerID, tmID, pos, GP",0.7183,1.0000,0.0010
+"playerID, lgID, pos, GP",0.6761,1.0000,0.0010
+"year, tmID, lgID, pos",0.2817,1.0000,0.0010
+"year, tmID, lgID, GP",0.0458,1.0000,0.0010
+"year, tmID, pos, GP",0.4190,1.0000,0.0010
+"year, lgID, pos, GP",0.4190,1.0000,0.0010
+"tmID, lgID, pos, GP",0.2254,1.0000,0.0010
+"playerID, year, tmID, lgID, pos",1.0000,1.0000,0.0010
+"playerID, year, tmID, lgID, GP",1.0000,1.0000,0.0020
+"playerID, year, tmID, pos, GP",1.0000,1.0000,0.0010
+"playerID, year, lgID, pos, GP",1.0000,1.0000,0.0010
+"playerID, tmID, lgID, pos, GP",0.7183,1.0000,0.0020
+"year, tmID, lgID, pos, GP",0.4190,1.0000,0.0020
+"playerID, year, tmID, lgID, pos, GP",1.0000,1.0000,0.0010

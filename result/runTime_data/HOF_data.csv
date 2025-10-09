@@ -1,0 +1,16 @@
+Key,Uniqueness Ratio,Completeness Ratio,Running Time for UR
+hofID,1.0000,1.0000,0.0100
+year,0.0000,1.0000,0.0010
+name,0.9945,1.0000,0.0010
+category,0.0000,1.0000,0.0010
+"hofID, year",1.0000,1.0000,0.0020
+"hofID, name",1.0000,1.0000,0.0020
+"hofID, category",1.0000,1.0000,0.0020
+"year, name",1.0000,1.0000,0.0010
+"year, category",0.1205,1.0000,0.0020
+"name, category",0.9945,1.0000,0.0010
+"hofID, year, name",1.0000,1.0000,0.0020
+"hofID, year, category",1.0000,1.0000,0.0010
+"hofID, name, category",1.0000,1.0000,0.0010
+"year, name, category",1.0000,1.0000,0.0020
+"hofID, year, name, category",1.0000,1.0000,0.0020

@@ -1,0 +1,64 @@
+Key,Uniqueness Ratio,Completeness Ratio,Running Time for UR
+playerID,0.1468,1.0000,0.0030
+award,0.0000,1.0000,0.0030
+year,0.0029,1.0000,0.0020
+lgID,0.0000,1.0000,0.0030
+note,0.9393,0.0607,0.0020
+pos,0.4113,0.5887,0.0020
+"playerID, award",0.4405,1.0000,0.0020
+"playerID, year",0.5308,1.0000,0.0030
+"playerID, lgID",0.1497,1.0000,0.0040
+"playerID, note",0.9785,0.0607,0.0020
+"playerID, pos",0.5562,0.5887,0.0040
+"award, year",0.3725,1.0000,0.0040
+"award, lgID",0.0000,1.0000,0.0040
+"award, note",0.9393,0.0607,0.0020
+"award, pos",0.4113,0.5887,0.0030
+"year, lgID",0.0029,1.0000,0.0030
+"year, note",0.9593,0.0607,0.0020
+"year, pos",0.4113,0.5887,0.0030
+"lgID, note",0.9393,0.0607,0.0030
+"lgID, pos",0.4113,0.5887,0.0030
+"note, pos",0.9981,0.0019,0.0020
+"playerID, award, year",1.0000,1.0000,0.0020
+"playerID, award, lgID",0.4429,1.0000,0.0060
+"playerID, award, note",0.9813,0.0607,0.0020
+"playerID, award, pos",0.6351,0.5887,0.0040
+"playerID, year, lgID",0.5308,1.0000,0.0050
+"playerID, year, note",1.0000,0.0607,0.0020
+"playerID, year, pos",0.9943,0.5887,0.0040
+"playerID, lgID, note",0.9785,0.0607,0.0030
+"playerID, lgID, pos",0.5571,0.5887,0.0040
+"playerID, note, pos",1.0000,0.0019,0.0030
+"award, year, lgID",0.3725,1.0000,0.0050
+"award, year, note",0.9593,0.0607,0.0030
+"award, year, pos",0.7231,0.5887,0.0030
+"award, lgID, note",0.9393,0.0607,0.0030
+"award, lgID, pos",0.4113,0.5887,0.0040
+"award, note, pos",0.9981,0.0019,0.0030
+"year, lgID, note",0.9593,0.0607,0.0030
+"year, lgID, pos",0.4113,0.5887,0.0030
+"year, note, pos",0.9981,0.0019,0.0030
+"lgID, note, pos",0.9981,0.0019,0.0030
+"playerID, award, year, lgID",1.0000,1.0000,0.0070
+"playerID, award, year, note",1.0000,0.0607,0.0030
+"playerID, award, year, pos",1.0000,0.5887,0.0060
+"playerID, award, lgID, note",0.9813,0.0607,0.0050
+"playerID, award, lgID, pos",0.6370,0.5887,0.0050
+"playerID, award, note, pos",1.0000,0.0019,0.0020
+"playerID, year, lgID, note",1.0000,0.0607,0.0030
+"playerID, year, lgID, pos",0.9943,0.5887,0.0050
+"playerID, year, note, pos",1.0000,0.0019,0.0030
+"playerID, lgID, note, pos",1.0000,0.0019,0.0030
+"award, year, lgID, note",0.9593,0.0607,0.0040
+"award, year, lgID, pos",0.7767,0.5887,0.0050
+"award, year, note, pos",0.9981,0.0019,0.0030
+"award, lgID, note, pos",0.9981,0.0019,0.0030
+"year, lgID, note, pos",0.9981,0.0019,0.0030
+"playerID, award, year, lgID, note",1.0000,0.0607,0.0040
+"playerID, award, year, lgID, pos",1.0000,0.5887,0.0060
+"playerID, award, year, note, pos",1.0000,0.0019,0.0030
+"playerID, award, lgID, note, pos",1.0000,0.0019,0.0030
+"playerID, year, lgID, note, pos",1.0000,0.0019,0.0030
+"award, year, lgID, note, pos",0.9981,0.0019,0.0030
+"playerID, award, year, lgID, note, pos",1.0000,0.0019,0.0030

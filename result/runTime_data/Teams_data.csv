@@ -1,0 +1,1024 @@
+Key,Uniqueness Ratio,Completeness Ratio,Running Time for UR
+year,0.0000,1.0000,0.0020
+tmID,0.0158,1.0000,0.0000
+name,0.0138,1.0000,0.0030
+lgID,0.0000,1.0000,0.0030
+franchID,0.0026,1.0000,0.0020
+playoff,0.3851,0.6162,0.0020
+confID,0.4062,0.5938,0.0020
+divID,0.2291,0.7709,0.0020
+GF,0.0402,1.0000,0.0020
+rank,0.0000,1.0000,0.0020
+"year, tmID",1.0000,1.0000,0.0010
+"year, name",1.0000,1.0000,0.0030
+"year, lgID",0.0000,1.0000,0.0030
+"year, franchID",1.0000,1.0000,0.0020
+"year, playoff",0.5438,0.6162,0.0020
+"year, confID",0.4062,0.5938,0.0020
+"year, divID",0.2291,0.7709,0.0020
+"year, GF",0.8275,1.0000,0.0030
+"year, rank",0.1534,1.0000,0.0020
+"tmID, name",0.0171,1.0000,0.0030
+"tmID, lgID",0.0158,1.0000,0.0020
+"tmID, franchID",0.0158,1.0000,0.0020
+"tmID, playoff",0.4595,0.6162,0.0020
+"tmID, confID",0.4082,0.5938,0.0020
+"tmID, divID",0.2449,0.7709,0.0030
+"tmID, GF",0.8348,1.0000,0.0030
+"tmID, rank",0.0994,1.0000,0.0030
+"name, lgID",0.0158,1.0000,0.0030
+"name, franchID",0.0158,1.0000,0.0030
+"name, playoff",0.4582,0.6162,0.0030
+"name, confID",0.4082,0.5938,0.0030
+"name, divID",0.2449,0.7709,0.0030
+"name, GF",0.8302,1.0000,0.0040
+"name, rank",0.0889,1.0000,0.0030
+"lgID, franchID",0.0033,1.0000,0.0030
+"lgID, playoff",0.3878,0.6162,0.0020
+"lgID, confID",0.4062,0.5938,0.0030
+"lgID, divID",0.2291,0.7709,0.0030
+"lgID, GF",0.1139,1.0000,0.0020
+"lgID, rank",0.0007,1.0000,0.0020
+"franchID, playoff",0.4483,0.6162,0.0030
+"franchID, confID",0.4075,0.5938,0.0020
+"franchID, divID",0.2330,0.7709,0.0020
+"franchID, GF",0.8097,1.0000,0.0030
+"franchID, rank",0.0500,1.0000,0.0020
+"playoff, confID",0.6234,0.3766,0.0020
+"playoff, divID",0.5188,0.4885,0.0030
+"playoff, GF",0.7670,0.6162,0.0020
+"playoff, rank",0.3950,0.6162,0.0020
+"confID, divID",0.4062,0.5938,0.0020
+"confID, GF",0.5484,0.5938,0.0020
+"confID, rank",0.4062,0.5938,0.0020
+"divID, GF",0.6682,0.7709,0.0030
+"divID, rank",0.2298,0.7709,0.0030
+"GF, rank",0.4167,1.0000,0.0020
+"year, tmID, name",1.0000,1.0000,0.0040
+"year, tmID, lgID",1.0000,1.0000,0.0030
+"year, tmID, franchID",1.0000,1.0000,0.0030
+"year, tmID, playoff",1.0000,0.6162,0.0030
+"year, tmID, confID",1.0000,0.5938,0.0050
+"year, tmID, divID",1.0000,0.7709,0.0030
+"year, tmID, GF",1.0000,1.0000,0.0030
+"year, tmID, rank",1.0000,1.0000,0.0030
+"year, name, lgID",1.0000,1.0000,0.0070
+"year, name, franchID",1.0000,1.0000,0.0050
+"year, name, playoff",1.0000,0.6162,0.0030
+"year, name, confID",1.0000,0.5938,0.0050
+"year, name, divID",1.0000,0.7709,0.0040
+"year, name, GF",1.0000,1.0000,0.0040
+"year, name, rank",1.0000,1.0000,0.0040
+"year, lgID, franchID",1.0000,1.0000,0.0050
+"year, lgID, playoff",0.5451,0.6162,0.0050
+"year, lgID, confID",0.4062,0.5938,0.0030
+"year, lgID, divID",0.2291,0.7709,0.0030
+"year, lgID, GF",0.8354,1.0000,0.0040
+"year, lgID, rank",0.2357,1.0000,0.0030
+"year, franchID, playoff",1.0000,0.6162,0.0030
+"year, franchID, confID",1.0000,0.5938,0.0040
+"year, franchID, divID",1.0000,0.7709,0.0030
+"year, franchID, GF",1.0000,1.0000,0.0030
+"year, franchID, rank",1.0000,1.0000,0.0040
+"year, playoff, confID",0.7209,0.3766,0.0030
+"year, playoff, divID",0.7841,0.4885,0.0030
+"year, playoff, GF",0.9710,0.6162,0.0040
+"year, playoff, rank",0.7406,0.6162,0.0030
+"year, confID, divID",0.4062,0.5938,0.0020
+"year, confID, GF",0.9302,0.5938,0.0030
+"year, confID, rank",0.4266,0.5938,0.0030
+"year, divID, GF",0.9638,0.7709,0.0040
+"year, divID, rank",1.0000,0.7709,0.0040
+"year, GF, rank",0.9651,1.0000,0.0030
+"tmID, name, lgID",0.0171,1.0000,0.0040
+"tmID, name, franchID",0.0171,1.0000,0.0040
+"tmID, name, playoff",0.4608,0.6162,0.0030
+"tmID, name, confID",0.4082,0.5938,0.0020
+"tmID, name, divID",0.2449,0.7709,0.0030
+"tmID, name, GF",0.8381,1.0000,0.0050
+"tmID, name, rank",0.0994,1.0000,0.0040
+"tmID, lgID, franchID",0.0158,1.0000,0.0030
+"tmID, lgID, playoff",0.4595,0.6162,0.0040
+"tmID, lgID, confID",0.4082,0.5938,0.0030
+"tmID, lgID, divID",0.2449,0.7709,0.0030
+"tmID, lgID, GF",0.8348,1.0000,0.0030
+"tmID, lgID, rank",0.0994,1.0000,0.0030
+"tmID, franchID, playoff",0.4595,0.6162,0.0020
+"tmID, franchID, confID",0.4082,0.5938,0.0020
+"tmID, franchID, divID",0.2449,0.7709,0.0030
+"tmID, franchID, GF",0.8348,1.0000,0.0040
+"tmID, franchID, rank",0.0994,1.0000,0.0030
+"tmID, playoff, confID",0.6794,0.3766,0.0030
+"tmID, playoff, divID",0.6116,0.4885,0.0030
+"tmID, playoff, GF",0.9803,0.6162,0.0030
+"tmID, playoff, rank",0.6043,0.6162,0.0030
+"tmID, confID, divID",0.4101,0.5938,0.0020
+"tmID, confID, GF",0.9408,0.5938,0.0030
+"tmID, confID, rank",0.4589,0.5938,0.0030
+"tmID, divID, GF",0.9355,0.7709,0.0030
+"tmID, divID, rank",0.3614,0.7709,0.0050
+"tmID, GF, rank",0.9664,1.0000,0.0030
+"name, lgID, franchID",0.0171,1.0000,0.0030
+"name, lgID, playoff",0.4608,0.6162,0.0030
+"name, lgID, confID",0.4082,0.5938,0.0030
+"name, lgID, divID",0.2449,0.7709,0.0030
+"name, lgID, GF",0.8381,1.0000,0.0040
+"name, lgID, rank",0.0974,1.0000,0.0040
+"name, franchID, playoff",0.4595,0.6162,0.0030
+"name, franchID, confID",0.4082,0.5938,0.0030
+"name, franchID, divID",0.2449,0.7709,0.0030
+"name, franchID, GF",0.8302,1.0000,0.0040
+"name, franchID, rank",0.0902,1.0000,0.0030
+"name, playoff, confID",0.6794,0.3766,0.0030
+"name, playoff, divID",0.6116,0.4885,0.0030
+"name, playoff, GF",0.9803,0.6162,0.0030
+"name, playoff, rank",0.6090,0.6162,0.0030
+"name, confID, divID",0.4101,0.5938,0.0030
+"name, confID, GF",0.9408,0.5938,0.0030
+"name, confID, rank",0.4602,0.5938,0.0020
+"name, divID, GF",0.9355,0.7709,0.0040
+"name, divID, rank",0.3634,0.7709,0.0030
+"name, GF, rank",0.9664,1.0000,0.0040
+"lgID, franchID, playoff",0.4496,0.6162,0.0030
+"lgID, franchID, confID",0.4075,0.5938,0.0030
+"lgID, franchID, divID",0.2330,0.7709,0.0030
+"lgID, franchID, GF",0.8196,1.0000,0.0030
+"lgID, franchID, rank",0.0632,1.0000,0.0030
+"lgID, playoff, confID",0.6234,0.3766,0.0020
+"lgID, playoff, divID",0.5188,0.4885,0.0020
+"lgID, playoff, GF",0.7683,0.6162,0.0030
+"lgID, playoff, rank",0.4003,0.6162,0.0030
+"lgID, confID, divID",0.4062,0.5938,0.0030
+"lgID, confID, GF",0.5484,0.5938,0.0030
+"lgID, confID, rank",0.4062,0.5938,0.0030
+"lgID, divID, GF",0.6682,0.7709,0.0030
+"lgID, divID, rank",0.2298,0.7709,0.0030
+"lgID, GF, rank",0.4845,1.0000,0.0040
+"franchID, playoff, confID",0.6768,0.3766,0.0030
+"franchID, playoff, divID",0.6076,0.4885,0.0030
+"franchID, playoff, GF",0.9789,0.6162,0.0030
+"franchID, playoff, rank",0.5958,0.6162,0.0030
+"franchID, confID, divID",0.4082,0.5938,0.0030
+"franchID, confID, GF",0.9381,0.5938,0.0030
+"franchID, confID, rank",0.4549,0.5938,0.0020
+"franchID, divID, GF",0.9315,0.7709,0.0030
+"franchID, divID, rank",0.3496,0.7709,0.0030
+"franchID, GF, rank",0.9598,1.0000,0.0030
+"playoff, confID, divID",0.6261,0.3766,0.0030
+"playoff, confID, GF",0.9019,0.3766,0.0030
+"playoff, confID, rank",0.6300,0.3766,0.0020
+"playoff, divID, GF",0.9388,0.4885,0.0030
+"playoff, divID, rank",0.5609,0.4885,0.0030
+"playoff, GF, rank",0.9171,0.6162,0.0030
+"confID, divID, GF",0.7419,0.5938,0.0030
+"confID, divID, rank",0.4068,0.5938,0.0030
+"confID, GF, rank",0.8275,0.5938,0.0030
+"divID, GF, rank",0.9138,0.7709,0.0030
+"year, tmID, name, lgID",1.0000,1.0000,0.0050
+"year, tmID, name, franchID",1.0000,1.0000,0.0040
+"year, tmID, name, playoff",1.0000,0.6162,0.0030
+"year, tmID, name, confID",1.0000,0.5938,0.0030
+"year, tmID, name, divID",1.0000,0.7709,0.0040
+"year, tmID, name, GF",1.0000,1.0000,0.0040
+"year, tmID, name, rank",1.0000,1.0000,0.0050
+"year, tmID, lgID, franchID",1.0000,1.0000,0.0040
+"year, tmID, lgID, playoff",1.0000,0.6162,0.0030
+"year, tmID, lgID, confID",1.0000,0.5938,0.0030
+"year, tmID, lgID, divID",1.0000,0.7709,0.0040
+"year, tmID, lgID, GF",1.0000,1.0000,0.0040
+"year, tmID, lgID, rank",1.0000,1.0000,0.0040
+"year, tmID, franchID, playoff",1.0000,0.6162,0.0040
+"year, tmID, franchID, confID",1.0000,0.5938,0.0030
+"year, tmID, franchID, divID",1.0000,0.7709,0.0030
+"year, tmID, franchID, GF",1.0000,1.0000,0.0040
+"year, tmID, franchID, rank",1.0000,1.0000,0.0040
+"year, tmID, playoff, confID",1.0000,0.3766,0.0030
+"year, tmID, playoff, divID",1.0000,0.4885,0.0030
+"year, tmID, playoff, GF",1.0000,0.6162,0.0030
+"year, tmID, playoff, rank",1.0000,0.6162,0.0030
+"year, tmID, confID, divID",1.0000,0.5938,0.0030
+"year, tmID, confID, GF",1.0000,0.5938,0.0030
+"year, tmID, confID, rank",1.0000,0.5938,0.0030
+"year, tmID, divID, GF",1.0000,0.7709,0.0040
+"year, tmID, divID, rank",1.0000,0.7709,0.0030
+"year, tmID, GF, rank",1.0000,1.0000,0.0040
+"year, name, lgID, franchID",1.0000,1.0000,0.0050
+"year, name, lgID, playoff",1.0000,0.6162,0.0030
+"year, name, lgID, confID",1.0000,0.5938,0.0030
+"year, name, lgID, divID",1.0000,0.7709,0.0040
+"year, name, lgID, GF",1.0000,1.0000,0.0040
+"year, name, lgID, rank",1.0000,1.0000,0.0040
+"year, name, franchID, playoff",1.0000,0.6162,0.0030
+"year, name, franchID, confID",1.0000,0.5938,0.0030
+"year, name, franchID, divID",1.0000,0.7709,0.0040
+"year, name, franchID, GF",1.0000,1.0000,0.0040
+"year, name, franchID, rank",1.0000,1.0000,0.0040
+"year, name, playoff, confID",1.0000,0.3766,0.0030
+"year, name, playoff, divID",1.0000,0.4885,0.0040
+"year, name, playoff, GF",1.0000,0.6162,0.0030
+"year, name, playoff, rank",1.0000,0.6162,0.0030
+"year, name, confID, divID",1.0000,0.5938,0.0030
+"year, name, confID, GF",1.0000,0.5938,0.0050
+"year, name, confID, rank",1.0000,0.5938,0.0040
+"year, name, divID, GF",1.0000,0.7709,0.0040
+"year, name, divID, rank",1.0000,0.7709,0.0040
+"year, name, GF, rank",1.0000,1.0000,0.0040
+"year, lgID, franchID, playoff",1.0000,0.6162,0.0040
+"year, lgID, franchID, confID",1.0000,0.5938,0.0030
+"year, lgID, franchID, divID",1.0000,0.7709,0.0030
+"year, lgID, franchID, GF",1.0000,1.0000,0.0040
+"year, lgID, franchID, rank",1.0000,1.0000,0.0040
+"year, lgID, playoff, confID",0.7209,0.3766,0.0020
+"year, lgID, playoff, divID",0.7841,0.4885,0.0030
+"year, lgID, playoff, GF",0.9710,0.6162,0.0030
+"year, lgID, playoff, rank",0.7419,0.6162,0.0030
+"year, lgID, confID, divID",0.4062,0.5938,0.0030
+"year, lgID, confID, GF",0.9302,0.5938,0.0030
+"year, lgID, confID, rank",0.4266,0.5938,0.0020
+"year, lgID, divID, GF",0.9638,0.7709,0.0030
+"year, lgID, divID, rank",1.0000,0.7709,0.0030
+"year, lgID, GF, rank",0.9651,1.0000,0.0030
+"year, franchID, playoff, confID",1.0000,0.3766,0.0020
+"year, franchID, playoff, divID",1.0000,0.4885,0.0030
+"year, franchID, playoff, GF",1.0000,0.6162,0.0030
+"year, franchID, playoff, rank",1.0000,0.6162,0.0030
+"year, franchID, confID, divID",1.0000,0.5938,0.0040
+"year, franchID, confID, GF",1.0000,0.5938,0.0030
+"year, franchID, confID, rank",1.0000,0.5938,0.0030
+"year, franchID, divID, GF",1.0000,0.7709,0.0030
+"year, franchID, divID, rank",1.0000,0.7709,0.0040
+"year, franchID, GF, rank",1.0000,1.0000,0.0040
+"year, playoff, confID, divID",0.8315,0.3766,0.0030
+"year, playoff, confID, GF",0.9855,0.3766,0.0030
+"year, playoff, confID, rank",0.8808,0.3766,0.0030
+"year, playoff, divID, GF",0.9921,0.4885,0.0030
+"year, playoff, divID, rank",1.0000,0.4885,0.0030
+"year, playoff, GF, rank",0.9882,0.6162,0.0030
+"year, confID, divID, GF",0.9717,0.5938,0.0030
+"year, confID, divID, rank",1.0000,0.5938,0.0030
+"year, confID, GF, rank",0.9901,0.5938,0.0030
+"year, divID, GF, rank",1.0000,0.7709,0.0040
+"tmID, name, lgID, franchID",0.0171,1.0000,0.0040
+"tmID, name, lgID, playoff",0.4608,0.6162,0.0040
+"tmID, name, lgID, confID",0.4082,0.5938,0.0030
+"tmID, name, lgID, divID",0.2449,0.7709,0.0040
+"tmID, name, lgID, GF",0.8381,1.0000,0.0050
+"tmID, name, lgID, rank",0.0994,1.0000,0.0040
+"tmID, name, franchID, playoff",0.4608,0.6162,0.0040
+"tmID, name, franchID, confID",0.4082,0.5938,0.0030
+"tmID, name, franchID, divID",0.2449,0.7709,0.0030
+"tmID, name, franchID, GF",0.8381,1.0000,0.0050
+"tmID, name, franchID, rank",0.0994,1.0000,0.0040
+"tmID, name, playoff, confID",0.6794,0.3766,0.0030
+"tmID, name, playoff, divID",0.6116,0.4885,0.0030
+"tmID, name, playoff, GF",0.9803,0.6162,0.0040
+"tmID, name, playoff, rank",0.6103,0.6162,0.0030
+"tmID, name, confID, divID",0.4101,0.5938,0.0030
+"tmID, name, confID, GF",0.9408,0.5938,0.0040
+"tmID, name, confID, rank",0.4602,0.5938,0.0030
+"tmID, name, divID, GF",0.9355,0.7709,0.0040
+"tmID, name, divID, rank",0.3634,0.7709,0.0030
+"tmID, name, GF, rank",0.9677,1.0000,0.0040
+"tmID, lgID, franchID, playoff",0.4595,0.6162,0.0030
+"tmID, lgID, franchID, confID",0.4082,0.5938,0.0030
+"tmID, lgID, franchID, divID",0.2449,0.7709,0.0040
+"tmID, lgID, franchID, GF",0.8348,1.0000,0.0040
+"tmID, lgID, franchID, rank",0.0994,1.0000,0.0030
+"tmID, lgID, playoff, confID",0.6794,0.3766,0.0030
+"tmID, lgID, playoff, divID",0.6116,0.4885,0.0030
+"tmID, lgID, playoff, GF",0.9803,0.6162,0.0040
+"tmID, lgID, playoff, rank",0.6043,0.6162,0.0030
+"tmID, lgID, confID, divID",0.4101,0.5938,0.0030
+"tmID, lgID, confID, GF",0.9408,0.5938,0.0030
+"tmID, lgID, confID, rank",0.4589,0.5938,0.0030
+"tmID, lgID, divID, GF",0.9355,0.7709,0.0030
+"tmID, lgID, divID, rank",0.3614,0.7709,0.0030
+"tmID, lgID, GF, rank",0.9664,1.0000,0.0040
+"tmID, franchID, playoff, confID",0.6794,0.3766,0.0020
+"tmID, franchID, playoff, divID",0.6116,0.4885,0.0030
+"tmID, franchID, playoff, GF",0.9803,0.6162,0.0040
+"tmID, franchID, playoff, rank",0.6043,0.6162,0.0030
+"tmID, franchID, confID, divID",0.4101,0.5938,0.0020
+"tmID, franchID, confID, GF",0.9408,0.5938,0.0030
+"tmID, franchID, confID, rank",0.4589,0.5938,0.0030
+"tmID, franchID, divID, GF",0.9355,0.7709,0.0030
+"tmID, franchID, divID, rank",0.3614,0.7709,0.0040
+"tmID, franchID, GF, rank",0.9664,1.0000,0.0040
+"tmID, playoff, confID, divID",0.6912,0.3766,0.0020
+"tmID, playoff, confID, GF",0.9921,0.3766,0.0030
+"tmID, playoff, confID, rank",0.7814,0.3766,0.0030
+"tmID, playoff, divID, GF",0.9908,0.4885,0.0030
+"tmID, playoff, divID, rank",0.7512,0.4885,0.0020
+"tmID, playoff, GF, rank",0.9921,0.6162,0.0030
+"tmID, confID, divID, GF",0.9487,0.5938,0.0040
+"tmID, confID, divID, rank",0.4760,0.5938,0.0030
+"tmID, confID, GF, rank",0.9862,0.5938,0.0030
+"tmID, divID, GF, rank",0.9822,0.7709,0.0030
+"name, lgID, franchID, playoff",0.4608,0.6162,0.0030
+"name, lgID, franchID, confID",0.4082,0.5938,0.0030
+"name, lgID, franchID, divID",0.2449,0.7709,0.0040
+"name, lgID, franchID, GF",0.8381,1.0000,0.0050
+"name, lgID, franchID, rank",0.0994,1.0000,0.0040
+"name, lgID, playoff, confID",0.6794,0.3766,0.0030
+"name, lgID, playoff, divID",0.6116,0.4885,0.0030
+"name, lgID, playoff, GF",0.9803,0.6162,0.0030
+"name, lgID, playoff, rank",0.6103,0.6162,0.0030
+"name, lgID, confID, divID",0.4101,0.5938,0.0030
+"name, lgID, confID, GF",0.9408,0.5938,0.0040
+"name, lgID, confID, rank",0.4602,0.5938,0.0030
+"name, lgID, divID, GF",0.9355,0.7709,0.0040
+"name, lgID, divID, rank",0.3634,0.7709,0.0040
+"name, lgID, GF, rank",0.9677,1.0000,0.0040
+"name, franchID, playoff, confID",0.6794,0.3766,0.0030
+"name, franchID, playoff, divID",0.6116,0.4885,0.0030
+"name, franchID, playoff, GF",0.9803,0.6162,0.0040
+"name, franchID, playoff, rank",0.6090,0.6162,0.0030
+"name, franchID, confID, divID",0.4101,0.5938,0.0030
+"name, franchID, confID, GF",0.9408,0.5938,0.0040
+"name, franchID, confID, rank",0.4602,0.5938,0.0040
+"name, franchID, divID, GF",0.9355,0.7709,0.0050
+"name, franchID, divID, rank",0.3634,0.7709,0.0040
+"name, franchID, GF, rank",0.9664,1.0000,0.0050
+"name, playoff, confID, divID",0.6912,0.3766,0.0030
+"name, playoff, confID, GF",0.9921,0.3766,0.0040
+"name, playoff, confID, rank",0.7847,0.3766,0.0030
+"name, playoff, divID, GF",0.9908,0.4885,0.0040
+"name, playoff, divID, rank",0.7544,0.4885,0.0040
+"name, playoff, GF, rank",0.9921,0.6162,0.0030
+"name, confID, divID, GF",0.9487,0.5938,0.0030
+"name, confID, divID, rank",0.4779,0.5938,0.0030
+"name, confID, GF, rank",0.9862,0.5938,0.0040
+"name, divID, GF, rank",0.9822,0.7709,0.0040
+"lgID, franchID, playoff, confID",0.6768,0.3766,0.0030
+"lgID, franchID, playoff, divID",0.6076,0.4885,0.0030
+"lgID, franchID, playoff, GF",0.9789,0.6162,0.0040
+"lgID, franchID, playoff, rank",0.5971,0.6162,0.0040
+"lgID, franchID, confID, divID",0.4082,0.5938,0.0040
+"lgID, franchID, confID, GF",0.9381,0.5938,0.0040
+"lgID, franchID, confID, rank",0.4549,0.5938,0.0030
+"lgID, franchID, divID, GF",0.9315,0.7709,0.0030
+"lgID, franchID, divID, rank",0.3496,0.7709,0.0030
+"lgID, franchID, GF, rank",0.9625,1.0000,0.0040
+"lgID, playoff, confID, divID",0.6261,0.3766,0.0030
+"lgID, playoff, confID, GF",0.9019,0.3766,0.0030
+"lgID, playoff, confID, rank",0.6300,0.3766,0.0030
+"lgID, playoff, divID, GF",0.9388,0.4885,0.0030
+"lgID, playoff, divID, rank",0.5609,0.4885,0.0030
+"lgID, playoff, GF, rank",0.9171,0.6162,0.0040
+"lgID, confID, divID, GF",0.7419,0.5938,0.0030
+"lgID, confID, divID, rank",0.4068,0.5938,0.0030
+"lgID, confID, GF, rank",0.8275,0.5938,0.0030
+"lgID, divID, GF, rank",0.9138,0.7709,0.0030
+"franchID, playoff, confID, divID",0.6886,0.3766,0.0030
+"franchID, playoff, confID, GF",0.9908,0.3766,0.0030
+"franchID, playoff, confID, rank",0.7801,0.3766,0.0030
+"franchID, playoff, divID, GF",0.9895,0.4885,0.0030
+"franchID, playoff, divID, rank",0.7485,0.4885,0.0040
+"franchID, playoff, GF, rank",0.9908,0.6162,0.0040
+"franchID, confID, divID, GF",0.9460,0.5938,0.0040
+"franchID, confID, divID, rank",0.4720,0.5938,0.0030
+"franchID, confID, GF, rank",0.9849,0.5938,0.0040
+"franchID, divID, GF, rank",0.9809,0.7709,0.0040
+"playoff, confID, divID, GF",0.9454,0.3766,0.0030
+"playoff, confID, divID, rank",0.6583,0.3766,0.0030
+"playoff, confID, GF, rank",0.9691,0.3766,0.0030
+"playoff, divID, GF, rank",0.9796,0.4885,0.0030
+"confID, divID, GF, rank",0.9315,0.5938,0.0030
+"year, tmID, name, lgID, franchID",1.0000,1.0000,0.0050
+"year, tmID, name, lgID, playoff",1.0000,0.6162,0.0040
+"year, tmID, name, lgID, confID",1.0000,0.5938,0.0040
+"year, tmID, name, lgID, divID",1.0000,0.7709,0.0040
+"year, tmID, name, lgID, GF",1.0000,1.0000,0.0050
+"year, tmID, name, lgID, rank",1.0000,1.0000,0.0050
+"year, tmID, name, franchID, playoff",1.0000,0.6162,0.0040
+"year, tmID, name, franchID, confID",1.0000,0.5938,0.0040
+"year, tmID, name, franchID, divID",1.0000,0.7709,0.0040
+"year, tmID, name, franchID, GF",1.0000,1.0000,0.0040
+"year, tmID, name, franchID, rank",1.0000,1.0000,0.0050
+"year, tmID, name, playoff, confID",1.0000,0.3766,0.0030
+"year, tmID, name, playoff, divID",1.0000,0.4885,0.0030
+"year, tmID, name, playoff, GF",1.0000,0.6162,0.0040
+"year, tmID, name, playoff, rank",1.0000,0.6162,0.0030
+"year, tmID, name, confID, divID",1.0000,0.5938,0.0030
+"year, tmID, name, confID, GF",1.0000,0.5938,0.0040
+"year, tmID, name, confID, rank",1.0000,0.5938,0.0040
+"year, tmID, name, divID, GF",1.0000,0.7709,0.0040
+"year, tmID, name, divID, rank",1.0000,0.7709,0.0050
+"year, tmID, name, GF, rank",1.0000,1.0000,0.0040
+"year, tmID, lgID, franchID, playoff",1.0000,0.6162,0.0030
+"year, tmID, lgID, franchID, confID",1.0000,0.5938,0.0030
+"year, tmID, lgID, franchID, divID",1.0000,0.7709,0.0040
+"year, tmID, lgID, franchID, GF",1.0000,1.0000,0.0040
+"year, tmID, lgID, franchID, rank",1.0000,1.0000,0.0050
+"year, tmID, lgID, playoff, confID",1.0000,0.3766,0.0030
+"year, tmID, lgID, playoff, divID",1.0000,0.4885,0.0030
+"year, tmID, lgID, playoff, GF",1.0000,0.6162,0.0040
+"year, tmID, lgID, playoff, rank",1.0000,0.6162,0.0040
+"year, tmID, lgID, confID, divID",1.0000,0.5938,0.0030
+"year, tmID, lgID, confID, GF",1.0000,0.5938,0.0030
+"year, tmID, lgID, confID, rank",1.0000,0.5938,0.0030
+"year, tmID, lgID, divID, GF",1.0000,0.7709,0.0030
+"year, tmID, lgID, divID, rank",1.0000,0.7709,0.0040
+"year, tmID, lgID, GF, rank",1.0000,1.0000,0.0040
+"year, tmID, franchID, playoff, confID",1.0000,0.3766,0.0030
+"year, tmID, franchID, playoff, divID",1.0000,0.4885,0.0030
+"year, tmID, franchID, playoff, GF",1.0000,0.6162,0.0030
+"year, tmID, franchID, playoff, rank",1.0000,0.6162,0.0040
+"year, tmID, franchID, confID, divID",1.0000,0.5938,0.0040
+"year, tmID, franchID, confID, GF",1.0000,0.5938,0.0030
+"year, tmID, franchID, confID, rank",1.0000,0.5938,0.0030
+"year, tmID, franchID, divID, GF",1.0000,0.7709,0.0040
+"year, tmID, franchID, divID, rank",1.0000,0.7709,0.0040
+"year, tmID, franchID, GF, rank",1.0000,1.0000,0.0040
+"year, tmID, playoff, confID, divID",1.0000,0.3766,0.0030
+"year, tmID, playoff, confID, GF",1.0000,0.3766,0.0030
+"year, tmID, playoff, confID, rank",1.0000,0.3766,0.0030
+"year, tmID, playoff, divID, GF",1.0000,0.4885,0.0040
+"year, tmID, playoff, divID, rank",1.0000,0.4885,0.0030
+"year, tmID, playoff, GF, rank",1.0000,0.6162,0.0030
+"year, tmID, confID, divID, GF",1.0000,0.5938,0.0030
+"year, tmID, confID, divID, rank",1.0000,0.5938,0.0030
+"year, tmID, confID, GF, rank",1.0000,0.5938,0.0030
+"year, tmID, divID, GF, rank",1.0000,0.7709,0.0040
+"year, name, lgID, franchID, playoff",1.0000,0.6162,0.0030
+"year, name, lgID, franchID, confID",1.0000,0.5938,0.0040
+"year, name, lgID, franchID, divID",1.0000,0.7709,0.0050
+"year, name, lgID, franchID, GF",1.0000,1.0000,0.0050
+"year, name, lgID, franchID, rank",1.0000,1.0000,0.0050
+"year, name, lgID, playoff, confID",1.0000,0.3766,0.0030
+"year, name, lgID, playoff, divID",1.0000,0.4885,0.0040
+"year, name, lgID, playoff, GF",1.0000,0.6162,0.0040
+"year, name, lgID, playoff, rank",1.0000,0.6162,0.0030
+"year, name, lgID, confID, divID",1.0000,0.5938,0.0030
+"year, name, lgID, confID, GF",1.0000,0.5938,0.0040
+"year, name, lgID, confID, rank",1.0000,0.5938,0.0040
+"year, name, lgID, divID, GF",1.0000,0.7709,0.0040
+"year, name, lgID, divID, rank",1.0000,0.7709,0.0050
+"year, name, lgID, GF, rank",1.0000,1.0000,0.0040
+"year, name, franchID, playoff, confID",1.0000,0.3766,0.0030
+"year, name, franchID, playoff, divID",1.0000,0.4885,0.0030
+"year, name, franchID, playoff, GF",1.0000,0.6162,0.0040
+"year, name, franchID, playoff, rank",1.0000,0.6162,0.0040
+"year, name, franchID, confID, divID",1.0000,0.5938,0.0040
+"year, name, franchID, confID, GF",1.0000,0.5938,0.0040
+"year, name, franchID, confID, rank",1.0000,0.5938,0.0040
+"year, name, franchID, divID, GF",1.0000,0.7709,0.0050
+"year, name, franchID, divID, rank",1.0000,0.7709,0.0050
+"year, name, franchID, GF, rank",1.0000,1.0000,0.0040
+"year, name, playoff, confID, divID",1.0000,0.3766,0.0030
+"year, name, playoff, confID, GF",1.0000,0.3766,0.0030
+"year, name, playoff, confID, rank",1.0000,0.3766,0.0030
+"year, name, playoff, divID, GF",1.0000,0.4885,0.0040
+"year, name, playoff, divID, rank",1.0000,0.4885,0.0040
+"year, name, playoff, GF, rank",1.0000,0.6162,0.0040
+"year, name, confID, divID, GF",1.0000,0.5938,0.0040
+"year, name, confID, divID, rank",1.0000,0.5938,0.0030
+"year, name, confID, GF, rank",1.0000,0.5938,0.0030
+"year, name, divID, GF, rank",1.0000,0.7709,0.0040
+"year, lgID, franchID, playoff, confID",1.0000,0.3766,0.0040
+"year, lgID, franchID, playoff, divID",1.0000,0.4885,0.0030
+"year, lgID, franchID, playoff, GF",1.0000,0.6162,0.0030
+"year, lgID, franchID, playoff, rank",1.0000,0.6162,0.0030
+"year, lgID, franchID, confID, divID",1.0000,0.5938,0.0030
+"year, lgID, franchID, confID, GF",1.0000,0.5938,0.0030
+"year, lgID, franchID, confID, rank",1.0000,0.5938,0.0030
+"year, lgID, franchID, divID, GF",1.0000,0.7709,0.0040
+"year, lgID, franchID, divID, rank",1.0000,0.7709,0.0040
+"year, lgID, franchID, GF, rank",1.0000,1.0000,0.0040
+"year, lgID, playoff, confID, divID",0.8315,0.3766,0.0030
+"year, lgID, playoff, confID, GF",0.9855,0.3766,0.0030
+"year, lgID, playoff, confID, rank",0.8808,0.3766,0.0030
+"year, lgID, playoff, divID, GF",0.9921,0.4885,0.0030
+"year, lgID, playoff, divID, rank",1.0000,0.4885,0.0030
+"year, lgID, playoff, GF, rank",0.9882,0.6162,0.0040
+"year, lgID, confID, divID, GF",0.9717,0.5938,0.0040
+"year, lgID, confID, divID, rank",1.0000,0.5938,0.0040
+"year, lgID, confID, GF, rank",0.9901,0.5938,0.0049
+"year, lgID, divID, GF, rank",1.0000,0.7709,0.0040
+"year, franchID, playoff, confID, divID",1.0000,0.3766,0.0030
+"year, franchID, playoff, confID, GF",1.0000,0.3766,0.0030
+"year, franchID, playoff, confID, rank",1.0000,0.3766,0.0030
+"year, franchID, playoff, divID, GF",1.0000,0.4885,0.0030
+"year, franchID, playoff, divID, rank",1.0000,0.4885,0.0030
+"year, franchID, playoff, GF, rank",1.0000,0.6162,0.0030
+"year, franchID, confID, divID, GF",1.0000,0.5938,0.0030
+"year, franchID, confID, divID, rank",1.0000,0.5938,0.0030
+"year, franchID, confID, GF, rank",1.0000,0.5938,0.0030
+"year, franchID, divID, GF, rank",1.0000,0.7709,0.0050
+"year, playoff, confID, divID, GF",0.9934,0.3766,0.0030
+"year, playoff, confID, divID, rank",1.0000,0.3766,0.0030
+"year, playoff, confID, GF, rank",0.9961,0.3766,0.0030
+"year, playoff, divID, GF, rank",1.0000,0.4885,0.0030
+"year, confID, divID, GF, rank",1.0000,0.5938,0.0030
+"tmID, name, lgID, franchID, playoff",0.4608,0.6162,0.0030
+"tmID, name, lgID, franchID, confID",0.4082,0.5938,0.0040
+"tmID, name, lgID, franchID, divID",0.2449,0.7709,0.0040
+"tmID, name, lgID, franchID, GF",0.8381,1.0000,0.0040
+"tmID, name, lgID, franchID, rank",0.0994,1.0000,0.0040
+"tmID, name, lgID, playoff, confID",0.6794,0.3766,0.0040
+"tmID, name, lgID, playoff, divID",0.6116,0.4885,0.0030
+"tmID, name, lgID, playoff, GF",0.9803,0.6162,0.0040
+"tmID, name, lgID, playoff, rank",0.6103,0.6162,0.0040
+"tmID, name, lgID, confID, divID",0.4101,0.5938,0.0040
+"tmID, name, lgID, confID, GF",0.9408,0.5938,0.0040
+"tmID, name, lgID, confID, rank",0.4602,0.5938,0.0040
+"tmID, name, lgID, divID, GF",0.9355,0.7709,0.0040
+"tmID, name, lgID, divID, rank",0.3634,0.7709,0.0040
+"tmID, name, lgID, GF, rank",0.9677,1.0000,0.0050
+"tmID, name, franchID, playoff, confID",0.6794,0.3766,0.0040
+"tmID, name, franchID, playoff, divID",0.6116,0.4885,0.0030
+"tmID, name, franchID, playoff, GF",0.9803,0.6162,0.0040
+"tmID, name, franchID, playoff, rank",0.6103,0.6162,0.0040
+"tmID, name, franchID, confID, divID",0.4101,0.5938,0.0040
+"tmID, name, franchID, confID, GF",0.9408,0.5938,0.0040
+"tmID, name, franchID, confID, rank",0.4602,0.5938,0.0030
+"tmID, name, franchID, divID, GF",0.9355,0.7709,0.0050
+"tmID, name, franchID, divID, rank",0.3634,0.7709,0.0040
+"tmID, name, franchID, GF, rank",0.9677,1.0000,0.0050
+"tmID, name, playoff, confID, divID",0.6912,0.3766,0.0030
+"tmID, name, playoff, confID, GF",0.9921,0.3766,0.0030
+"tmID, name, playoff, confID, rank",0.7847,0.3766,0.0040
+"tmID, name, playoff, divID, GF",0.9908,0.4885,0.0030
+"tmID, name, playoff, divID, rank",0.7544,0.4885,0.0030
+"tmID, name, playoff, GF, rank",0.9921,0.6162,0.0040
+"tmID, name, confID, divID, GF",0.9487,0.5938,0.0040
+"tmID, name, confID, divID, rank",0.4779,0.5938,0.0040
+"tmID, name, confID, GF, rank",0.9862,0.5938,0.0040
+"tmID, name, divID, GF, rank",0.9822,0.7709,0.0040
+"tmID, lgID, franchID, playoff, confID",0.6794,0.3766,0.0030
+"tmID, lgID, franchID, playoff, divID",0.6116,0.4885,0.0030
+"tmID, lgID, franchID, playoff, GF",0.9803,0.6162,0.0040
+"tmID, lgID, franchID, playoff, rank",0.6043,0.6162,0.0040
+"tmID, lgID, franchID, confID, divID",0.4101,0.5938,0.0030
+"tmID, lgID, franchID, confID, GF",0.9408,0.5938,0.0030
+"tmID, lgID, franchID, confID, rank",0.4589,0.5938,0.0030
+"tmID, lgID, franchID, divID, GF",0.9355,0.7709,0.0040
+"tmID, lgID, franchID, divID, rank",0.3614,0.7709,0.0040
+"tmID, lgID, franchID, GF, rank",0.9664,1.0000,0.0050
+"tmID, lgID, playoff, confID, divID",0.6912,0.3766,0.0030
+"tmID, lgID, playoff, confID, GF",0.9921,0.3766,0.0030
+"tmID, lgID, playoff, confID, rank",0.7814,0.3766,0.0030
+"tmID, lgID, playoff, divID, GF",0.9908,0.4885,0.0040
+"tmID, lgID, playoff, divID, rank",0.7512,0.4885,0.0030
+"tmID, lgID, playoff, GF, rank",0.9921,0.6162,0.0040
+"tmID, lgID, confID, divID, GF",0.9487,0.5938,0.0040
+"tmID, lgID, confID, divID, rank",0.4760,0.5938,0.0040
+"tmID, lgID, confID, GF, rank",0.9862,0.5938,0.0040
+"tmID, lgID, divID, GF, rank",0.9822,0.7709,0.0040
+"tmID, franchID, playoff, confID, divID",0.6912,0.3766,0.0030
+"tmID, franchID, playoff, confID, GF",0.9921,0.3766,0.0030
+"tmID, franchID, playoff, confID, rank",0.7814,0.3766,0.0030
+"tmID, franchID, playoff, divID, GF",0.9908,0.4885,0.0040
+"tmID, franchID, playoff, divID, rank",0.7512,0.4885,0.0040
+"tmID, franchID, playoff, GF, rank",0.9921,0.6162,0.0040
+"tmID, franchID, confID, divID, GF",0.9487,0.5938,0.0040
+"tmID, franchID, confID, divID, rank",0.4760,0.5938,0.0040
+"tmID, franchID, confID, GF, rank",0.9862,0.5938,0.0040
+"tmID, franchID, divID, GF, rank",0.9822,0.7709,0.0040
+"tmID, playoff, confID, divID, GF",0.9934,0.3766,0.0040
+"tmID, playoff, confID, divID, rank",0.7933,0.3766,0.0030
+"tmID, playoff, confID, GF, rank",0.9974,0.3766,0.0030
+"tmID, playoff, divID, GF, rank",0.9947,0.4885,0.0030
+"tmID, confID, divID, GF, rank",0.9862,0.5938,0.0040
+"name, lgID, franchID, playoff, confID",0.6794,0.3766,0.0040
+"name, lgID, franchID, playoff, divID",0.6116,0.4885,0.0040
+"name, lgID, franchID, playoff, GF",0.9803,0.6162,0.0040
+"name, lgID, franchID, playoff, rank",0.6103,0.6162,0.0040
+"name, lgID, franchID, confID, divID",0.4101,0.5938,0.0040
+"name, lgID, franchID, confID, GF",0.9408,0.5938,0.0040
+"name, lgID, franchID, confID, rank",0.4602,0.5938,0.0040
+"name, lgID, franchID, divID, GF",0.9355,0.7709,0.0040
+"name, lgID, franchID, divID, rank",0.3634,0.7709,0.0040
+"name, lgID, franchID, GF, rank",0.9677,1.0000,0.0050
+"name, lgID, playoff, confID, divID",0.6912,0.3766,0.0030
+"name, lgID, playoff, confID, GF",0.9921,0.3766,0.0040
+"name, lgID, playoff, confID, rank",0.7847,0.3766,0.0040
+"name, lgID, playoff, divID, GF",0.9908,0.4885,0.0040
+"name, lgID, playoff, divID, rank",0.7544,0.4885,0.0030
+"name, lgID, playoff, GF, rank",0.9921,0.6162,0.0040
+"name, lgID, confID, divID, GF",0.9487,0.5938,0.0040
+"name, lgID, confID, divID, rank",0.4779,0.5938,0.0040
+"name, lgID, confID, GF, rank",0.9862,0.5938,0.0040
+"name, lgID, divID, GF, rank",0.9822,0.7709,0.0040
+"name, franchID, playoff, confID, divID",0.6912,0.3766,0.0030
+"name, franchID, playoff, confID, GF",0.9921,0.3766,0.0030
+"name, franchID, playoff, confID, rank",0.7847,0.3766,0.0030
+"name, franchID, playoff, divID, GF",0.9908,0.4885,0.0040
+"name, franchID, playoff, divID, rank",0.7544,0.4885,0.0030
+"name, franchID, playoff, GF, rank",0.9921,0.6162,0.0040
+"name, franchID, confID, divID, GF",0.9487,0.5938,0.0040
+"name, franchID, confID, divID, rank",0.4779,0.5938,0.0040
+"name, franchID, confID, GF, rank",0.9862,0.5938,0.0040
+"name, franchID, divID, GF, rank",0.9822,0.7709,0.0040
+"name, playoff, confID, divID, GF",0.9934,0.3766,0.0030
+"name, playoff, confID, divID, rank",0.7966,0.3766,0.0030
+"name, playoff, confID, GF, rank",0.9974,0.3766,0.0030
+"name, playoff, divID, GF, rank",0.9947,0.4885,0.0040
+"name, confID, divID, GF, rank",0.9862,0.5938,0.0040
+"lgID, franchID, playoff, confID, divID",0.6886,0.3766,0.0040
+"lgID, franchID, playoff, confID, GF",0.9908,0.3766,0.0030
+"lgID, franchID, playoff, confID, rank",0.7801,0.3766,0.0030
+"lgID, franchID, playoff, divID, GF",0.9895,0.4885,0.0040
+"lgID, franchID, playoff, divID, rank",0.7485,0.4885,0.0030
+"lgID, franchID, playoff, GF, rank",0.9908,0.6162,0.0040
+"lgID, franchID, confID, divID, GF",0.9460,0.5938,0.0040
+"lgID, franchID, confID, divID, rank",0.4720,0.5938,0.0050
+"lgID, franchID, confID, GF, rank",0.9849,0.5938,0.0040
+"lgID, franchID, divID, GF, rank",0.9809,0.7709,0.0040
+"lgID, playoff, confID, divID, GF",0.9454,0.3766,0.0040
+"lgID, playoff, confID, divID, rank",0.6583,0.3766,0.0030
+"lgID, playoff, confID, GF, rank",0.9691,0.3766,0.0040
+"lgID, playoff, divID, GF, rank",0.9796,0.4885,0.0040
+"lgID, confID, divID, GF, rank",0.9315,0.5938,0.0040
+"franchID, playoff, confID, divID, GF",0.9921,0.3766,0.0030
+"franchID, playoff, confID, divID, rank",0.7920,0.3766,0.0030
+"franchID, playoff, confID, GF, rank",0.9961,0.3766,0.0030
+"franchID, playoff, divID, GF, rank",0.9934,0.4885,0.0030
+"franchID, confID, divID, GF, rank",0.9849,0.5938,0.0030
+"playoff, confID, divID, GF, rank",0.9822,0.3766,0.0030
+"year, tmID, name, lgID, franchID, playoff",1.0000,0.6162,0.0040
+"year, tmID, name, lgID, franchID, confID",1.0000,0.5938,0.0040
+"year, tmID, name, lgID, franchID, divID",1.0000,0.7709,0.0040
+"year, tmID, name, lgID, franchID, GF",1.0000,1.0000,0.0050
+"year, tmID, name, lgID, franchID, rank",1.0000,1.0000,0.0050
+"year, tmID, name, lgID, playoff, confID",1.0000,0.3766,0.0030
+"year, tmID, name, lgID, playoff, divID",1.0000,0.4885,0.0040
+"year, tmID, name, lgID, playoff, GF",1.0000,0.6162,0.0040
+"year, tmID, name, lgID, playoff, rank",1.0000,0.6162,0.0040
+"year, tmID, name, lgID, confID, divID",1.0000,0.5938,0.0040
+"year, tmID, name, lgID, confID, GF",1.0000,0.5938,0.0040
+"year, tmID, name, lgID, confID, rank",1.0000,0.5938,0.0040
+"year, tmID, name, lgID, divID, GF",1.0000,0.7709,0.0050
+"year, tmID, name, lgID, divID, rank",1.0000,0.7709,0.0040
+"year, tmID, name, lgID, GF, rank",1.0000,1.0000,0.0050
+"year, tmID, name, franchID, playoff, confID",1.0000,0.3766,0.0030
+"year, tmID, name, franchID, playoff, divID",1.0000,0.4885,0.0030
+"year, tmID, name, franchID, playoff, GF",1.0000,0.6162,0.0040
+"year, tmID, name, franchID, playoff, rank",1.0000,0.6162,0.0040
+"year, tmID, name, franchID, confID, divID",1.0000,0.5938,0.0040
+"year, tmID, name, franchID, confID, GF",1.0000,0.5938,0.0040
+"year, tmID, name, franchID, confID, rank",1.0000,0.5938,0.0030
+"year, tmID, name, franchID, divID, GF",1.0000,0.7709,0.0040
+"year, tmID, name, franchID, divID, rank",1.0000,0.7709,0.0050
+"year, tmID, name, franchID, GF, rank",1.0000,1.0000,0.0050
+"year, tmID, name, playoff, confID, divID",1.0000,0.3766,0.0030
+"year, tmID, name, playoff, confID, GF",1.0000,0.3766,0.0030
+"year, tmID, name, playoff, confID, rank",1.0000,0.3766,0.0030
+"year, tmID, name, playoff, divID, GF",1.0000,0.4885,0.0030
+"year, tmID, name, playoff, divID, rank",1.0000,0.4885,0.0040
+"year, tmID, name, playoff, GF, rank",1.0000,0.6162,0.0040
+"year, tmID, name, confID, divID, GF",1.0000,0.5938,0.0040
+"year, tmID, name, confID, divID, rank",1.0000,0.5938,0.0040
+"year, tmID, name, confID, GF, rank",1.0000,0.5938,0.0040
+"year, tmID, name, divID, GF, rank",1.0000,0.7709,0.0040
+"year, tmID, lgID, franchID, playoff, confID",1.0000,0.3766,0.0030
+"year, tmID, lgID, franchID, playoff, divID",1.0000,0.4885,0.0030
+"year, tmID, lgID, franchID, playoff, GF",1.0000,0.6162,0.0040
+"year, tmID, lgID, franchID, playoff, rank",1.0000,0.6162,0.0040
+"year, tmID, lgID, franchID, confID, divID",1.0000,0.5938,0.0040
+"year, tmID, lgID, franchID, confID, GF",1.0000,0.5938,0.0050
+"year, tmID, lgID, franchID, confID, rank",1.0000,0.5938,0.0040
+"year, tmID, lgID, franchID, divID, GF",1.0000,0.7709,0.0040
+"year, tmID, lgID, franchID, divID, rank",1.0000,0.7709,0.0040
+"year, tmID, lgID, franchID, GF, rank",1.0000,1.0000,0.0050
+"year, tmID, lgID, playoff, confID, divID",1.0000,0.3766,0.0030
+"year, tmID, lgID, playoff, confID, GF",1.0000,0.3766,0.0030
+"year, tmID, lgID, playoff, confID, rank",1.0000,0.3766,0.0030
+"year, tmID, lgID, playoff, divID, GF",1.0000,0.4885,0.0030
+"year, tmID, lgID, playoff, divID, rank",1.0000,0.4885,0.0030
+"year, tmID, lgID, playoff, GF, rank",1.0000,0.6162,0.0040
+"year, tmID, lgID, confID, divID, GF",1.0000,0.5938,0.0040
+"year, tmID, lgID, confID, divID, rank",1.0000,0.5938,0.0060
+"year, tmID, lgID, confID, GF, rank",1.0000,0.5938,0.0040
+"year, tmID, lgID, divID, GF, rank",1.0000,0.7709,0.0040
+"year, tmID, franchID, playoff, confID, divID",1.0000,0.3766,0.0030
+"year, tmID, franchID, playoff, confID, GF",1.0000,0.3766,0.0030
+"year, tmID, franchID, playoff, confID, rank",1.0000,0.3766,0.0040
+"year, tmID, franchID, playoff, divID, GF",1.0000,0.4885,0.0030
+"year, tmID, franchID, playoff, divID, rank",1.0000,0.4885,0.0030
+"year, tmID, franchID, playoff, GF, rank",1.0000,0.6162,0.0040
+"year, tmID, franchID, confID, divID, GF",1.0000,0.5938,0.0030
+"year, tmID, franchID, confID, divID, rank",1.0000,0.5938,0.0030
+"year, tmID, franchID, confID, GF, rank",1.0000,0.5938,0.0040
+"year, tmID, franchID, divID, GF, rank",1.0000,0.7709,0.0040
+"year, tmID, playoff, confID, divID, GF",1.0000,0.3766,0.0030
+"year, tmID, playoff, confID, divID, rank",1.0000,0.3766,0.0040
+"year, tmID, playoff, confID, GF, rank",1.0000,0.3766,0.0030
+"year, tmID, playoff, divID, GF, rank",1.0000,0.4885,0.0040
+"year, tmID, confID, divID, GF, rank",1.0000,0.5938,0.0040
+"year, name, lgID, franchID, playoff, confID",1.0000,0.3766,0.0040
+"year, name, lgID, franchID, playoff, divID",1.0000,0.4885,0.0040
+"year, name, lgID, franchID, playoff, GF",1.0000,0.6162,0.0040
+"year, name, lgID, franchID, playoff, rank",1.0000,0.6162,0.0040
+"year, name, lgID, franchID, confID, divID",1.0000,0.5938,0.0040
+"year, name, lgID, franchID, confID, GF",1.0000,0.5938,0.0030
+"year, name, lgID, franchID, confID, rank",1.0000,0.5938,0.0040
+"year, name, lgID, franchID, divID, GF",1.0000,0.7709,0.0050
+"year, name, lgID, franchID, divID, rank",1.0000,0.7709,0.0040
+"year, name, lgID, franchID, GF, rank",1.0000,1.0000,0.0050
+"year, name, lgID, playoff, confID, divID",1.0000,0.3766,0.0030
+"year, name, lgID, playoff, confID, GF",1.0000,0.3766,0.0030
+"year, name, lgID, playoff, confID, rank",1.0000,0.3766,0.0030
+"year, name, lgID, playoff, divID, GF",1.0000,0.4885,0.0040
+"year, name, lgID, playoff, divID, rank",1.0000,0.4885,0.0040
+"year, name, lgID, playoff, GF, rank",1.0000,0.6162,0.0040
+"year, name, lgID, confID, divID, GF",1.0000,0.5938,0.0040
+"year, name, lgID, confID, divID, rank",1.0000,0.5938,0.0040
+"year, name, lgID, confID, GF, rank",1.0000,0.5938,0.0040
+"year, name, lgID, divID, GF, rank",1.0000,0.7709,0.0050
+"year, name, franchID, playoff, confID, divID",1.0000,0.3766,0.0040
+"year, name, franchID, playoff, confID, GF",1.0000,0.3766,0.0040
+"year, name, franchID, playoff, confID, rank",1.0000,0.3766,0.0030
+"year, name, franchID, playoff, divID, GF",1.0000,0.4885,0.0030
+"year, name, franchID, playoff, divID, rank",1.0000,0.4885,0.0030
+"year, name, franchID, playoff, GF, rank",1.0000,0.6162,0.0040
+"year, name, franchID, confID, divID, GF",1.0000,0.5938,0.0040
+"year, name, franchID, confID, divID, rank",1.0000,0.5938,0.0040
+"year, name, franchID, confID, GF, rank",1.0000,0.5938,0.0040
+"year, name, franchID, divID, GF, rank",1.0000,0.7709,0.0040
+"year, name, playoff, confID, divID, GF",1.0000,0.3766,0.0030
+"year, name, playoff, confID, divID, rank",1.0000,0.3766,0.0030
+"year, name, playoff, confID, GF, rank",1.0000,0.3766,0.0040
+"year, name, playoff, divID, GF, rank",1.0000,0.4885,0.0040
+"year, name, confID, divID, GF, rank",1.0000,0.5938,0.0040
+"year, lgID, franchID, playoff, confID, divID",1.0000,0.3766,0.0030
+"year, lgID, franchID, playoff, confID, GF",1.0000,0.3766,0.0030
+"year, lgID, franchID, playoff, confID, rank",1.0000,0.3766,0.0040
+"year, lgID, franchID, playoff, divID, GF",1.0000,0.4885,0.0040
+"year, lgID, franchID, playoff, divID, rank",1.0000,0.4885,0.0040
+"year, lgID, franchID, playoff, GF, rank",1.0000,0.6162,0.0040
+"year, lgID, franchID, confID, divID, GF",1.0000,0.5938,0.0040
+"year, lgID, franchID, confID, divID, rank",1.0000,0.5938,0.0040
+"year, lgID, franchID, confID, GF, rank",1.0000,0.5938,0.0040
+"year, lgID, franchID, divID, GF, rank",1.0000,0.7709,0.0050
+"year, lgID, playoff, confID, divID, GF",0.9934,0.3766,0.0030
+"year, lgID, playoff, confID, divID, rank",1.0000,0.3766,0.0030
+"year, lgID, playoff, confID, GF, rank",0.9961,0.3766,0.0030
+"year, lgID, playoff, divID, GF, rank",1.0000,0.4885,0.0030
+"year, lgID, confID, divID, GF, rank",1.0000,0.5938,0.0040
+"year, franchID, playoff, confID, divID, GF",1.0000,0.3766,0.0030
+"year, franchID, playoff, confID, divID, rank",1.0000,0.3766,0.0030
+"year, franchID, playoff, confID, GF, rank",1.0000,0.3766,0.0040
+"year, franchID, playoff, divID, GF, rank",1.0000,0.4885,0.0040
+"year, franchID, confID, divID, GF, rank",1.0000,0.5938,0.0040
+"year, playoff, confID, divID, GF, rank",1.0000,0.3766,0.0030
+"tmID, name, lgID, franchID, playoff, confID",0.6794,0.3766,0.0050
+"tmID, name, lgID, franchID, playoff, divID",0.6116,0.4885,0.0040
+"tmID, name, lgID, franchID, playoff, GF",0.9803,0.6162,0.0040
+"tmID, name, lgID, franchID, playoff, rank",0.6103,0.6162,0.0040
+"tmID, name, lgID, franchID, confID, divID",0.4101,0.5938,0.0040
+"tmID, name, lgID, franchID, confID, GF",0.9408,0.5938,0.0040
+"tmID, name, lgID, franchID, confID, rank",0.4602,0.5938,0.0030
+"tmID, name, lgID, franchID, divID, GF",0.9355,0.7709,0.0050
+"tmID, name, lgID, franchID, divID, rank",0.3634,0.7709,0.0050
+"tmID, name, lgID, franchID, GF, rank",0.9677,1.0000,0.0050
+"tmID, name, lgID, playoff, confID, divID",0.6912,0.3766,0.0030
+"tmID, name, lgID, playoff, confID, GF",0.9921,0.3766,0.0030
+"tmID, name, lgID, playoff, confID, rank",0.7847,0.3766,0.0030
+"tmID, name, lgID, playoff, divID, GF",0.9908,0.4885,0.0030
+"tmID, name, lgID, playoff, divID, rank",0.7544,0.4885,0.0040
+"tmID, name, lgID, playoff, GF, rank",0.9921,0.6162,0.0040
+"tmID, name, lgID, confID, divID, GF",0.9487,0.5938,0.0040
+"tmID, name, lgID, confID, divID, rank",0.4779,0.5938,0.0050
+"tmID, name, lgID, confID, GF, rank",0.9862,0.5938,0.0040
+"tmID, name, lgID, divID, GF, rank",0.9822,0.7709,0.0040
+"tmID, name, franchID, playoff, confID, divID",0.6912,0.3766,0.0030
+"tmID, name, franchID, playoff, confID, GF",0.9921,0.3766,0.0040
+"tmID, name, franchID, playoff, confID, rank",0.7847,0.3766,0.0030
+"tmID, name, franchID, playoff, divID, GF",0.9908,0.4885,0.0040
+"tmID, name, franchID, playoff, divID, rank",0.7544,0.4885,0.0030
+"tmID, name, franchID, playoff, GF, rank",0.9921,0.6162,0.0040
+"tmID, name, franchID, confID, divID, GF",0.9487,0.5938,0.0050
+"tmID, name, franchID, confID, divID, rank",0.4779,0.5938,0.0040
+"tmID, name, franchID, confID, GF, rank",0.9862,0.5938,0.0040
+"tmID, name, franchID, divID, GF, rank",0.9822,0.7709,0.0040
+"tmID, name, playoff, confID, divID, GF",0.9934,0.3766,0.0030
+"tmID, name, playoff, confID, divID, rank",0.7966,0.3766,0.0030
+"tmID, name, playoff, confID, GF, rank",0.9974,0.3766,0.0030
+"tmID, name, playoff, divID, GF, rank",0.9947,0.4885,0.0030
+"tmID, name, confID, divID, GF, rank",0.9862,0.5938,0.0040
+"tmID, lgID, franchID, playoff, confID, divID",0.6912,0.3766,0.0040
+"tmID, lgID, franchID, playoff, confID, GF",0.9921,0.3766,0.0040
+"tmID, lgID, franchID, playoff, confID, rank",0.7814,0.3766,0.0040
+"tmID, lgID, franchID, playoff, divID, GF",0.9908,0.4885,0.0040
+"tmID, lgID, franchID, playoff, divID, rank",0.7512,0.4885,0.0030
+"tmID, lgID, franchID, playoff, GF, rank",0.9921,0.6162,0.0040
+"tmID, lgID, franchID, confID, divID, GF",0.9487,0.5938,0.0050
+"tmID, lgID, franchID, confID, divID, rank",0.4760,0.5938,0.0040
+"tmID, lgID, franchID, confID, GF, rank",0.9862,0.5938,0.0040
+"tmID, lgID, franchID, divID, GF, rank",0.9822,0.7709,0.0040
+"tmID, lgID, playoff, confID, divID, GF",0.9934,0.3766,0.0040
+"tmID, lgID, playoff, confID, divID, rank",0.7933,0.3766,0.0030
+"tmID, lgID, playoff, confID, GF, rank",0.9974,0.3766,0.0030
+"tmID, lgID, playoff, divID, GF, rank",0.9947,0.4885,0.0040
+"tmID, lgID, confID, divID, GF, rank",0.9862,0.5938,0.0040
+"tmID, franchID, playoff, confID, divID, GF",0.9934,0.3766,0.0030
+"tmID, franchID, playoff, confID, divID, rank",0.7933,0.3766,0.0030
+"tmID, franchID, playoff, confID, GF, rank",0.9974,0.3766,0.0040
+"tmID, franchID, playoff, divID, GF, rank",0.9947,0.4885,0.0040
+"tmID, franchID, confID, divID, GF, rank",0.9862,0.5938,0.0039
+"tmID, playoff, confID, divID, GF, rank",0.9974,0.3766,0.0040
+"name, lgID, franchID, playoff, confID, divID",0.6912,0.3766,0.0050
+"name, lgID, franchID, playoff, confID, GF",0.9921,0.3766,0.0050
+"name, lgID, franchID, playoff, confID, rank",0.7847,0.3766,0.0040
+"name, lgID, franchID, playoff, divID, GF",0.9908,0.4885,0.0040
+"name, lgID, franchID, playoff, divID, rank",0.7544,0.4885,0.0040
+"name, lgID, franchID, playoff, GF, rank",0.9921,0.6162,0.0040
+"name, lgID, franchID, confID, divID, GF",0.9487,0.5938,0.0040
+"name, lgID, franchID, confID, divID, rank",0.4779,0.5938,0.0040
+"name, lgID, franchID, confID, GF, rank",0.9862,0.5938,0.0040
+"name, lgID, franchID, divID, GF, rank",0.9822,0.7709,0.0050
+"name, lgID, playoff, confID, divID, GF",0.9934,0.3766,0.0040
+"name, lgID, playoff, confID, divID, rank",0.7966,0.3766,0.0040
+"name, lgID, playoff, confID, GF, rank",0.9974,0.3766,0.0030
+"name, lgID, playoff, divID, GF, rank",0.9947,0.4885,0.0030
+"name, lgID, confID, divID, GF, rank",0.9862,0.5938,0.0040
+"name, franchID, playoff, confID, divID, GF",0.9934,0.3766,0.0030
+"name, franchID, playoff, confID, divID, rank",0.7966,0.3766,0.0040
+"name, franchID, playoff, confID, GF, rank",0.9974,0.3766,0.0040
+"name, franchID, playoff, divID, GF, rank",0.9947,0.4885,0.0040
+"name, franchID, confID, divID, GF, rank",0.9862,0.5938,0.0040
+"name, playoff, confID, divID, GF, rank",0.9974,0.3766,0.0030
+"lgID, franchID, playoff, confID, divID, GF",0.9921,0.3766,0.0030
+"lgID, franchID, playoff, confID, divID, rank",0.7920,0.3766,0.0030
+"lgID, franchID, playoff, confID, GF, rank",0.9961,0.3766,0.0040
+"lgID, franchID, playoff, divID, GF, rank",0.9934,0.4885,0.0040
+"lgID, franchID, confID, divID, GF, rank",0.9849,0.5938,0.0040
+"lgID, playoff, confID, divID, GF, rank",0.9822,0.3766,0.0040
+"franchID, playoff, confID, divID, GF, rank",0.9961,0.3766,0.0030
+"year, tmID, name, lgID, franchID, playoff, confID",1.0000,0.3766,0.0040
+"year, tmID, name, lgID, franchID, playoff, divID",1.0000,0.4885,0.0040
+"year, tmID, name, lgID, franchID, playoff, GF",1.0000,0.6162,0.0040
+"year, tmID, name, lgID, franchID, playoff, rank",1.0000,0.6162,0.0050
+"year, tmID, name, lgID, franchID, confID, divID",1.0000,0.5938,0.0040
+"year, tmID, name, lgID, franchID, confID, GF",1.0000,0.5938,0.0050
+"year, tmID, name, lgID, franchID, confID, rank",1.0000,0.5938,0.0050
+"year, tmID, name, lgID, franchID, divID, GF",1.0000,0.7709,0.0050
+"year, tmID, name, lgID, franchID, divID, rank",1.0000,0.7709,0.0050
+"year, tmID, name, lgID, franchID, GF, rank",1.0000,1.0000,0.0050
+"year, tmID, name, lgID, playoff, confID, divID",1.0000,0.3766,0.0040
+"year, tmID, name, lgID, playoff, confID, GF",1.0000,0.3766,0.0040
+"year, tmID, name, lgID, playoff, confID, rank",1.0000,0.3766,0.0030
+"year, tmID, name, lgID, playoff, divID, GF",1.0000,0.4885,0.0040
+"year, tmID, name, lgID, playoff, divID, rank",1.0000,0.4885,0.0040
+"year, tmID, name, lgID, playoff, GF, rank",1.0000,0.6162,0.0040
+"year, tmID, name, lgID, confID, divID, GF",1.0000,0.5938,0.0040
+"year, tmID, name, lgID, confID, divID, rank",1.0000,0.5938,0.0040
+"year, tmID, name, lgID, confID, GF, rank",1.0000,0.5938,0.0040
+"year, tmID, name, lgID, divID, GF, rank",1.0000,0.7709,0.0049
+"year, tmID, name, franchID, playoff, confID, divID",1.0000,0.3766,0.0030
+"year, tmID, name, franchID, playoff, confID, GF",1.0000,0.3766,0.0040
+"year, tmID, name, franchID, playoff, confID, rank",1.0000,0.3766,0.0040
+"year, tmID, name, franchID, playoff, divID, GF",1.0000,0.4885,0.0060
+"year, tmID, name, franchID, playoff, divID, rank",1.0000,0.4885,0.0040
+"year, tmID, name, franchID, playoff, GF, rank",1.0000,0.6162,0.0040
+"year, tmID, name, franchID, confID, divID, GF",1.0000,0.5938,0.0070
+"year, tmID, name, franchID, confID, divID, rank",1.0000,0.5938,0.0040
+"year, tmID, name, franchID, confID, GF, rank",1.0000,0.5938,0.0040
+"year, tmID, name, franchID, divID, GF, rank",1.0000,0.7709,0.0050
+"year, tmID, name, playoff, confID, divID, GF",1.0000,0.3766,0.0029
+"year, tmID, name, playoff, confID, divID, rank",1.0000,0.3766,0.0040
+"year, tmID, name, playoff, confID, GF, rank",1.0000,0.3766,0.0030
+"year, tmID, name, playoff, divID, GF, rank",1.0000,0.4885,0.0040
+"year, tmID, name, confID, divID, GF, rank",1.0000,0.5938,0.0040
+"year, tmID, lgID, franchID, playoff, confID, divID",1.0000,0.3766,0.0040
+"year, tmID, lgID, franchID, playoff, confID, GF",1.0000,0.3766,0.0040
+"year, tmID, lgID, franchID, playoff, confID, rank",1.0000,0.3766,0.0030
+"year, tmID, lgID, franchID, playoff, divID, GF",1.0000,0.4885,0.0040
+"year, tmID, lgID, franchID, playoff, divID, rank",1.0000,0.4885,0.0040
+"year, tmID, lgID, franchID, playoff, GF, rank",1.0000,0.6162,0.0040
+"year, tmID, lgID, franchID, confID, divID, GF",1.0000,0.5938,0.0040
+"year, tmID, lgID, franchID, confID, divID, rank",1.0000,0.5938,0.0040
+"year, tmID, lgID, franchID, confID, GF, rank",1.0000,0.5938,0.0040
+"year, tmID, lgID, franchID, divID, GF, rank",1.0000,0.7709,0.0050
+"year, tmID, lgID, playoff, confID, divID, GF",1.0000,0.3766,0.0040
+"year, tmID, lgID, playoff, confID, divID, rank",1.0000,0.3766,0.0040
+"year, tmID, lgID, playoff, confID, GF, rank",1.0000,0.3766,0.0040
+"year, tmID, lgID, playoff, divID, GF, rank",1.0000,0.4885,0.0040
+"year, tmID, lgID, confID, divID, GF, rank",1.0000,0.5938,0.0040
+"year, tmID, franchID, playoff, confID, divID, GF",1.0000,0.3766,0.0030
+"year, tmID, franchID, playoff, confID, divID, rank",1.0000,0.3766,0.0040
+"year, tmID, franchID, playoff, confID, GF, rank",1.0000,0.3766,0.0040
+"year, tmID, franchID, playoff, divID, GF, rank",1.0000,0.4885,0.0040
+"year, tmID, franchID, confID, divID, GF, rank",1.0000,0.5938,0.0040
+"year, tmID, playoff, confID, divID, GF, rank",1.0000,0.3766,0.0030
+"year, name, lgID, franchID, playoff, confID, divID",1.0000,0.3766,0.0040
+"year, name, lgID, franchID, playoff, confID, GF",1.0000,0.3766,0.0030
+"year, name, lgID, franchID, playoff, confID, rank",1.0000,0.3766,0.0040
+"year, name, lgID, franchID, playoff, divID, GF",1.0000,0.4885,0.0040
+"year, name, lgID, franchID, playoff, divID, rank",1.0000,0.4885,0.0040
+"year, name, lgID, franchID, playoff, GF, rank",1.0000,0.6162,0.0050
+"year, name, lgID, franchID, confID, divID, GF",1.0000,0.5938,0.0040
+"year, name, lgID, franchID, confID, divID, rank",1.0000,0.5938,0.0050
+"year, name, lgID, franchID, confID, GF, rank",1.0000,0.5938,0.0050
+"year, name, lgID, franchID, divID, GF, rank",1.0000,0.7709,0.0050
+"year, name, lgID, playoff, confID, divID, GF",1.0000,0.3766,0.0040
+"year, name, lgID, playoff, confID, divID, rank",1.0000,0.3766,0.0030
+"year, name, lgID, playoff, confID, GF, rank",1.0000,0.3766,0.0030
+"year, name, lgID, playoff, divID, GF, rank",1.0000,0.4885,0.0040
+"year, name, lgID, confID, divID, GF, rank",1.0000,0.5938,0.0040
+"year, name, franchID, playoff, confID, divID, GF",1.0000,0.3766,0.0040
+"year, name, franchID, playoff, confID, divID, rank",1.0000,0.3766,0.0030
+"year, name, franchID, playoff, confID, GF, rank",1.0000,0.3766,0.0030
+"year, name, franchID, playoff, divID, GF, rank",1.0000,0.4885,0.0040
+"year, name, franchID, confID, divID, GF, rank",1.0000,0.5938,0.0040
+"year, name, playoff, confID, divID, GF, rank",1.0000,0.3766,0.0040
+"year, lgID, franchID, playoff, confID, divID, GF",1.0000,0.3766,0.0040
+"year, lgID, franchID, playoff, confID, divID, rank",1.0000,0.3766,0.0040
+"year, lgID, franchID, playoff, confID, GF, rank",1.0000,0.3766,0.0040
+"year, lgID, franchID, playoff, divID, GF, rank",1.0000,0.4885,0.0040
+"year, lgID, franchID, confID, divID, GF, rank",1.0000,0.5938,0.0040
+"year, lgID, playoff, confID, divID, GF, rank",1.0000,0.3766,0.0040
+"year, franchID, playoff, confID, divID, GF, rank",1.0000,0.3766,0.0040
+"tmID, name, lgID, franchID, playoff, confID, divID",0.6912,0.3766,0.0040
+"tmID, name, lgID, franchID, playoff, confID, GF",0.9921,0.3766,0.0040
+"tmID, name, lgID, franchID, playoff, confID, rank",0.7847,0.3766,0.0040
+"tmID, name, lgID, franchID, playoff, divID, GF",0.9908,0.4885,0.0040
+"tmID, name, lgID, franchID, playoff, divID, rank",0.7544,0.4885,0.0040
+"tmID, name, lgID, franchID, playoff, GF, rank",0.9921,0.6162,0.0040
+"tmID, name, lgID, franchID, confID, divID, GF",0.9487,0.5938,0.0040
+"tmID, name, lgID, franchID, confID, divID, rank",0.4779,0.5938,0.0040
+"tmID, name, lgID, franchID, confID, GF, rank",0.9862,0.5938,0.0040
+"tmID, name, lgID, franchID, divID, GF, rank",0.9822,0.7709,0.0050
+"tmID, name, lgID, playoff, confID, divID, GF",0.9934,0.3766,0.0030
+"tmID, name, lgID, playoff, confID, divID, rank",0.7966,0.3766,0.0040
+"tmID, name, lgID, playoff, confID, GF, rank",0.9974,0.3766,0.0030
+"tmID, name, lgID, playoff, divID, GF, rank",0.9947,0.4885,0.0050
+"tmID, name, lgID, confID, divID, GF, rank",0.9862,0.5938,0.0040
+"tmID, name, franchID, playoff, confID, divID, GF",0.9934,0.3766,0.0040
+"tmID, name, franchID, playoff, confID, divID, rank",0.7966,0.3766,0.0040
+"tmID, name, franchID, playoff, confID, GF, rank",0.9974,0.3766,0.0040
+"tmID, name, franchID, playoff, divID, GF, rank",0.9947,0.4885,0.0040
+"tmID, name, franchID, confID, divID, GF, rank",0.9862,0.5938,0.0040
+"tmID, name, playoff, confID, divID, GF, rank",0.9974,0.3766,0.0040
+"tmID, lgID, franchID, playoff, confID, divID, GF",0.9934,0.3766,0.0040
+"tmID, lgID, franchID, playoff, confID, divID, rank",0.7933,0.3766,0.0040
+"tmID, lgID, franchID, playoff, confID, GF, rank",0.9974,0.3766,0.0040
+"tmID, lgID, franchID, playoff, divID, GF, rank",0.9947,0.4885,0.0040
+"tmID, lgID, franchID, confID, divID, GF, rank",0.9862,0.5938,0.0040
+"tmID, lgID, playoff, confID, divID, GF, rank",0.9974,0.3766,0.0030
+"tmID, franchID, playoff, confID, divID, GF, rank",0.9974,0.3766,0.0030
+"name, lgID, franchID, playoff, confID, divID, GF",0.9934,0.3766,0.0040
+"name, lgID, franchID, playoff, confID, divID, rank",0.7966,0.3766,0.0040
+"name, lgID, franchID, playoff, confID, GF, rank",0.9974,0.3766,0.0040
+"name, lgID, franchID, playoff, divID, GF, rank",0.9947,0.4885,0.0050
+"name, lgID, franchID, confID, divID, GF, rank",0.9862,0.5938,0.0050
+"name, lgID, playoff, confID, divID, GF, rank",0.9974,0.3766,0.0040
+"name, franchID, playoff, confID, divID, GF, rank",0.9974,0.3766,0.0040
+"lgID, franchID, playoff, confID, divID, GF, rank",0.9961,0.3766,0.0040
+"year, tmID, name, lgID, franchID, playoff, confID, divID",1.0000,0.3766,0.0040
+"year, tmID, name, lgID, franchID, playoff, confID, GF",1.0000,0.3766,0.0040
+"year, tmID, name, lgID, franchID, playoff, confID, rank",1.0000,0.3766,0.0030
+"year, tmID, name, lgID, franchID, playoff, divID, GF",1.0000,0.4885,0.0040
+"year, tmID, name, lgID, franchID, playoff, divID, rank",1.0000,0.4885,0.0040
+"year, tmID, name, lgID, franchID, playoff, GF, rank",1.0000,0.6162,0.0040
+"year, tmID, name, lgID, franchID, confID, divID, GF",1.0000,0.5938,0.0050
+"year, tmID, name, lgID, franchID, confID, divID, rank",1.0000,0.5938,0.0050
+"year, tmID, name, lgID, franchID, confID, GF, rank",1.0000,0.5938,0.0050
+"year, tmID, name, lgID, franchID, divID, GF, rank",1.0000,0.7709,0.0050
+"year, tmID, name, lgID, playoff, confID, divID, GF",1.0000,0.3766,0.0040
+"year, tmID, name, lgID, playoff, confID, divID, rank",1.0000,0.3766,0.0040
+"year, tmID, name, lgID, playoff, confID, GF, rank",1.0000,0.3766,0.0040
+"year, tmID, name, lgID, playoff, divID, GF, rank",1.0000,0.4885,0.0040
+"year, tmID, name, lgID, confID, divID, GF, rank",1.0000,0.5938,0.0050
+"year, tmID, name, franchID, playoff, confID, divID, GF",1.0000,0.3766,0.0040
+"year, tmID, name, franchID, playoff, confID, divID, rank",1.0000,0.3766,0.0030
+"year, tmID, name, franchID, playoff, confID, GF, rank",1.0000,0.3766,0.0040
+"year, tmID, name, franchID, playoff, divID, GF, rank",1.0000,0.4885,0.0050
+"year, tmID, name, franchID, confID, divID, GF, rank",1.0000,0.5938,0.0050
+"year, tmID, name, playoff, confID, divID, GF, rank",1.0000,0.3766,0.0040
+"year, tmID, lgID, franchID, playoff, confID, divID, GF",1.0000,0.3766,0.0040
+"year, tmID, lgID, franchID, playoff, confID, divID, rank",1.0000,0.3766,0.0040
+"year, tmID, lgID, franchID, playoff, confID, GF, rank",1.0000,0.3766,0.0040
+"year, tmID, lgID, franchID, playoff, divID, GF, rank",1.0000,0.4885,0.0050
+"year, tmID, lgID, franchID, confID, divID, GF, rank",1.0000,0.5938,0.0050
+"year, tmID, lgID, playoff, confID, divID, GF, rank",1.0000,0.3766,0.0040
+"year, tmID, franchID, playoff, confID, divID, GF, rank",1.0000,0.3766,0.0040
+"year, name, lgID, franchID, playoff, confID, divID, GF",1.0000,0.3766,0.0040
+"year, name, lgID, franchID, playoff, confID, divID, rank",1.0000,0.3766,0.0040
+"year, name, lgID, franchID, playoff, confID, GF, rank",1.0000,0.3766,0.0040
+"year, name, lgID, franchID, playoff, divID, GF, rank",1.0000,0.4885,0.0040
+"year, name, lgID, franchID, confID, divID, GF, rank",1.0000,0.5938,0.0050
+"year, name, lgID, playoff, confID, divID, GF, rank",1.0000,0.3766,0.0040
+"year, name, franchID, playoff, confID, divID, GF, rank",1.0000,0.3766,0.0040
+"year, lgID, franchID, playoff, confID, divID, GF, rank",1.0000,0.3766,0.0040
+"tmID, name, lgID, franchID, playoff, confID, divID, GF",0.9934,0.3766,0.0040
+"tmID, name, lgID, franchID, playoff, confID, divID, rank",0.7966,0.3766,0.0040
+"tmID, name, lgID, franchID, playoff, confID, GF, rank",0.9974,0.3766,0.0040
+"tmID, name, lgID, franchID, playoff, divID, GF, rank",0.9947,0.4885,0.0040
+"tmID, name, lgID, franchID, confID, divID, GF, rank",0.9862,0.5938,0.0050
+"tmID, name, lgID, playoff, confID, divID, GF, rank",0.9974,0.3766,0.0050
+"tmID, name, franchID, playoff, confID, divID, GF, rank",0.9974,0.3766,0.0040
+"tmID, lgID, franchID, playoff, confID, divID, GF, rank",0.9974,0.3766,0.0040
+"name, lgID, franchID, playoff, confID, divID, GF, rank",0.9974,0.3766,0.0040
+"year, tmID, name, lgID, franchID, playoff, confID, divID, GF",1.0000,0.3766,0.0040
+"year, tmID, name, lgID, franchID, playoff, confID, divID, rank",1.0000,0.3766,0.0040
+"year, tmID, name, lgID, franchID, playoff, confID, GF, rank",1.0000,0.3766,0.0040
+"year, tmID, name, lgID, franchID, playoff, divID, GF, rank",1.0000,0.4885,0.0040
+"year, tmID, name, lgID, franchID, confID, divID, GF, rank",1.0000,0.5938,0.0050
+"year, tmID, name, lgID, playoff, confID, divID, GF, rank",1.0000,0.3766,0.0050
+"year, tmID, name, franchID, playoff, confID, divID, GF, rank",1.0000,0.3766,0.0040
+"year, tmID, lgID, franchID, playoff, confID, divID, GF, rank",1.0000,0.3766,0.0040
+"year, name, lgID, franchID, playoff, confID, divID, GF, rank",1.0000,0.3766,0.0040
+"tmID, name, lgID, franchID, playoff, confID, divID, GF, rank",0.9974,0.3766,0.0040
+"year, tmID, name, lgID, franchID, playoff, confID, divID, GF, rank",1.0000,0.3766,0.0050
