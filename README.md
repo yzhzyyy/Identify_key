@@ -52,7 +52,7 @@ SHOW TABLES;
 
 ## Experiments
 
-The experimental framework is implemented across two Jupyter notebooks located in the `experiment/` directory. Together, they cover the complete workflow of the study — from data loading and basic key analysis to subkey pruning, counter-example detection, and performance evaluation.
+The experimental framework is implemented across two Jupyter notebooks located in the `experiment/` directory. Together, they cover the complete workflow of the study — from data loading and basic key analysis to subkey pruning, counter-example detection.
 
 - **`hockey_analysis.ipynb`** — implements the core workflow of the framework. It covers:
   - Loading the local **Hockey** database and preparing experimental data.  
