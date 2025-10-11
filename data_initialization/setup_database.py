@@ -42,7 +42,7 @@ if __name__ == "__main__":
     parser.add_argument("--host", default="localhost", help="MySQL server host")
     parser.add_argument("--user", default="root", help="MySQL username")
     parser.add_argument("--password", required=True, help="MySQL password")
-    parser.add_argument("--database", default="HockeyDB", help="Database name to create")
+    parser.add_argument("--database", default="Hockey", help="Database name to create")
     parser.add_argument("--sql", default="Hockey.sql", help="Path to the SQL file")
 
     args = parser.parse_args()
