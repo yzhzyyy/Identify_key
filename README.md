@@ -1,4 +1,4 @@
-# Key Analysis in Relational Database
+# Analysis of Candidate Keys in Relational Databases
 
 This repository contains the full implementation, datasets, and experimental results for the paper:
 
