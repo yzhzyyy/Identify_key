@@ -1,219 +1,219 @@
 table_name,key,max,max_time,min,min_time,CR
-combinedshutouts,year,0.3333,0.0002949237823486328,0.0,0.0,1.0
-combinedshutouts,month,0.0185,0.0001709461212158203,0.0,0.0,1.0
-combinedshutouts,date,0.1852,0.0001742839813232422,0.0,0.0,1.0
-combinedshutouts,tmID,0.2407,0.0001709461212158203,0.0,0.0,1.0
-combinedshutouts,oppID,0.2963,0.00015783309936523438,0.0,0.0,1.0
-combinedshutouts,R/P,0.0,0.0002090930938720703,0.0,0.0,1.0
-combinedshutouts,IDgoalie1,0.6296,0.00019598007202148438,0.0,0.0,1.0
-combinedshutouts,IDgoalie2,0.7963,0.0008058547973632812,0.0,0.0,1.0
-combinedshutouts,"year, month",0.8889,0.00017571449279785156,0.0,0.0,1.0
-combinedshutouts,"year, date",1.0,0.00023317337036132812,0.0,0.0,1.0
-combinedshutouts,"year, tmID",0.8889,0.00018405914306640625,0.0,0.0,1.0
-combinedshutouts,"year, oppID",1.0,0.0001761913299560547,0.0,0.0,1.0
-combinedshutouts,"year, R/P",0.3333,0.0001761913299560547,0.0,0.0,1.0
-combinedshutouts,"year, IDgoalie1",0.8889,0.000186920166015625,0.0,0.0,1.0
-combinedshutouts,"year, IDgoalie2",0.9259,0.0001537799835205078,0.0,0.0,1.0
-combinedshutouts,"month, date",0.8889,0.00015306472778320312,0.0,0.0,1.0
-combinedshutouts,"month, tmID",0.7407,0.00015687942504882812,0.0,0.0,1.0
-combinedshutouts,"month, oppID",0.8889,0.00015592575073242188,0.0,0.0,1.0
-combinedshutouts,"month, R/P",0.0556,0.0001499652862548828,0.0,0.0,1.0
-combinedshutouts,"month, IDgoalie1",0.963,0.00017309188842773438,0.0,0.0,1.0
-combinedshutouts,"month, IDgoalie2",0.963,0.0001621246337890625,0.0,0.0,1.0
-combinedshutouts,"date, tmID",1.0,0.00016117095947265625,0.0,0.0,1.0
-combinedshutouts,"date, oppID",0.8889,0.00017905235290527344,0.0,0.0,1.0
-combinedshutouts,"date, R/P",0.2778,0.00017309188842773438,0.0,0.0,1.0
-combinedshutouts,"date, IDgoalie1",1.0,0.00018286705017089844,0.0,0.0,1.0
-combinedshutouts,"date, IDgoalie2",1.0,0.0001761913299560547,0.0,0.0,1.0
-combinedshutouts,"tmID, oppID",0.963,0.0001800060272216797,0.0,0.0,1.0
-combinedshutouts,"tmID, R/P",0.2963,0.0001800060272216797,0.0,0.0,1.0
-combinedshutouts,"tmID, IDgoalie1",0.7222,0.0001919269561767578,0.0,0.0,1.0
-combinedshutouts,"tmID, IDgoalie2",0.9259,0.0001938343048095703,0.0,0.0,1.0
-combinedshutouts,"oppID, R/P",0.3333,0.0001800060272216797,0.0,0.0,1.0
-combinedshutouts,"oppID, IDgoalie1",0.963,0.00019407272338867188,0.0,0.0,1.0
-combinedshutouts,"oppID, IDgoalie2",1.0,0.00018596649169921875,0.0,0.0,1.0
-combinedshutouts,"R/P, IDgoalie1",0.6852,0.00018095970153808594,0.0,0.0,1.0
-combinedshutouts,"R/P, IDgoalie2",0.8333,0.00020813941955566406,0.0,0.0,1.0
-combinedshutouts,"IDgoalie1, IDgoalie2",0.9259,0.0002498626708984375,0.0,0.0,1.0
-combinedshutouts,"year, month, date",1.0,0.0001857280731201172,0.0,0.0,1.0
-combinedshutouts,"year, month, tmID",1.0,0.0001971721649169922,0.0,0.0,1.0
-combinedshutouts,"year, month, oppID",1.0,0.00019407272338867188,0.0,0.0,1.0
-combinedshutouts,"year, month, R/P",0.8889,0.0001900196075439453,0.0,0.0,1.0
-combinedshutouts,"year, month, IDgoalie1",1.0,0.00019669532775878906,0.0,0.0,1.0
-combinedshutouts,"year, month, IDgoalie2",1.0,0.0001919269561767578,0.0,0.0,1.0
-combinedshutouts,"year, date, tmID",1.0,0.00018310546875,0.0,0.0,1.0
-combinedshutouts,"year, date, oppID",1.0,0.0001761913299560547,0.0,0.0,1.0
-combinedshutouts,"year, date, R/P",1.0,0.0001800060272216797,0.0,0.0,1.0
-combinedshutouts,"year, date, IDgoalie1",1.0,0.000186920166015625,0.0,0.0,1.0
-combinedshutouts,"year, date, IDgoalie2",1.0,0.00018715858459472656,0.0,0.0,1.0
-combinedshutouts,"year, tmID, oppID",1.0,0.0001938343048095703,0.0,0.0,1.0
-combinedshutouts,"year, tmID, R/P",0.8889,0.0001888275146484375,0.0,0.0,1.0
-combinedshutouts,"year, tmID, IDgoalie1",0.8889,0.00021886825561523438,0.0,0.0,1.0
-combinedshutouts,"year, tmID, IDgoalie2",0.9259,0.00019097328186035156,0.0,0.0,1.0
+combinedshutouts,year,0.3333,0.0002918243408203125,0.0,0.0,1.0
+combinedshutouts,month,0.0185,0.00014400482177734375,0.0,0.0,1.0
+combinedshutouts,date,0.1852,0.00016999244689941406,0.0,0.0,1.0
+combinedshutouts,tmID,0.2407,0.00016689300537109375,0.0,0.0,1.0
+combinedshutouts,oppID,0.2963,0.0001590251922607422,0.0,0.0,1.0
+combinedshutouts,R/P,0.0,0.00016069412231445312,0.0,0.0,1.0
+combinedshutouts,IDgoalie1,0.6296,0.00017786026000976562,0.0,0.0,1.0
+combinedshutouts,IDgoalie2,0.7963,0.0004780292510986328,0.0,0.0,1.0
+combinedshutouts,"year, month",0.8889,0.00019788742065429688,0.0,0.0,1.0
+combinedshutouts,"year, date",1.0,0.00018906593322753906,0.0,0.0,1.0
+combinedshutouts,"year, tmID",0.8889,0.00020074844360351562,0.0,0.0,1.0
+combinedshutouts,"year, oppID",1.0,0.0001938343048095703,0.0,0.0,1.0
+combinedshutouts,"year, R/P",0.3333,0.00022912025451660156,0.0,0.0,1.0
+combinedshutouts,"year, IDgoalie1",0.8889,0.0005171298980712891,0.0,0.0,1.0
+combinedshutouts,"year, IDgoalie2",0.9259,0.00019502639770507812,0.0,0.0,1.0
+combinedshutouts,"month, date",0.8889,0.00017189979553222656,0.0,0.0,1.0
+combinedshutouts,"month, tmID",0.7407,0.0005648136138916016,0.0,0.0,1.0
+combinedshutouts,"month, oppID",0.8889,0.00033593177795410156,0.0,0.0,1.0
+combinedshutouts,"month, R/P",0.0556,0.00019621849060058594,0.0,0.0,1.0
+combinedshutouts,"month, IDgoalie1",0.963,0.00019311904907226562,0.0,0.0,1.0
+combinedshutouts,"month, IDgoalie2",0.963,0.00019812583923339844,0.0,0.0,1.0
+combinedshutouts,"date, tmID",1.0,0.00016832351684570312,0.0,0.0,1.0
+combinedshutouts,"date, oppID",0.8889,0.0001590251922607422,0.0,0.0,1.0
+combinedshutouts,"date, R/P",0.2778,0.00015115737915039062,0.0,0.0,1.0
+combinedshutouts,"date, IDgoalie1",1.0,0.00021004676818847656,0.0,0.0,1.0
+combinedshutouts,"date, IDgoalie2",1.0,0.00018262863159179688,0.0,0.0,1.0
+combinedshutouts,"tmID, oppID",0.963,0.0001862049102783203,0.0,0.0,1.0
+combinedshutouts,"tmID, R/P",0.2963,0.00015592575073242188,0.0,0.0,1.0
+combinedshutouts,"tmID, IDgoalie1",0.7222,0.00016307830810546875,0.0,0.0,1.0
+combinedshutouts,"tmID, IDgoalie2",0.9259,0.00015401840209960938,0.0,0.0,1.0
+combinedshutouts,"oppID, R/P",0.3333,0.0001499652862548828,0.0,0.0,1.0
+combinedshutouts,"oppID, IDgoalie1",0.963,0.000209808349609375,0.0,0.0,1.0
+combinedshutouts,"oppID, IDgoalie2",1.0,0.00016689300537109375,0.0,0.0,1.0
+combinedshutouts,"R/P, IDgoalie1",0.6852,0.00017213821411132812,0.0,0.0,1.0
+combinedshutouts,"R/P, IDgoalie2",0.8333,0.0001583099365234375,0.0,0.0,1.0
+combinedshutouts,"IDgoalie1, IDgoalie2",0.9259,0.00020003318786621094,0.0,0.0,1.0
+combinedshutouts,"year, month, date",1.0,0.00017523765563964844,0.0,0.0,1.0
+combinedshutouts,"year, month, tmID",1.0,0.00017309188842773438,0.0,0.0,1.0
+combinedshutouts,"year, month, oppID",1.0,0.0001690387725830078,0.0,0.0,1.0
+combinedshutouts,"year, month, R/P",0.8889,0.000186920166015625,0.0,0.0,1.0
+combinedshutouts,"year, month, IDgoalie1",1.0,0.0001819133758544922,0.0,0.0,1.0
+combinedshutouts,"year, month, IDgoalie2",1.0,0.00017499923706054688,0.0,0.0,1.0
+combinedshutouts,"year, date, tmID",1.0,0.00017070770263671875,0.0,0.0,1.0
+combinedshutouts,"year, date, oppID",1.0,0.0001690387725830078,0.0,0.0,1.0
+combinedshutouts,"year, date, R/P",1.0,0.00017213821411132812,0.0,0.0,1.0
+combinedshutouts,"year, date, IDgoalie1",1.0,0.00017309188842773438,0.0,0.0,1.0
+combinedshutouts,"year, date, IDgoalie2",1.0,0.00019502639770507812,0.0,0.0,1.0
+combinedshutouts,"year, tmID, oppID",1.0,0.00019669532775878906,0.0,0.0,1.0
+combinedshutouts,"year, tmID, R/P",0.8889,0.00017118453979492188,0.0,0.0,1.0
+combinedshutouts,"year, tmID, IDgoalie1",0.8889,0.0004248619079589844,0.0,0.0,1.0
+combinedshutouts,"year, tmID, IDgoalie2",0.9259,0.00021409988403320312,0.0,0.0,1.0
 combinedshutouts,"year, oppID, R/P",1.0,0.0002071857452392578,0.0,0.0,1.0
-combinedshutouts,"year, oppID, IDgoalie1",1.0,0.00021219253540039062,0.0,0.0,1.0
-combinedshutouts,"year, oppID, IDgoalie2",1.0,0.00019788742065429688,0.0,0.0,1.0
-combinedshutouts,"year, R/P, IDgoalie1",0.8889,0.0002009868621826172,0.0,0.0,1.0
-combinedshutouts,"year, R/P, IDgoalie2",0.9259,0.00018835067749023438,0.0,0.0,1.0
-combinedshutouts,"year, IDgoalie1, IDgoalie2",0.9259,0.0002181529998779297,0.0,0.0,1.0
-combinedshutouts,"month, date, tmID",1.0,0.00036787986755371094,0.0,0.0,1.0
-combinedshutouts,"month, date, oppID",1.0,0.00018596649169921875,0.0,0.0,1.0
-combinedshutouts,"month, date, R/P",0.8889,0.00016808509826660156,0.0,0.0,1.0
-combinedshutouts,"month, date, IDgoalie1",1.0,0.00018596649169921875,0.0,0.0,1.0
-combinedshutouts,"month, date, IDgoalie2",1.0,0.0001990795135498047,0.0,0.0,1.0
-combinedshutouts,"month, tmID, oppID",1.0,0.00019311904907226562,0.0,0.0,1.0
-combinedshutouts,"month, tmID, R/P",0.7778,0.00018787384033203125,0.0,0.0,1.0
-combinedshutouts,"month, tmID, IDgoalie1",1.0,0.00019216537475585938,0.0,0.0,1.0
-combinedshutouts,"month, tmID, IDgoalie2",1.0,0.0001819133758544922,0.0,0.0,1.0
-combinedshutouts,"month, oppID, R/P",0.8889,0.00017595291137695312,0.0,0.0,1.0
-combinedshutouts,"month, oppID, IDgoalie1",1.0,0.00018787384033203125,0.0,0.0,1.0
-combinedshutouts,"month, oppID, IDgoalie2",1.0,0.00018787384033203125,0.0,0.0,1.0
-combinedshutouts,"month, R/P, IDgoalie1",1.0,0.00018310546875,0.0,0.0,1.0
-combinedshutouts,"month, R/P, IDgoalie2",0.963,0.00018930435180664062,0.0,0.0,1.0
-combinedshutouts,"month, IDgoalie1, IDgoalie2",1.0,0.00020003318786621094,0.0,0.0,1.0
-combinedshutouts,"date, tmID, oppID",1.0,0.00018286705017089844,0.0,0.0,1.0
-combinedshutouts,"date, tmID, R/P",1.0,0.0001819133758544922,0.0,0.0,1.0
-combinedshutouts,"date, tmID, IDgoalie1",1.0,0.0001971721649169922,0.0,0.0,1.0
-combinedshutouts,"date, tmID, IDgoalie2",1.0,0.0001919269561767578,0.0,0.0,1.0
-combinedshutouts,"date, oppID, R/P",0.8889,0.00018310546875,0.0,0.0,1.0
-combinedshutouts,"date, oppID, IDgoalie1",1.0,0.0001900196075439453,0.0,0.0,1.0
-combinedshutouts,"date, oppID, IDgoalie2",1.0,0.00019478797912597656,0.0,0.0,1.0
-combinedshutouts,"date, R/P, IDgoalie1",1.0,0.00018906593322753906,0.0,0.0,1.0
-combinedshutouts,"date, R/P, IDgoalie2",1.0,0.00018405914306640625,0.0,0.0,1.0
-combinedshutouts,"date, IDgoalie1, IDgoalie2",1.0,0.00019097328186035156,0.0,0.0,1.0
-combinedshutouts,"tmID, oppID, R/P",0.963,0.00018715858459472656,0.0,0.0,1.0
-combinedshutouts,"tmID, oppID, IDgoalie1",0.963,0.00047397613525390625,0.0,0.0,1.0
-combinedshutouts,"tmID, oppID, IDgoalie2",1.0,0.00020122528076171875,0.0,0.0,1.0
-combinedshutouts,"tmID, R/P, IDgoalie1",0.7593,0.00019311904907226562,0.0,0.0,1.0
-combinedshutouts,"tmID, R/P, IDgoalie2",0.9259,0.0001862049102783203,0.0,0.0,1.0
-combinedshutouts,"tmID, IDgoalie1, IDgoalie2",0.9259,0.00019502639770507812,0.0,0.0,1.0
-combinedshutouts,"oppID, R/P, IDgoalie1",0.963,0.00018215179443359375,0.0,0.0,1.0
-combinedshutouts,"oppID, R/P, IDgoalie2",1.0,0.00018715858459472656,0.0,0.0,1.0
+combinedshutouts,"year, oppID, IDgoalie1",1.0,0.00025582313537597656,0.0,0.0,1.0
+combinedshutouts,"year, oppID, IDgoalie2",1.0,0.00025391578674316406,0.0,0.0,1.0
+combinedshutouts,"year, R/P, IDgoalie1",0.8889,0.0008900165557861328,0.0,0.0,1.0
+combinedshutouts,"year, R/P, IDgoalie2",0.9259,0.0002422332763671875,0.0,0.0,1.0
+combinedshutouts,"year, IDgoalie1, IDgoalie2",0.9259,0.00023293495178222656,0.0,0.0,1.0
+combinedshutouts,"month, date, tmID",1.0,0.00017523765563964844,0.0,0.0,1.0
+combinedshutouts,"month, date, oppID",1.0,0.00019788742065429688,0.0,0.0,1.0
+combinedshutouts,"month, date, R/P",0.8889,0.0001926422119140625,0.0,0.0,1.0
+combinedshutouts,"month, date, IDgoalie1",1.0,0.00017523765563964844,0.0,0.0,1.0
+combinedshutouts,"month, date, IDgoalie2",1.0,0.0002200603485107422,0.0,0.0,1.0
+combinedshutouts,"month, tmID, oppID",1.0,0.00033211708068847656,0.0,0.0,1.0
+combinedshutouts,"month, tmID, R/P",0.7778,0.00025534629821777344,0.0,0.0,1.0
+combinedshutouts,"month, tmID, IDgoalie1",1.0,0.0002498626708984375,0.0,0.0,1.0
+combinedshutouts,"month, tmID, IDgoalie2",1.0,0.00021505355834960938,0.0,0.0,1.0
+combinedshutouts,"month, oppID, R/P",0.8889,0.00017213821411132812,0.0,0.0,1.0
+combinedshutouts,"month, oppID, IDgoalie1",1.0,0.00030112266540527344,0.0,0.0,1.0
+combinedshutouts,"month, oppID, IDgoalie2",1.0,0.0002219676971435547,0.0,0.0,1.0
+combinedshutouts,"month, R/P, IDgoalie1",1.0,0.0002110004425048828,0.0,0.0,1.0
+combinedshutouts,"month, R/P, IDgoalie2",0.963,0.00023603439331054688,0.0,0.0,1.0
+combinedshutouts,"month, IDgoalie1, IDgoalie2",1.0,0.00020384788513183594,0.0,0.0,1.0
+combinedshutouts,"date, tmID, oppID",1.0,0.00020194053649902344,0.0,0.0,1.0
+combinedshutouts,"date, tmID, R/P",1.0,0.0001971721649169922,0.0,0.0,1.0
+combinedshutouts,"date, tmID, IDgoalie1",1.0,0.0001819133758544922,0.0,0.0,1.0
+combinedshutouts,"date, tmID, IDgoalie2",1.0,0.00028634071350097656,0.0,0.0,1.0
+combinedshutouts,"date, oppID, R/P",0.8889,0.0002281665802001953,0.0,0.0,1.0
+combinedshutouts,"date, oppID, IDgoalie1",1.0,0.00018095970153808594,0.0,0.0,1.0
+combinedshutouts,"date, oppID, IDgoalie2",1.0,0.00019693374633789062,0.0,0.0,1.0
+combinedshutouts,"date, R/P, IDgoalie1",1.0,0.00017499923706054688,0.0,0.0,1.0
+combinedshutouts,"date, R/P, IDgoalie2",1.0,0.00024890899658203125,0.0,0.0,1.0
+combinedshutouts,"date, IDgoalie1, IDgoalie2",1.0,0.00023984909057617188,0.0,0.0,1.0
+combinedshutouts,"tmID, oppID, R/P",0.963,0.00019598007202148438,0.0,0.0,1.0
+combinedshutouts,"tmID, oppID, IDgoalie1",0.963,0.00019884109497070312,0.0,0.0,1.0
+combinedshutouts,"tmID, oppID, IDgoalie2",1.0,0.0002579689025878906,0.0,0.0,1.0
+combinedshutouts,"tmID, R/P, IDgoalie1",0.7593,0.000186920166015625,0.0,0.0,1.0
+combinedshutouts,"tmID, R/P, IDgoalie2",0.9259,0.00018906593322753906,0.0,0.0,1.0
+combinedshutouts,"tmID, IDgoalie1, IDgoalie2",0.9259,0.00019025802612304688,0.0,0.0,1.0
+combinedshutouts,"oppID, R/P, IDgoalie1",0.963,0.00019478797912597656,0.0,0.0,1.0
+combinedshutouts,"oppID, R/P, IDgoalie2",1.0,0.00018215179443359375,0.0,0.0,1.0
 combinedshutouts,"oppID, IDgoalie1, IDgoalie2",1.0,0.0001919269561767578,0.0,0.0,1.0
-combinedshutouts,"R/P, IDgoalie1, IDgoalie2",0.9259,0.00018906593322753906,0.0,0.0,1.0
-combinedshutouts,"year, month, date, tmID",1.0,0.00017976760864257812,0.0,0.0,1.0
-combinedshutouts,"year, month, date, oppID",1.0,0.00016999244689941406,0.0,0.0,1.0
-combinedshutouts,"year, month, date, R/P",1.0,0.00015783309936523438,0.0,0.0,1.0
-combinedshutouts,"year, month, date, IDgoalie1",1.0,0.00017309188842773438,0.0,0.0,1.0
-combinedshutouts,"year, month, date, IDgoalie2",1.0,0.00017189979553222656,0.0,0.0,1.0
-combinedshutouts,"year, month, tmID, oppID",1.0,0.00015878677368164062,0.0,0.0,1.0
-combinedshutouts,"year, month, tmID, R/P",1.0,0.00016617774963378906,0.0,0.0,1.0
-combinedshutouts,"year, month, tmID, IDgoalie1",1.0,0.00016999244689941406,0.0,0.0,1.0
-combinedshutouts,"year, month, tmID, IDgoalie2",1.0,0.0001647472381591797,0.0,0.0,1.0
-combinedshutouts,"year, month, oppID, R/P",1.0,0.00017786026000976562,0.0,0.0,1.0
-combinedshutouts,"year, month, oppID, IDgoalie1",1.0,0.00017714500427246094,0.0,0.0,1.0
-combinedshutouts,"year, month, oppID, IDgoalie2",1.0,0.00017380714416503906,0.0,0.0,1.0
-combinedshutouts,"year, month, R/P, IDgoalie1",1.0,0.000164031982421875,0.0,0.0,1.0
-combinedshutouts,"year, month, R/P, IDgoalie2",1.0,0.00016307830810546875,0.0,0.0,1.0
-combinedshutouts,"year, month, IDgoalie1, IDgoalie2",1.0,0.00016999244689941406,0.0,0.0,1.0
-combinedshutouts,"year, date, tmID, oppID",1.0,0.00017404556274414062,0.0,0.0,1.0
-combinedshutouts,"year, date, tmID, R/P",1.0,0.0001659393310546875,0.0,0.0,1.0
-combinedshutouts,"year, date, tmID, IDgoalie1",1.0,0.000179290771484375,0.0,0.0,1.0
-combinedshutouts,"year, date, tmID, IDgoalie2",1.0,0.0001690387725830078,0.0,0.0,1.0
-combinedshutouts,"year, date, oppID, R/P",1.0,0.00016188621520996094,0.0,0.0,1.0
-combinedshutouts,"year, date, oppID, IDgoalie1",1.0,0.00016617774963378906,0.0,0.0,1.0
-combinedshutouts,"year, date, oppID, IDgoalie2",1.0,0.0001659393310546875,0.0,0.0,1.0
-combinedshutouts,"year, date, R/P, IDgoalie1",1.0,0.0001678466796875,0.0,0.0,1.0
-combinedshutouts,"year, date, R/P, IDgoalie2",1.0,0.00016689300537109375,0.0,0.0,1.0
-combinedshutouts,"year, date, IDgoalie1, IDgoalie2",1.0,0.000171661376953125,0.0,0.0,1.0
-combinedshutouts,"year, tmID, oppID, R/P",1.0,0.00016617774963378906,0.0,0.0,1.0
-combinedshutouts,"year, tmID, oppID, IDgoalie1",1.0,0.00017118453979492188,0.0,0.0,1.0
-combinedshutouts,"year, tmID, oppID, IDgoalie2",1.0,0.00017499923706054688,0.0,0.0,1.0
-combinedshutouts,"year, tmID, R/P, IDgoalie1",0.8889,0.0001678466796875,0.0,0.0,1.0
-combinedshutouts,"year, tmID, R/P, IDgoalie2",0.9259,0.00016689300537109375,0.0,0.0,1.0
-combinedshutouts,"year, tmID, IDgoalie1, IDgoalie2",0.9259,0.0001728534698486328,0.0,0.0,1.0
-combinedshutouts,"year, oppID, R/P, IDgoalie1",1.0,0.0001678466796875,0.0,0.0,1.0
-combinedshutouts,"year, oppID, R/P, IDgoalie2",1.0,0.00016880035400390625,0.0,0.0,1.0
-combinedshutouts,"year, oppID, IDgoalie1, IDgoalie2",1.0,0.00017786026000976562,0.0,0.0,1.0
-combinedshutouts,"year, R/P, IDgoalie1, IDgoalie2",0.9259,0.0001747608184814453,0.0,0.0,1.0
-combinedshutouts,"month, date, tmID, oppID",1.0,0.00015878677368164062,0.0,0.0,1.0
-combinedshutouts,"month, date, tmID, R/P",1.0,0.00015997886657714844,0.0,0.0,1.0
-combinedshutouts,"month, date, tmID, IDgoalie1",1.0,0.00018405914306640625,0.0,0.0,1.0
-combinedshutouts,"month, date, tmID, IDgoalie2",1.0,0.0001709461212158203,0.0,0.0,1.0
-combinedshutouts,"month, date, oppID, R/P",1.0,0.00014591217041015625,0.0,0.0,1.0
-combinedshutouts,"month, date, oppID, IDgoalie1",1.0,0.00016379356384277344,0.0,0.0,1.0
-combinedshutouts,"month, date, oppID, IDgoalie2",1.0,0.0001678466796875,0.0,0.0,1.0
-combinedshutouts,"month, date, R/P, IDgoalie1",1.0,0.0001621246337890625,0.0,0.0,1.0
-combinedshutouts,"month, date, R/P, IDgoalie2",1.0,0.00015997886657714844,0.0,0.0,1.0
-combinedshutouts,"month, date, IDgoalie1, IDgoalie2",1.0,0.0001728534698486328,0.0,0.0,1.0
-combinedshutouts,"month, tmID, oppID, R/P",1.0,0.00017380714416503906,0.0,0.0,1.0
-combinedshutouts,"month, tmID, oppID, IDgoalie1",1.0,0.00016880035400390625,0.0,0.0,1.0
+combinedshutouts,"R/P, IDgoalie1, IDgoalie2",0.9259,0.00017499923706054688,0.0,0.0,1.0
+combinedshutouts,"year, month, date, tmID",1.0,0.00015211105346679688,0.0,0.0,1.0
+combinedshutouts,"year, month, date, oppID",1.0,0.00015401840209960938,0.0,0.0,1.0
+combinedshutouts,"year, month, date, R/P",1.0,0.00015425682067871094,0.0,0.0,1.0
+combinedshutouts,"year, month, date, IDgoalie1",1.0,0.00015473365783691406,0.0,0.0,1.0
+combinedshutouts,"year, month, date, IDgoalie2",1.0,0.0001571178436279297,0.0,0.0,1.0
+combinedshutouts,"year, month, tmID, oppID",1.0,0.00015282630920410156,0.0,0.0,1.0
+combinedshutouts,"year, month, tmID, R/P",1.0,0.00015306472778320312,0.0,0.0,1.0
+combinedshutouts,"year, month, tmID, IDgoalie1",1.0,0.00016069412231445312,0.0,0.0,1.0
+combinedshutouts,"year, month, tmID, IDgoalie2",1.0,0.00015687942504882812,0.0,0.0,1.0
+combinedshutouts,"year, month, oppID, R/P",1.0,0.0001499652862548828,0.0,0.0,1.0
+combinedshutouts,"year, month, oppID, IDgoalie1",1.0,0.0001571178436279297,0.0,0.0,1.0
+combinedshutouts,"year, month, oppID, IDgoalie2",1.0,0.0001590251922607422,0.0,0.0,1.0
+combinedshutouts,"year, month, R/P, IDgoalie1",1.0,0.00015592575073242188,0.0,0.0,1.0
+combinedshutouts,"year, month, R/P, IDgoalie2",1.0,0.00015807151794433594,0.0,0.0,1.0
+combinedshutouts,"year, month, IDgoalie1, IDgoalie2",1.0,0.000164031982421875,0.0,0.0,1.0
+combinedshutouts,"year, date, tmID, oppID",1.0,0.0001518726348876953,0.0,0.0,1.0
+combinedshutouts,"year, date, tmID, R/P",1.0,0.00016379356384277344,0.0,0.0,1.0
+combinedshutouts,"year, date, tmID, IDgoalie1",1.0,0.00018978118896484375,0.0,0.0,1.0
+combinedshutouts,"year, date, tmID, IDgoalie2",1.0,0.0001838207244873047,0.0,0.0,1.0
+combinedshutouts,"year, date, oppID, R/P",1.0,0.00018215179443359375,0.0,0.0,1.0
+combinedshutouts,"year, date, oppID, IDgoalie1",1.0,0.00016808509826660156,0.0,0.0,1.0
+combinedshutouts,"year, date, oppID, IDgoalie2",1.0,0.00016379356384277344,0.0,0.0,1.0
+combinedshutouts,"year, date, R/P, IDgoalie1",1.0,0.0001647472381591797,0.0,0.0,1.0
+combinedshutouts,"year, date, R/P, IDgoalie2",1.0,0.0001552104949951172,0.0,0.0,1.0
+combinedshutouts,"year, date, IDgoalie1, IDgoalie2",1.0,0.00016808509826660156,0.0,0.0,1.0
+combinedshutouts,"year, tmID, oppID, R/P",1.0,0.00017905235290527344,0.0,0.0,1.0
+combinedshutouts,"year, tmID, oppID, IDgoalie1",1.0,0.000164031982421875,0.0,0.0,1.0
+combinedshutouts,"year, tmID, oppID, IDgoalie2",1.0,0.0001659393310546875,0.0,0.0,1.0
+combinedshutouts,"year, tmID, R/P, IDgoalie1",0.8889,0.00016999244689941406,0.0,0.0,1.0
+combinedshutouts,"year, tmID, R/P, IDgoalie2",0.9259,0.0001590251922607422,0.0,0.0,1.0
+combinedshutouts,"year, tmID, IDgoalie1, IDgoalie2",0.9259,0.0001678466796875,0.0,0.0,1.0
+combinedshutouts,"year, oppID, R/P, IDgoalie1",1.0,0.00015878677368164062,0.0,0.0,1.0
+combinedshutouts,"year, oppID, R/P, IDgoalie2",1.0,0.00017690658569335938,0.0,0.0,1.0
+combinedshutouts,"year, oppID, IDgoalie1, IDgoalie2",1.0,0.00016379356384277344,0.0,0.0,1.0
+combinedshutouts,"year, R/P, IDgoalie1, IDgoalie2",0.9259,0.00016307830810546875,0.0,0.0,1.0
+combinedshutouts,"month, date, tmID, oppID",1.0,0.00014829635620117188,0.0,0.0,1.0
+combinedshutouts,"month, date, tmID, R/P",1.0,0.00015211105346679688,0.0,0.0,1.0
+combinedshutouts,"month, date, tmID, IDgoalie1",1.0,0.00015425682067871094,0.0,0.0,1.0
+combinedshutouts,"month, date, tmID, IDgoalie2",1.0,0.00015926361083984375,0.0,0.0,1.0
+combinedshutouts,"month, date, oppID, R/P",1.0,0.00015211105346679688,0.0,0.0,1.0
+combinedshutouts,"month, date, oppID, IDgoalie1",1.0,0.00015401840209960938,0.0,0.0,1.0
+combinedshutouts,"month, date, oppID, IDgoalie2",1.0,0.00015687942504882812,0.0,0.0,1.0
+combinedshutouts,"month, date, R/P, IDgoalie1",1.0,0.0001537799835205078,0.0,0.0,1.0
+combinedshutouts,"month, date, R/P, IDgoalie2",1.0,0.0001659393310546875,0.0,0.0,1.0
+combinedshutouts,"month, date, IDgoalie1, IDgoalie2",1.0,0.00015592575073242188,0.0,0.0,1.0
+combinedshutouts,"month, tmID, oppID, R/P",1.0,0.00016808509826660156,0.0,0.0,1.0
+combinedshutouts,"month, tmID, oppID, IDgoalie1",1.0,0.00016808509826660156,0.0,0.0,1.0
 combinedshutouts,"month, tmID, oppID, IDgoalie2",1.0,0.00017404556274414062,0.0,0.0,1.0
-combinedshutouts,"month, tmID, R/P, IDgoalie1",1.0,0.0001671314239501953,0.0,0.0,1.0
-combinedshutouts,"month, tmID, R/P, IDgoalie2",1.0,0.00017404556274414062,0.0,0.0,1.0
-combinedshutouts,"month, tmID, IDgoalie1, IDgoalie2",1.0,0.00017905235290527344,0.0,0.0,1.0
-combinedshutouts,"month, oppID, R/P, IDgoalie1",1.0,0.0001659393310546875,0.0,0.0,1.0
-combinedshutouts,"month, oppID, R/P, IDgoalie2",1.0,0.0001518726348876953,0.0,0.0,1.0
-combinedshutouts,"month, oppID, IDgoalie1, IDgoalie2",1.0,0.00015401840209960938,0.0,0.0,1.0
-combinedshutouts,"month, R/P, IDgoalie1, IDgoalie2",1.0,0.00016498565673828125,0.0,0.0,1.0
-combinedshutouts,"date, tmID, oppID, R/P",1.0,0.00014519691467285156,0.0,0.0,1.0
-combinedshutouts,"date, tmID, oppID, IDgoalie1",1.0,0.00015020370483398438,0.0,0.0,1.0
-combinedshutouts,"date, tmID, oppID, IDgoalie2",1.0,0.00015020370483398438,0.0,0.0,1.0
-combinedshutouts,"date, tmID, R/P, IDgoalie1",1.0,0.0001468658447265625,0.0,0.0,1.0
-combinedshutouts,"date, tmID, R/P, IDgoalie2",1.0,0.0001537799835205078,0.0,0.0,1.0
-combinedshutouts,"date, tmID, IDgoalie1, IDgoalie2",1.0,0.00015497207641601562,0.0,0.0,1.0
-combinedshutouts,"date, oppID, R/P, IDgoalie1",1.0,0.0001480579376220703,0.0,0.0,1.0
-combinedshutouts,"date, oppID, R/P, IDgoalie2",1.0,0.0001556873321533203,0.0,0.0,1.0
-combinedshutouts,"date, oppID, IDgoalie1, IDgoalie2",1.0,0.00015807151794433594,0.0,0.0,1.0
-combinedshutouts,"date, R/P, IDgoalie1, IDgoalie2",1.0,0.00015401840209960938,0.0,0.0,1.0
-combinedshutouts,"tmID, oppID, R/P, IDgoalie1",0.963,0.00015592575073242188,0.0,0.0,1.0
-combinedshutouts,"tmID, oppID, R/P, IDgoalie2",1.0,0.00015783309936523438,0.0,0.0,1.0
-combinedshutouts,"tmID, oppID, IDgoalie1, IDgoalie2",1.0,0.0001678466796875,0.0,0.0,1.0
-combinedshutouts,"tmID, R/P, IDgoalie1, IDgoalie2",0.9259,0.00016188621520996094,0.0,0.0,1.0
-combinedshutouts,"oppID, R/P, IDgoalie1, IDgoalie2",1.0,0.00016188621520996094,0.0,0.0,1.0
-combinedshutouts,"year, month, date, tmID, oppID",1.0,0.00015473365783691406,0.0,0.0,1.0
-combinedshutouts,"year, month, date, tmID, R/P",1.0,0.00015306472778320312,0.0,0.0,1.0
-combinedshutouts,"year, month, date, tmID, IDgoalie1",1.0,0.00015807151794433594,0.0,0.0,1.0
-combinedshutouts,"year, month, date, tmID, IDgoalie2",1.0,0.0002040863037109375,0.0,0.0,1.0
-combinedshutouts,"year, month, date, oppID, R/P",1.0,0.0001571178436279297,0.0,0.0,1.0
-combinedshutouts,"year, month, date, oppID, IDgoalie1",1.0,0.0001621246337890625,0.0,0.0,1.0
-combinedshutouts,"year, month, date, oppID, IDgoalie2",1.0,0.00015735626220703125,0.0,0.0,1.0
-combinedshutouts,"year, month, date, R/P, IDgoalie1",1.0,0.00015783309936523438,0.0,0.0,1.0
-combinedshutouts,"year, month, date, R/P, IDgoalie2",1.0,0.0001590251922607422,0.0,0.0,1.0
-combinedshutouts,"year, month, date, IDgoalie1, IDgoalie2",1.0,0.00016307830810546875,0.0,0.0,1.0
-combinedshutouts,"year, month, tmID, oppID, R/P",1.0,0.00015616416931152344,0.0,0.0,1.0
-combinedshutouts,"year, month, tmID, oppID, IDgoalie1",1.0,0.00017404556274414062,0.0,0.0,1.0
-combinedshutouts,"year, month, tmID, oppID, IDgoalie2",1.0,0.00017786026000976562,0.0,0.0,1.0
-combinedshutouts,"year, month, tmID, R/P, IDgoalie1",1.0,0.00017714500427246094,0.0,0.0,1.0
-combinedshutouts,"year, month, tmID, R/P, IDgoalie2",1.0,0.00017690658569335938,0.0,0.0,1.0
-combinedshutouts,"year, month, tmID, IDgoalie1, IDgoalie2",1.0,0.00021004676818847656,0.0,0.0,1.0
-combinedshutouts,"year, month, oppID, R/P, IDgoalie1",1.0,0.00017786026000976562,0.0,0.0,1.0
-combinedshutouts,"year, month, oppID, R/P, IDgoalie2",1.0,0.0001819133758544922,0.0,0.0,1.0
-combinedshutouts,"year, month, oppID, IDgoalie1, IDgoalie2",1.0,0.00018215179443359375,0.0,0.0,1.0
-combinedshutouts,"year, month, R/P, IDgoalie1, IDgoalie2",1.0,0.00018215179443359375,0.0,0.0,1.0
-combinedshutouts,"year, date, tmID, oppID, R/P",1.0,0.00017404556274414062,0.0,0.0,1.0
-combinedshutouts,"year, date, tmID, oppID, IDgoalie1",1.0,0.00017905235290527344,0.0,0.0,1.0
-combinedshutouts,"year, date, tmID, oppID, IDgoalie2",1.0,0.00018715858459472656,0.0,0.0,1.0
+combinedshutouts,"month, tmID, R/P, IDgoalie1",1.0,0.0001819133758544922,0.0,0.0,1.0
+combinedshutouts,"month, tmID, R/P, IDgoalie2",1.0,0.00016880035400390625,0.0,0.0,1.0
+combinedshutouts,"month, tmID, IDgoalie1, IDgoalie2",1.0,0.00017523765563964844,0.0,0.0,1.0
+combinedshutouts,"month, oppID, R/P, IDgoalie1",1.0,0.00017881393432617188,0.0,0.0,1.0
+combinedshutouts,"month, oppID, R/P, IDgoalie2",1.0,0.00018095970153808594,0.0,0.0,1.0
+combinedshutouts,"month, oppID, IDgoalie1, IDgoalie2",1.0,0.00016808509826660156,0.0,0.0,1.0
+combinedshutouts,"month, R/P, IDgoalie1, IDgoalie2",1.0,0.00017714500427246094,0.0,0.0,1.0
+combinedshutouts,"date, tmID, oppID, R/P",1.0,0.0001690387725830078,0.0,0.0,1.0
+combinedshutouts,"date, tmID, oppID, IDgoalie1",1.0,0.00016689300537109375,0.0,0.0,1.0
+combinedshutouts,"date, tmID, oppID, IDgoalie2",1.0,0.0001628398895263672,0.0,0.0,1.0
+combinedshutouts,"date, tmID, R/P, IDgoalie1",1.0,0.000164031982421875,0.0,0.0,1.0
+combinedshutouts,"date, tmID, R/P, IDgoalie2",1.0,0.000164031982421875,0.0,0.0,1.0
+combinedshutouts,"date, tmID, IDgoalie1, IDgoalie2",1.0,0.0001678466796875,0.0,0.0,1.0
+combinedshutouts,"date, oppID, R/P, IDgoalie1",1.0,0.00016307830810546875,0.0,0.0,1.0
+combinedshutouts,"date, oppID, R/P, IDgoalie2",1.0,0.00016188621520996094,0.0,0.0,1.0
+combinedshutouts,"date, oppID, IDgoalie1, IDgoalie2",1.0,0.000164031982421875,0.0,0.0,1.0
+combinedshutouts,"date, R/P, IDgoalie1, IDgoalie2",1.0,0.0001850128173828125,0.0,0.0,1.0
+combinedshutouts,"tmID, oppID, R/P, IDgoalie1",0.963,0.0001709461212158203,0.0,0.0,1.0
+combinedshutouts,"tmID, oppID, R/P, IDgoalie2",1.0,0.0001609325408935547,0.0,0.0,1.0
+combinedshutouts,"tmID, oppID, IDgoalie1, IDgoalie2",1.0,0.00017499923706054688,0.0,0.0,1.0
+combinedshutouts,"tmID, R/P, IDgoalie1, IDgoalie2",0.9259,0.00016617774963378906,0.0,0.0,1.0
+combinedshutouts,"oppID, R/P, IDgoalie1, IDgoalie2",1.0,0.000164031982421875,0.0,0.0,1.0
+combinedshutouts,"year, month, date, tmID, oppID",1.0,0.000179290771484375,0.0,0.0,1.0
+combinedshutouts,"year, month, date, tmID, R/P",1.0,0.00016498565673828125,0.0,0.0,1.0
+combinedshutouts,"year, month, date, tmID, IDgoalie1",1.0,0.00016880035400390625,0.0,0.0,1.0
+combinedshutouts,"year, month, date, tmID, IDgoalie2",1.0,0.0001671314239501953,0.0,0.0,1.0
+combinedshutouts,"year, month, date, oppID, R/P",1.0,0.00015687942504882812,0.0,0.0,1.0
+combinedshutouts,"year, month, date, oppID, IDgoalie1",1.0,0.00016427040100097656,0.0,0.0,1.0
+combinedshutouts,"year, month, date, oppID, IDgoalie2",1.0,0.0001919269561767578,0.0,0.0,1.0
+combinedshutouts,"year, month, date, R/P, IDgoalie1",1.0,0.00017213821411132812,0.0,0.0,1.0
+combinedshutouts,"year, month, date, R/P, IDgoalie2",1.0,0.00016617774963378906,0.0,0.0,1.0
+combinedshutouts,"year, month, date, IDgoalie1, IDgoalie2",1.0,0.00016880035400390625,0.0,0.0,1.0
+combinedshutouts,"year, month, tmID, oppID, R/P",1.0,0.0001761913299560547,0.0,0.0,1.0
+combinedshutouts,"year, month, tmID, oppID, IDgoalie1",1.0,0.00018095970153808594,0.0,0.0,1.0
+combinedshutouts,"year, month, tmID, oppID, IDgoalie2",1.0,0.00020003318786621094,0.0,0.0,1.0
+combinedshutouts,"year, month, tmID, R/P, IDgoalie1",1.0,0.00017261505126953125,0.0,0.0,1.0
+combinedshutouts,"year, month, tmID, R/P, IDgoalie2",1.0,0.0001761913299560547,0.0,0.0,1.0
+combinedshutouts,"year, month, tmID, IDgoalie1, IDgoalie2",1.0,0.00018787384033203125,0.0,0.0,1.0
+combinedshutouts,"year, month, oppID, R/P, IDgoalie1",1.0,0.0001709461212158203,0.0,0.0,1.0
+combinedshutouts,"year, month, oppID, R/P, IDgoalie2",1.0,0.0001862049102783203,0.0,0.0,1.0
+combinedshutouts,"year, month, oppID, IDgoalie1, IDgoalie2",1.0,0.00019216537475585938,0.0,0.0,1.0
+combinedshutouts,"year, month, R/P, IDgoalie1, IDgoalie2",1.0,0.00018095970153808594,0.0,0.0,1.0
+combinedshutouts,"year, date, tmID, oppID, R/P",1.0,0.0001919269561767578,0.0,0.0,1.0
+combinedshutouts,"year, date, tmID, oppID, IDgoalie1",1.0,0.00019788742065429688,0.0,0.0,1.0
+combinedshutouts,"year, date, tmID, oppID, IDgoalie2",1.0,0.00019788742065429688,0.0,0.0,1.0
 combinedshutouts,"year, date, tmID, R/P, IDgoalie1",1.0,0.00017690658569335938,0.0,0.0,1.0
-combinedshutouts,"year, date, tmID, R/P, IDgoalie2",1.0,0.00017976760864257812,0.0,0.0,1.0
-combinedshutouts,"year, date, tmID, IDgoalie1, IDgoalie2",1.0,0.00018906593322753906,0.0,0.0,1.0
-combinedshutouts,"year, date, oppID, R/P, IDgoalie1",1.0,0.0001747608184814453,0.0,0.0,1.0
-combinedshutouts,"year, date, oppID, R/P, IDgoalie2",1.0,0.0001747608184814453,0.0,0.0,1.0
-combinedshutouts,"year, date, oppID, IDgoalie1, IDgoalie2",1.0,0.0001800060272216797,0.0,0.0,1.0
-combinedshutouts,"year, date, R/P, IDgoalie1, IDgoalie2",1.0,0.0001800060272216797,0.0,0.0,1.0
-combinedshutouts,"year, tmID, oppID, R/P, IDgoalie1",1.0,0.00018215179443359375,0.0,0.0,1.0
-combinedshutouts,"year, tmID, oppID, R/P, IDgoalie2",1.0,0.00017714500427246094,0.0,0.0,1.0
-combinedshutouts,"year, tmID, oppID, IDgoalie1, IDgoalie2",1.0,0.00017881393432617188,0.0,0.0,1.0
-combinedshutouts,"year, tmID, R/P, IDgoalie1, IDgoalie2",0.9259,0.00017786026000976562,0.0,0.0,1.0
-combinedshutouts,"year, oppID, R/P, IDgoalie1, IDgoalie2",1.0,0.00017213821411132812,0.0,0.0,1.0
-combinedshutouts,"month, date, tmID, oppID, R/P",1.0,0.0001728534698486328,0.0,0.0,1.0
-combinedshutouts,"month, date, tmID, oppID, IDgoalie1",1.0,0.00018405914306640625,0.0,0.0,1.0
-combinedshutouts,"month, date, tmID, oppID, IDgoalie2",1.0,0.0001800060272216797,0.0,0.0,1.0
-combinedshutouts,"month, date, tmID, R/P, IDgoalie1",1.0,0.00018310546875,0.0,0.0,1.0
-combinedshutouts,"month, date, tmID, R/P, IDgoalie2",1.0,0.0001780986785888672,0.0,0.0,1.0
-combinedshutouts,"month, date, tmID, IDgoalie1, IDgoalie2",1.0,0.0001800060272216797,0.0,0.0,1.0
-combinedshutouts,"month, date, oppID, R/P, IDgoalie1",1.0,0.00018095970153808594,0.0,0.0,1.0
-combinedshutouts,"month, date, oppID, R/P, IDgoalie2",1.0,0.00017595291137695312,0.0,0.0,1.0
-combinedshutouts,"month, date, oppID, IDgoalie1, IDgoalie2",1.0,0.00018167495727539062,0.0,0.0,1.0
-combinedshutouts,"month, date, R/P, IDgoalie1, IDgoalie2",1.0,0.00017786026000976562,0.0,0.0,1.0
-combinedshutouts,"month, tmID, oppID, R/P, IDgoalie1",1.0,0.00017213821411132812,0.0,0.0,1.0
-combinedshutouts,"month, tmID, oppID, R/P, IDgoalie2",1.0,0.00017690658569335938,0.0,0.0,1.0
-combinedshutouts,"month, tmID, oppID, IDgoalie1, IDgoalie2",1.0,0.00017690658569335938,0.0,0.0,1.0
+combinedshutouts,"year, date, tmID, R/P, IDgoalie2",1.0,0.00018525123596191406,0.0,0.0,1.0
+combinedshutouts,"year, date, tmID, IDgoalie1, IDgoalie2",1.0,0.00019788742065429688,0.0,0.0,1.0
+combinedshutouts,"year, date, oppID, R/P, IDgoalie1",1.0,0.00018405914306640625,0.0,0.0,1.0
+combinedshutouts,"year, date, oppID, R/P, IDgoalie2",1.0,0.00020122528076171875,0.0,0.0,1.0
+combinedshutouts,"year, date, oppID, IDgoalie1, IDgoalie2",1.0,0.00019598007202148438,0.0,0.0,1.0
+combinedshutouts,"year, date, R/P, IDgoalie1, IDgoalie2",1.0,0.00018787384033203125,0.0,0.0,1.0
+combinedshutouts,"year, tmID, oppID, R/P, IDgoalie1",1.0,0.00017213821411132812,0.0,0.0,1.0
+combinedshutouts,"year, tmID, oppID, R/P, IDgoalie2",1.0,0.0001838207244873047,0.0,0.0,1.0
+combinedshutouts,"year, tmID, oppID, IDgoalie1, IDgoalie2",1.0,0.00022292137145996094,0.0,0.0,1.0
+combinedshutouts,"year, tmID, R/P, IDgoalie1, IDgoalie2",0.9259,0.00017213821411132812,0.0,0.0,1.0
+combinedshutouts,"year, oppID, R/P, IDgoalie1, IDgoalie2",1.0,0.00017571449279785156,0.0,0.0,1.0
+combinedshutouts,"month, date, tmID, oppID, R/P",1.0,0.00016498565673828125,0.0,0.0,1.0
+combinedshutouts,"month, date, tmID, oppID, IDgoalie1",1.0,0.0001838207244873047,0.0,0.0,1.0
+combinedshutouts,"month, date, tmID, oppID, IDgoalie2",1.0,0.00017309188842773438,0.0,0.0,1.0
+combinedshutouts,"month, date, tmID, R/P, IDgoalie1",1.0,0.0001850128173828125,0.0,0.0,1.0
+combinedshutouts,"month, date, tmID, R/P, IDgoalie2",1.0,0.00018310546875,0.0,0.0,1.0
+combinedshutouts,"month, date, tmID, IDgoalie1, IDgoalie2",1.0,0.00019097328186035156,0.0,0.0,1.0
+combinedshutouts,"month, date, oppID, R/P, IDgoalie1",1.0,0.0001800060272216797,0.0,0.0,1.0
+combinedshutouts,"month, date, oppID, R/P, IDgoalie2",1.0,0.0001780986785888672,0.0,0.0,1.0
+combinedshutouts,"month, date, oppID, IDgoalie1, IDgoalie2",1.0,0.00018024444580078125,0.0,0.0,1.0
+combinedshutouts,"month, date, R/P, IDgoalie1, IDgoalie2",1.0,0.00018215179443359375,0.0,0.0,1.0
+combinedshutouts,"month, tmID, oppID, R/P, IDgoalie1",1.0,0.00017189979553222656,0.0,0.0,1.0
+combinedshutouts,"month, tmID, oppID, R/P, IDgoalie2",1.0,0.0001709461212158203,0.0,0.0,1.0
+combinedshutouts,"month, tmID, oppID, IDgoalie1, IDgoalie2",1.0,0.00016808509826660156,0.0,0.0,1.0
 combinedshutouts,"month, tmID, R/P, IDgoalie1, IDgoalie2",1.0,0.00016999244689941406,0.0,0.0,1.0
-combinedshutouts,"month, oppID, R/P, IDgoalie1, IDgoalie2",1.0,0.00017881393432617188,0.0,0.0,1.0
-combinedshutouts,"date, tmID, oppID, R/P, IDgoalie1",1.0,0.00017905235290527344,0.0,0.0,1.0
-combinedshutouts,"date, tmID, oppID, R/P, IDgoalie2",1.0,0.00017309188842773438,0.0,0.0,1.0
-combinedshutouts,"date, tmID, oppID, IDgoalie1, IDgoalie2",1.0,0.0001800060272216797,0.0,0.0,1.0
+combinedshutouts,"month, oppID, R/P, IDgoalie1, IDgoalie2",1.0,0.00018405914306640625,0.0,0.0,1.0
+combinedshutouts,"date, tmID, oppID, R/P, IDgoalie1",1.0,0.0001671314239501953,0.0,0.0,1.0
+combinedshutouts,"date, tmID, oppID, R/P, IDgoalie2",1.0,0.0001652240753173828,0.0,0.0,1.0
+combinedshutouts,"date, tmID, oppID, IDgoalie1, IDgoalie2",1.0,0.00016689300537109375,0.0,0.0,1.0
 combinedshutouts,"date, tmID, R/P, IDgoalie1, IDgoalie2",1.0,0.0001690387725830078,0.0,0.0,1.0
-combinedshutouts,"date, oppID, R/P, IDgoalie1, IDgoalie2",1.0,0.00017690658569335938,0.0,0.0,1.0
-combinedshutouts,"tmID, oppID, R/P, IDgoalie1, IDgoalie2",1.0,0.00018787384033203125,0.0,0.0,1.0
+combinedshutouts,"date, oppID, R/P, IDgoalie1, IDgoalie2",1.0,0.0001647472381591797,0.0,0.0,1.0
+combinedshutouts,"tmID, oppID, R/P, IDgoalie1, IDgoalie2",1.0,0.00018095970153808594,0.0,0.0,1.0

@@ -1,32 +1,32 @@
 table_name,key,max,max_time,min,min_time,CR
-coaches,coachID,0.0585,0.0006809234619140625,0.0,0.0,1.0
-coaches,year,0.0,0.0004909038543701172,0.0,0.0,1.0
-coaches,tmID,0.0105,0.0007197856903076172,0.0,0.0,1.0
-coaches,lgID,0.0,0.0009980201721191406,0.0,0.0,1.0
-coaches,stint,0.0,0.0005960464477539062,0.0,0.0,1.0
-coaches,"coachID, year",0.9845,0.0008349418640136719,0.0,0.0,1.0
-coaches,"coachID, tmID",0.1391,0.0011348724365234375,0.0,0.0,1.0
-coaches,"coachID, lgID",0.069,0.0014200210571289062,0.0,0.0,1.0
-coaches,"coachID, stint",0.1325,0.0010218620300292969,0.0,0.0,1.0
-coaches,"year, tmID",0.6909,0.0007281303405761719,0.0,0.0,1.0
-coaches,"year, lgID",0.0,0.0013120174407958984,0.0,0.0,1.0
-coaches,"year, stint",0.0204,0.0007259845733642578,0.0,0.0,1.0
-coaches,"tmID, lgID",0.0105,0.0013661384582519531,0.0,0.0,1.0
-coaches,"tmID, stint",0.0315,0.0008571147918701172,0.0,0.0,1.0
-coaches,"lgID, stint",0.0006,0.0011458396911621094,0.0,0.0,1.0
-coaches,"coachID, year, tmID",0.9945,0.0009582042694091797,0.0,0.0,1.0
-coaches,"coachID, year, lgID",0.9845,0.0019369125366210938,0.0,0.0,1.0
-coaches,"coachID, year, stint",1.0,0.001397848129272461,0.0,0.0,1.0
-coaches,"coachID, tmID, lgID",0.1391,0.0016529560089111328,0.0,0.0,1.0
-coaches,"coachID, tmID, stint",0.2362,0.0012178421020507812,0.0,0.0,1.0
-coaches,"coachID, lgID, stint",0.144,0.0015797615051269531,0.0,0.0,1.0
-coaches,"year, tmID, lgID",0.6909,0.0016787052154541016,0.0,0.0,1.0
-coaches,"year, tmID, stint",0.9989,0.0012209415435791016,0.0,0.0,1.0
-coaches,"year, lgID, stint",0.0215,0.001276254653930664,0.0,0.0,1.0
-coaches,"tmID, lgID, stint",0.0315,0.00144195556640625,0.0,0.0,1.0
-coaches,"coachID, year, tmID, lgID",0.9945,0.0021719932556152344,0.0,0.0,1.0
-coaches,"coachID, year, tmID, stint",1.0,0.0010612010955810547,0.0,0.0,1.0
-coaches,"coachID, year, lgID, stint",1.0,0.002149820327758789,0.0,0.0,1.0
-coaches,"coachID, tmID, lgID, stint",0.2362,0.0019578933715820312,0.0,0.0,1.0
-coaches,"year, tmID, lgID, stint",0.9989,0.0020799636840820312,0.0,0.0,1.0
-coaches,"coachID, year, tmID, lgID, stint",1.0,0.0028002262115478516,0.0,0.0,1.0
+coaches,coachID,0.0585,0.0006139278411865234,0.0,0.0,1.0
+coaches,year,0.0,0.0014522075653076172,0.0,0.0,1.0
+coaches,tmID,0.0105,0.0007729530334472656,0.0,0.0,1.0
+coaches,lgID,0.0,0.0010340213775634766,0.0,0.0,1.0
+coaches,stint,0.0,0.0005769729614257812,0.0,0.0,1.0
+coaches,"coachID, year",0.9845,0.0008070468902587891,0.0,0.0,1.0
+coaches,"coachID, tmID",0.1391,0.001127004623413086,0.0,0.0,1.0
+coaches,"coachID, lgID",0.069,0.001497030258178711,0.0,0.0,1.0
+coaches,"coachID, stint",0.1325,0.0009987354278564453,0.0,0.0,1.0
+coaches,"year, tmID",0.6909,0.0006947517395019531,0.0,0.0,1.0
+coaches,"year, lgID",0.0,0.0011341571807861328,0.0,0.0,1.0
+coaches,"year, stint",0.0204,0.0006771087646484375,0.0,0.0,1.0
+coaches,"tmID, lgID",0.0105,0.0012950897216796875,0.0,0.0,1.0
+coaches,"tmID, stint",0.0315,0.0009319782257080078,0.0,0.0,1.0
+coaches,"lgID, stint",0.0006,0.0011920928955078125,0.0,0.0,1.0
+coaches,"coachID, year, tmID",0.9945,0.0009431838989257812,0.0,0.0,1.0
+coaches,"coachID, year, lgID",0.9845,0.0019037723541259766,0.0,0.0,1.0
+coaches,"coachID, year, stint",1.0,0.0014519691467285156,0.0,0.0,1.0
+coaches,"coachID, tmID, lgID",0.1391,0.001712799072265625,0.0,0.0,1.0
+coaches,"coachID, tmID, stint",0.2362,0.0012371540069580078,0.0,0.0,1.0
+coaches,"coachID, lgID, stint",0.144,0.0016140937805175781,0.0,0.0,1.0
+coaches,"year, tmID, lgID",0.6909,0.0017981529235839844,0.0,0.0,1.0
+coaches,"year, tmID, stint",0.9989,0.0012936592102050781,0.0,0.0,1.0
+coaches,"year, lgID, stint",0.0215,0.0013060569763183594,0.0,0.0,1.0
+coaches,"tmID, lgID, stint",0.0315,0.0014522075653076172,0.0,0.0,1.0
+coaches,"coachID, year, tmID, lgID",0.9945,0.002395153045654297,0.0,0.0,1.0
+coaches,"coachID, year, tmID, stint",1.0,0.0011050701141357422,0.0,0.0,1.0
+coaches,"coachID, year, lgID, stint",1.0,0.0021491050720214844,0.0,0.0,1.0
+coaches,"coachID, tmID, lgID, stint",0.2362,0.002112150192260742,0.0,0.0,1.0
+coaches,"year, tmID, lgID, stint",0.9989,0.002064228057861328,0.0,0.0,1.0
+coaches,"coachID, year, tmID, lgID, stint",1.0,0.0026900768280029297,0.0,0.0,1.0

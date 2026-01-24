@@ -35,45 +35,116 @@ mysql -u root -p < hockey_dump.sql
 
 
 
-## -- Experimental Notebooks --
+## -- Experiment --
 
-All experiments are implemented in Jupyter notebooks under the `experiment/` directory.  
-The **main notebook** for reproducing our experimental results is:
+This folder contains all **generated experiment outputs** and the main analysis notebook for the Hockey database. It mainly includes: uniqueness ratio results, visualisations (boxplots + lattices), counter-examples, and near-key lists.
 
-- **`experiment/hockey_analysis.ipynb`** — contains the complete experimental workflow, including:
-  - Loading the local **Hockey** database and preparing the experimental data.
-  - Computing the **Uniqueness Ratio (UR)** and **Completeness Ratio (CR)**.
-  - Generating UR/CR distribution visualizations.
-  - Selecting **Top-k tables** and plotting the **Degree-of-Violation** distribution.
-  - Generating **Specialisation analysis** graph and evaluate the running time.
+---
 
-To reproduce the experiments, please run `experiment/hockey_analysis.ipynb` from start to finish.
+### `experiment/boxplot_result/`
+
+Stores **boxplot figures** for each table, showing the distribution of **UR(max)** values grouped by the **size of the column set** (|X|).  
+This helps visualise how uniqueness changes when more attributes are included.
+
+---
+
+### `experiment/counter_example_result/`
+
+Stores results for **data duplication visualisation** and **counter-example analysis**.
+For each near-key that violates uniqueness, this folder contains:
+- a **bar chart** showing the degree-of-violation distribution, and  
+- a **pie chart** showing the proportion of different violation degrees.
+
+These plots support manual inspection of duplicated records (dirty data).
+
+---
+
+###`experiment/specialisation_result/`
+
+Stores the generated **specialisation lattice graphs** for selected keys (typically those with `UR(max) = 1.0`),  
+including the corresponding **UR(max) / CR values** shown on each node.
+
+---
+
+### `experiment/specialisation_time_result/`
+
+Stores the **runtime comparison plots** associated with the specialisation analysis,  
+typically comparing the running time of different exploration strategies (e.g., Normal vs BFS vs DFS).
+
+---
+
+### `experiment/ur_result/`
+
+Stores the computed **UR result CSV files** for each table, usually in the format:
+
+- `{table_name}_result.csv`
+
+---
+
+### `experiment/hockey_analysis.ipynb`
+
+The main Jupyter notebook that runs the full Hockey database analysis workflow
+
+---
+
+### `experiment/near_key_all.csv`
+
+A summary CSV file that collects all extracted **near-keys** across all tables.  This file is used as input for later steps such as specialisation analysis and counter-example inspection.
 
 
-## -- Framework Evaluation --
 
-The **framework evaluation** experiments analyze the computational performance of the key analysis framework under different data scales — examining how the **number of columns** and **number of rows** affect the runtime of **UR** computation. Two evaluation notebooks are provided under the `evaluation/` directory:
+## -- Evaluation --
 
-- **`change_col.ipynb`** — studies how execution time scales with the **number of columns** (key length).  
-  - The experiment fixes the number of rows (e.g., 7,000) and gradually increases the column combination size to observe runtime growth.  
-  - Generated runtime plots and fitted curves (linear, polynomial, and exponential) are automatically saved in:
-    ```
-    /evaluation/colRunTime/
-    ```
+This folder contains all experiments and analysis scripts used to evaluate our key analysis results, including both **qualitative** and **quantitative** evaluation.
 
-- **`change_row.ipynb`** — studies how execution time changes with the **number of rows** in the table.  
-  - The experiment fixes the column combination and varies row count (e.g., 20%, 40%, 60%, 80%, and 100% of total rows).  
-  - Generated runtime plots and fitting results are stored in:
-    ```
-    /evaluation/rowRunTime/
-    ```
+---
 
-Both notebooks automatically connect to the local **Hockey database** created during data initialization.  
-The results confirm that execution time grows approximately **linearly** with both the number of columns and the number of rows, aligning with the expected computational complexity of uniqueness validation.
+### `evaluation/qualitative_analysis/`
 
+This folder contains the **qualitative analysis** part of the evaluation.  
+It focuses on interpreting the discovered keys, validating them against domain semantics, and comparing the results with a **gold standard** (e.g., precision/recall analysis).
 
+- **`dataviadotto_data/`**  
+  Stores raw and intermediate outputs generated from **DataViadotto profiling** (default setting/version).
 
+- **`dataviadotto_data_1/`**  
+  DataViadotto outputs for a specific configuration/version (e.g., scale factor / dirty level = 1).
 
+- **`dataviadotto_data_5/`**  
+  DataViadotto outputs for a specific configuration/version (e.g., scale factor / dirty level = 5).
+
+- **`dataviadotto_data_10/`**  
+  DataViadotto outputs for a specific configuration/version (e.g., scale factor / dirty level = 10).
+
+- **`results/`**  
+  Stores final outputs produced during qualitative analysis (e.g., evaluation summaries, precision/recall tables, classification results, etc.).
+
+- **`analysis_gold_standard.py`**  
+  Script for comparing our computed key analysis results against the **gold standard**, typically producing precision/recall statistics and detailed comparison outputs.
+
+- **`analysis_primary_gold.py`**  
+  Script for comparing the **PRIMARY KEYs defined in the database schema** against the gold standard (or our computed results), used as an additional baseline comparison.
+
+---
+
+### `evaluation/quantitative_analysis/`
+
+This folder contains the **quantitative analysis** part of the evaluation.  
+It focuses on measuring runtime performance and scalability, such as how UR computation time changes with different numbers of columns or rows.
+
+- **`colRunTime/`**  
+  Stores runtime plots and outputs for experiments studying the impact of the **number of columns (|X|)** on UR computation time.
+
+- **`rowRunTime/`**  
+  Stores runtime plots and outputs for experiments studying the impact of the **number of rows (|r|)** on UR computation time.
+
+- **`change_col.ipynb`**  
+  Jupyter notebook for running the **column-scale runtime experiment** (UR runtime vs. column set size).  
+  Outputs are typically saved under `colRunTime/`.
+
+- **`change_row.ipynb`**  
+  Jupyter notebook for running the **row-scale runtime experiment** (UR runtime vs. number of rows).  
+  Outputs are typically saved under `rowRunTime/`.
 
 
 
