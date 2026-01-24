@@ -1,32 +1,32 @@
 table_name,key,max,max_time,min,min_time,CR
-scoringsc,playerID,0.257,0.0004379749298095703,0.0,0.0,1.0
-scoringsc,year,0.0,0.0006363391876220703,0.0,0.0,1.0
-scoringsc,tmID,0.0,0.0003159046173095703,0.0,0.0,1.0
-scoringsc,lgID,0.0,0.0003058910369873047,0.0,0.0,1.0
-scoringsc,pos,0.007,0.0002689361572265625,0.0,0.0,1.0
-scoringsc,"playerID, year",1.0,0.0003490447998046875,0.0,0.0,1.0
-scoringsc,"playerID, tmID",0.4683,0.0003807544708251953,0.0,0.0,1.0
-scoringsc,"playerID, lgID",0.3697,0.000370025634765625,0.0,0.0,1.0
-scoringsc,"playerID, pos",0.3275,0.0003421306610107422,0.0,0.0,1.0
-scoringsc,"year, tmID",0.0,0.00023484230041503906,0.0,0.0,1.0
-scoringsc,"year, lgID",0.0,0.0003120899200439453,0.0,0.0,1.0
-scoringsc,"year, pos",0.0493,0.00032711029052734375,0.0,0.0,1.0
-scoringsc,"tmID, lgID",0.0,0.00033593177795410156,0.0,0.0,1.0
+scoringsc,playerID,0.257,0.00037288665771484375,0.0,0.0,1.0
+scoringsc,year,0.0,0.00024008750915527344,0.0,0.0,1.0
+scoringsc,tmID,0.0,0.0003027915954589844,0.0,0.0,1.0
+scoringsc,lgID,0.0,0.0003142356872558594,0.0,0.0,1.0
+scoringsc,pos,0.007,0.0003387928009033203,0.0,0.0,1.0
+scoringsc,"playerID, year",1.0,0.0004050731658935547,0.0,0.0,1.0
+scoringsc,"playerID, tmID",0.4683,0.00043392181396484375,0.0,0.0,1.0
+scoringsc,"playerID, lgID",0.3697,0.0004088878631591797,0.0,0.0,1.0
+scoringsc,"playerID, pos",0.3275,0.00036978721618652344,0.0,0.0,1.0
+scoringsc,"year, tmID",0.0,0.00033092498779296875,0.0,0.0,1.0
+scoringsc,"year, lgID",0.0,0.0003669261932373047,0.0,0.0,1.0
+scoringsc,"year, pos",0.0493,0.0003159046173095703,0.0,0.0,1.0
+scoringsc,"tmID, lgID",0.0,0.0003180503845214844,0.0,0.0,1.0
 scoringsc,"tmID, pos",0.0915,0.00032806396484375,0.0,0.0,1.0
-scoringsc,"lgID, pos",0.0141,0.00032711029052734375,0.0,0.0,1.0
-scoringsc,"playerID, year, tmID",1.0,0.00041604042053222656,0.0,0.0,1.0
-scoringsc,"playerID, year, lgID",1.0,0.0004191398620605469,0.0,0.0,1.0
-scoringsc,"playerID, year, pos",1.0,0.00040793418884277344,0.0,0.0,1.0
-scoringsc,"playerID, tmID, lgID",0.4683,0.0004138946533203125,0.0,0.0,1.0
-scoringsc,"playerID, tmID, pos",0.507,0.00043511390686035156,0.0,0.0,1.0
-scoringsc,"playerID, lgID, pos",0.4331,0.00041174888610839844,0.0,0.0,1.0
-scoringsc,"year, tmID, lgID",0.0,0.0003452301025390625,0.0,0.0,1.0
-scoringsc,"year, tmID, pos",0.2817,0.0003600120544433594,0.0,0.0,1.0
-scoringsc,"year, lgID, pos",0.2817,0.00044989585876464844,0.0,0.0,1.0
-scoringsc,"tmID, lgID, pos",0.0915,0.00037479400634765625,0.0,0.0,1.0
-scoringsc,"playerID, year, tmID, lgID",1.0,0.000476837158203125,0.0,0.0,1.0
-scoringsc,"playerID, year, tmID, pos",1.0,0.0004558563232421875,0.0,0.0,1.0
-scoringsc,"playerID, year, lgID, pos",1.0,0.00045299530029296875,0.0,0.0,1.0
-scoringsc,"playerID, tmID, lgID, pos",0.507,0.00043392181396484375,0.0,0.0,1.0
-scoringsc,"year, tmID, lgID, pos",0.2817,0.00037288665771484375,0.0,0.0,1.0
-scoringsc,"playerID, year, tmID, lgID, pos",1.0,0.0004630088806152344,0.0,0.0,1.0
+scoringsc,"lgID, pos",0.0141,0.00033020973205566406,0.0,0.0,1.0
+scoringsc,"playerID, year, tmID",1.0,0.0003979206085205078,0.0,0.0,1.0
+scoringsc,"playerID, year, lgID",1.0,0.0004200935363769531,0.0,0.0,1.0
+scoringsc,"playerID, year, pos",1.0,0.00040411949157714844,0.0,0.0,1.0
+scoringsc,"playerID, tmID, lgID",0.4683,0.0003998279571533203,0.0,0.0,1.0
+scoringsc,"playerID, tmID, pos",0.507,0.00039005279541015625,0.0,0.0,1.0
+scoringsc,"playerID, lgID, pos",0.4331,0.0004017353057861328,0.0,0.0,1.0
+scoringsc,"year, tmID, lgID",0.0,0.0003368854522705078,0.0,0.0,1.0
+scoringsc,"year, tmID, pos",0.2817,0.000331878662109375,0.0,0.0,1.0
+scoringsc,"year, lgID, pos",0.2817,0.00033593177795410156,0.0,0.0,1.0
+scoringsc,"tmID, lgID, pos",0.0915,0.0004210472106933594,0.0,0.0,1.0
+scoringsc,"playerID, year, tmID, lgID",1.0,0.00045299530029296875,0.0,0.0,1.0
+scoringsc,"playerID, year, tmID, pos",1.0,0.0004410743713378906,0.0,0.0,1.0
+scoringsc,"playerID, year, lgID, pos",1.0,0.00043010711669921875,0.0,0.0,1.0
+scoringsc,"playerID, tmID, lgID, pos",0.507,0.0004360675811767578,0.0,0.0,1.0
+scoringsc,"year, tmID, lgID, pos",0.2817,0.00045800209045410156,0.0,0.0,1.0
+scoringsc,"playerID, year, tmID, lgID, pos",1.0,0.00043320655822753906,0.0,0.0,1.0

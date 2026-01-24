@@ -1,16 +1,16 @@
 table_name,key,max,max_time,min,min_time,CR
-awardscoaches,coachID,0.4675,0.0007741451263427734,0.0,0.0,1.0
-awardscoaches,award,0.0,0.0003452301025390625,0.0,0.0,1.0
-awardscoaches,year,0.4286,0.0004401206970214844,0.0,0.0,1.0
-awardscoaches,lgID,0.0,0.00047397613525390625,0.0,0.0,1.0
-awardscoaches,"coachID, award",0.5714,0.0006248950958251953,0.0,0.0,1.0
-awardscoaches,"coachID, year",1.0,0.0004661083221435547,0.0,0.0,1.0
-awardscoaches,"coachID, lgID",0.4935,0.00036597251892089844,0.0,0.0,1.0
-awardscoaches,"award, year",1.0,0.0003399848937988281,0.0,0.0,1.0
-awardscoaches,"award, lgID",0.0,0.00048089027404785156,0.0,0.0,1.0
-awardscoaches,"year, lgID",0.5844,0.0004849433898925781,0.0,0.0,1.0
-awardscoaches,"coachID, award, year",1.0,0.0006630420684814453,0.0,0.0,1.0
-awardscoaches,"coachID, award, lgID",0.5714,0.0007140636444091797,0.0,0.0,1.0
-awardscoaches,"coachID, year, lgID",1.0,0.0006201267242431641,0.0,0.0,1.0
-awardscoaches,"award, year, lgID",1.0,0.0006029605865478516,0.0,0.0,1.0
-awardscoaches,"coachID, award, year, lgID",1.0,0.0009489059448242188,0.0,0.0,1.0
+awardscoaches,coachID,0.4675,0.0007870197296142578,0.0,0.0,1.0
+awardscoaches,award,0.0,0.0004620552062988281,0.0,0.0,1.0
+awardscoaches,year,0.4286,0.0004119873046875,0.0,0.0,1.0
+awardscoaches,lgID,0.0,0.00040221214294433594,0.0,0.0,1.0
+awardscoaches,"coachID, award",0.5714,0.0004992485046386719,0.0,0.0,1.0
+awardscoaches,"coachID, year",1.0,0.000492095947265625,0.0,0.0,1.0
+awardscoaches,"coachID, lgID",0.4935,0.0004329681396484375,0.0,0.0,1.0
+awardscoaches,"award, year",1.0,0.0004410743713378906,0.0,0.0,1.0
+awardscoaches,"award, lgID",0.0,0.0003769397735595703,0.0,0.0,1.0
+awardscoaches,"year, lgID",0.5844,0.0003490447998046875,0.0,0.0,1.0
+awardscoaches,"coachID, award, year",1.0,0.0005848407745361328,0.0,0.0,1.0
+awardscoaches,"coachID, award, lgID",0.5714,0.0005278587341308594,0.0,0.0,1.0
+awardscoaches,"coachID, year, lgID",1.0,0.0005030632019042969,0.0,0.0,1.0
+awardscoaches,"award, year, lgID",1.0,0.0008699893951416016,0.0,0.0,1.0
+awardscoaches,"coachID, award, year, lgID",1.0,0.0006921291351318359,0.0,0.0,1.0

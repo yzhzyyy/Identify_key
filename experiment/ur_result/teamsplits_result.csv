@@ -1,8 +1,8 @@
 table_name,key,max,max_time,min,min_time,CR
-teamsplits,year,0.0,0.000431060791015625,0.0,0.0,1.0
-teamsplits,lgID,0.0,0.001383066177368164,0.0,0.0,1.0
-teamsplits,tmID,0.0158,0.0005512237548828125,0.0,0.0,1.0
-teamsplits,"year, lgID",0.0,0.0010848045349121094,0.0,0.0,1.0
-teamsplits,"year, tmID",1.0,0.0006999969482421875,0.0,0.0,1.0
-teamsplits,"lgID, tmID",0.0158,0.0011630058288574219,0.0,0.0,1.0
-teamsplits,"year, lgID, tmID",1.0,0.0016319751739501953,0.0,0.0,1.0
+teamsplits,year,0.0,0.0004177093505859375,0.0,0.0,1.0
+teamsplits,lgID,0.0,0.0009338855743408203,0.0,0.0,1.0
+teamsplits,tmID,0.0158,0.0005571842193603516,0.0,0.0,1.0
+teamsplits,"year, lgID",0.0,0.001081228256225586,0.0,0.0,1.0
+teamsplits,"year, tmID",1.0,0.0007238388061523438,0.0,0.0,1.0
+teamsplits,"lgID, tmID",0.0158,0.0011429786682128906,0.0,0.0,1.0
+teamsplits,"year, lgID, tmID",1.0,0.0015652179718017578,0.0,0.0,1.0
