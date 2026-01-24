@@ -107,14 +107,8 @@ It focuses on interpreting the discovered keys, validating them against domain s
 - **`dataviadotto_data/`**  
   Stores raw and intermediate outputs generated from **DataViadotto profiling** (default setting/version).
 
-- **`dataviadotto_data_1/`**  
-  DataViadotto outputs for a specific configuration/version (e.g., scale factor / dirty level = 1).
-
-- **`dataviadotto_data_5/`**  
-  DataViadotto outputs for a specific configuration/version (e.g., scale factor / dirty level = 5).
-
-- **`dataviadotto_data_10/`**  
-  DataViadotto outputs for a specific configuration/version (e.g., scale factor / dirty level = 10).
+- **`dataviadotto_data_N/`**  
+  DataViadotto outputs for a specific configuration/version (e.g., dirty level = N).
 
 - **`results/`**  
   Stores final outputs produced during qualitative analysis (e.g., evaluation summaries, precision/recall tables, classification results, etc.).
