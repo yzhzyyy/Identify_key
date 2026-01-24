@@ -4,6 +4,8 @@ This repository contains the full implementation, datasets, and experimental res
 
 ## -- Initialisation --
 
+All required initialization files are stored in the `/initialisation` folder.  
+
 To reproduce our results on your own machine, please follow the steps below to install the required Python dependencies.
 
 
