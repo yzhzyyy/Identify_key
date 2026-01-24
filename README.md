@@ -4,14 +4,7 @@ This repository contains the full implementation, datasets, and experimental res
 
 ## -- Initialisation --
 
-All required initialization files are stored in the `/initialisation` folder.  
-
-To reproduce our results on your own machine, please follow the steps below to install the required Python dependencies.
-
-
-### 1. Prerequisites
-
-Please make sure you have:
+All required initialization files are stored in the `/initialisation` folder. To reproduce our results on your own machine, please follow the steps below to install the required Python dependencies. Please make sure you have:
 
 - **Python 3.8+** installed  
   (Recommended: Python 3.8, since our experiments were developed with Python 3.8)
@@ -24,13 +17,13 @@ You can check your Python version using:
 python --version
 ````
 
-### 2. Install Dependencies
+### Install Dependencies
 Install all required packages using:
 ```bash
 pip install -r initialisation/requirements.txt
 ```
 This will install all packages listed in the requirements.txt file located in the `initialisation/`directory.
-### 3. Import Hockey Database (MySQL)
+### Import Hockey Database (MySQL)
 
 We provide a MySQL dump file so that readers can recreate the `hockey` database locally.
 Download `hockey_dump.sql` from this repository.
