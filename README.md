@@ -1,81 +1,60 @@
 # Analysis of Candidate Keys in Relational Databases
 
-This repository contains the full implementation, datasets, and experimental results for the paper:
+This repository contains the full implementation, datasets, and experimental results. It provides scripts for reproducing all experiments, including the computation of **Uniqueness Ratio (UR)**, **Completeness Ratio (CR)**, **Specialisation Analysis**, and **Framework Evaluation**.
 
-> **Meaningful Key Discovery under Incomplete Information: A Framework Based on Uniqueness Ratios and Subkey Analysis**
+## Initialisation
 
-It provides scripts for reproducing all experiments, including the computation of **Uniqueness Ratio (UR)**, **Completeness Ratio (CR)**, **Specialisation Analysis**, and **Framework Evaluation**.
+To reproduce our results on your own machine, please follow the steps below to install the required Python dependencies.
 
+---
 
-## Overview
+### 1. Prerequisites
 
-This project implements a framework for **key analysis in incomplete relational datasets**.  
-It integrates four core stages:
+Please make sure you have:
 
-1. **Basic Analysis** — Performs the initial computation of the maximum uniqueness ratio (max-UR) and completeness ratio (CR) to evaluate the distinctiveness and data integrity of column combinations.
+- **Python 3.8+** installed  
+  (Recommended: Python 3.8, since our experiments were developed with Python 3.8)
 
-2. **Filtering Keys with Thresholds** — Identifies and retains near-keys by applying predefined thresholds on UR, thereby narrowing the search space to the most promising candidate combinations.
+- `pip` available (usually included with Python)
 
-3. **Specialisation** — Explores subset relationships among candidate keys to uncover sub-key hierarchies, employing BFS and DFS strategies with pruning to improve computational efficiency.
+You can check your Python version using:
 
-4. **Counter-example Analysis** — Examines duplicate or inconsistent tuples that violate near-keys, distinguishing between meaningful business rules and dirty data to refine the final set of meaningful keys and uniqueness constraints.
-
-## Experimental Environment
-
-### Database Setup
-The project utilizes the **[Hockey Database](https://relational.fel.cvut.cz/dataset/Hockey)**, a structured dataset containing records from hockey competitions.
-We use a MySQL database created from the provided `data_initialization/Hockey.sql` file, which contains all experimental tables used in the paper.
-
-#### Step 1: Install MySQL
-Please ensure MySQL (version 8.0 or later) is installed and running locally.
-You can verify the installation by running:
-```angular2html
-mysql --version
-```
-
-#### Step 2: Run the setup script
-Use the following Python script to automatically create the database and import all tables:
-```angular2html
-python data_initialization/setup_database.py --password YOUR_PASSWORD
-```
-Once executed successfully, the database `Hockey` will be created and ready for use by all subsequent scripts.
-
-#### Step 3: Verify the database
-After setup, you can confirm that the tables were correctly loaded by logging into MySQL:
-```angular2html
-mysql -u root -p
-USE Hockey;
-SHOW TABLES;
-```
-
-
-
-## Experiments
-
-The experimental framework is implemented across two Jupyter notebooks located in the `experiment/` directory. Together, they cover the complete workflow of the study — from data loading and basic key analysis to subkey pruning, counter-example detection.
-
-- **`hockey_analysis.ipynb`** — implements the core workflow of the framework. It covers:
-  - Loading the local **Hockey** database and preparing experimental data.  
-  - Computing the **Uniqueness Ratio (UR)** and **Completeness Ratio (CR)**.  
-  - Producing UR and CR distribution visualizations.  
-  - Selecting **Top-k tables** and plotting the **Degree-of-Violation distribution**.  
-  - The calculation outputs and runtime metrics are automatically stored in:
-    ```
-    /result/runTime_data/
-    ```
-
-- **`subkey_pruning.ipynb`** — focuses on **efficiency optimization** and **performance evaluation**. It implements:
-  - Construction of the **specialisation graph**.  
-  - Application of **pruning strategies** to enhance computational efficiency.  
-  - Runtime comparisons between **Brute Force**, **BFS**, and **DFS** algorithms.  
-  - Visualization of how pruning parameters and thresholds influence runtime.  
-
-### How to Run
-
-After activating the Python environment (e.g., `conda activate hockey-keys`), start Jupyter Notebook or JupyterLab using:
 ```bash
-jupyter lab
+python --version
+````
+
+### 2. Install Dependencies
+Install all required packages using:
+```bash
+pip install -r initialisation/requirements.txt
 ```
+This will install all packages listed in the requirements.txt file located in the `initialisation/`directory.
+### 3. Import Hockey Database (MySQL)
+
+We provide a MySQL dump file so that readers can recreate the `hockey` database locally.
+Download `hockey_dump.sql` from this repository.
+Run the following command:
+
+```bash
+mysql -u root -p < hockey_dump.sql
+```
+
+
+
+## Experimental Notebooks
+
+All experiments are implemented in Jupyter notebooks under the `experiment/` directory.  
+The **main notebook** for reproducing our experimental results is:
+
+- **`experiment/hockey_analysis.ipynb`** — contains the complete experimental workflow, including:
+  - Loading the local **Hockey** database and preparing the experimental data.
+  - Computing the **Uniqueness Ratio (UR)** and **Completeness Ratio (CR)**.
+  - Generating UR/CR distribution visualizations.
+  - Selecting **Top-k tables** and plotting the **Degree-of-Violation** distribution.
+  - Generating **Specialisation analysis** graph and evaluate the running time.
+
+To reproduce the experiments, please run `experiment/hockey_analysis.ipynb` from start to finish.
+
 
 ## Framework Evaluation
 
@@ -85,14 +64,14 @@ The **framework evaluation** experiments analyze the computational performance o
   - The experiment fixes the number of rows (e.g., 7,000) and gradually increases the column combination size to observe runtime growth.  
   - Generated runtime plots and fitted curves (linear, polynomial, and exponential) are automatically saved in:
     ```
-    /result/colRunTime/
+    /evaluation/colRunTime/
     ```
 
 - **`change_row.ipynb`** — studies how execution time changes with the **number of rows** in the table.  
   - The experiment fixes the column combination and varies row count (e.g., 20%, 40%, 60%, 80%, and 100% of total rows).  
   - Generated runtime plots and fitting results are stored in:
     ```
-    /result/rowRunTime/
+    /evaluation/rowRunTime/
     ```
 
 Both notebooks automatically connect to the local **Hockey database** created during data initialization.  
