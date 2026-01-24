@@ -2,11 +2,10 @@
 
 This repository contains the full implementation, datasets, and experimental results. It provides scripts for reproducing all experiments, including the computation of **Uniqueness Ratio (UR)**, **Completeness Ratio (CR)**, **Specialisation Analysis**, and **Framework Evaluation**.
 
-## Initialisation
+## -- Initialisation --
 
 To reproduce our results on your own machine, please follow the steps below to install the required Python dependencies.
 
----
 
 ### 1. Prerequisites
 
@@ -41,7 +40,7 @@ mysql -u root -p < hockey_dump.sql
 
 
 
-## Experimental Notebooks
+## -- Experimental Notebooks --
 
 All experiments are implemented in Jupyter notebooks under the `experiment/` directory.  
 The **main notebook** for reproducing our experimental results is:
@@ -56,7 +55,7 @@ The **main notebook** for reproducing our experimental results is:
 To reproduce the experiments, please run `experiment/hockey_analysis.ipynb` from start to finish.
 
 
-## Framework Evaluation
+## -- Framework Evaluation --
 
 The **framework evaluation** experiments analyze the computational performance of the key analysis framework under different data scales — examining how the **number of columns** and **number of rows** affect the runtime of **UR** computation. Two evaluation notebooks are provided under the `evaluation/` directory:
 
