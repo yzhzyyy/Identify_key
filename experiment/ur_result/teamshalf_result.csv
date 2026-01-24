@@ -1,0 +1,32 @@
+table_name,key,max,max_time,min,min_time,CR
+teamshalf,year,0.0,0.0006747245788574219,0.0,0.0,1.0
+teamshalf,lgID,0.0,0.00019311904907226562,0.0,0.0,1.0
+teamshalf,tmID,0.0244,0.0001571178436279297,0.0,0.0,1.0
+teamshalf,half,0.0,0.00010704994201660156,0.0,0.0,1.0
+teamshalf,rank,0.0,0.000186920166015625,0.0,0.0,1.0
+teamshalf,"year, lgID",0.0,0.00012612342834472656,0.0,0.0,1.0
+teamshalf,"year, tmID",0.0244,0.00011682510375976562,0.0,0.0,1.0
+teamshalf,"year, half",0.0,0.00011897087097167969,0.0,0.0,1.0
+teamshalf,"year, rank",0.0244,0.00012373924255371094,0.0,0.0,1.0
+teamshalf,"lgID, tmID",0.0244,0.0001647472381591797,0.0,0.0,1.0
+teamshalf,"lgID, half",0.0,0.0001399517059326172,0.0,0.0,1.0
+teamshalf,"lgID, rank",0.0,0.00012803077697753906,0.0,0.0,1.0
+teamshalf,"tmID, half",0.4146,0.0001232624053955078,0.0,0.0,1.0
+teamshalf,"tmID, rank",0.4146,0.0001621246337890625,0.0,0.0,1.0
+teamshalf,"half, rank",0.0976,0.00012683868408203125,0.0,0.0,1.0
+teamshalf,"year, lgID, tmID",0.0244,0.00014495849609375,0.0,0.0,1.0
+teamshalf,"year, lgID, half",0.0,0.0001316070556640625,0.0,0.0,1.0
+teamshalf,"year, lgID, rank",0.0244,0.0001327991485595703,0.0,0.0,1.0
+teamshalf,"year, tmID, half",1.0,0.0001270771026611328,0.0,0.0,1.0
+teamshalf,"year, tmID, rank",0.8049,0.0001308917999267578,0.0,0.0,1.0
+teamshalf,"year, half, rank",1.0,0.00012493133544921875,0.0,0.0,1.0
+teamshalf,"lgID, tmID, half",0.4146,0.00013399124145507812,0.0,0.0,1.0
+teamshalf,"lgID, tmID, rank",0.4146,0.00014901161193847656,0.0,0.0,1.0
+teamshalf,"lgID, half, rank",0.2927,0.00016498565673828125,0.0,0.0,1.0
+teamshalf,"tmID, half, rank",0.7561,0.00015020370483398438,0.0,0.0,1.0
+teamshalf,"year, lgID, tmID, half",1.0,0.00015783309936523438,0.0,0.0,1.0
+teamshalf,"year, lgID, tmID, rank",0.8049,0.00016188621520996094,0.0,0.0,1.0
+teamshalf,"year, lgID, half, rank",1.0,0.00015473365783691406,0.0,0.0,1.0
+teamshalf,"year, tmID, half, rank",1.0,0.0001609325408935547,0.0,0.0,1.0
+teamshalf,"lgID, tmID, half, rank",0.7561,0.00017309188842773438,0.0,0.0,1.0
+teamshalf,"year, lgID, tmID, half, rank",1.0,0.0001850128173828125,0.0,0.0,1.0

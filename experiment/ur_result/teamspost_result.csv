@@ -1,0 +1,8 @@
+table_name,key,max,max_time,min,min_time,CR
+teamspost,year,0.0,0.0007519721984863281,0.0,0.0,1.0
+teamspost,lgID,0.0,0.001024007797241211,0.0,0.0,1.0
+teamspost,tmID,0.0162,0.00039577484130859375,0.0,0.0,1.0
+teamspost,"year, lgID",0.0,0.0006420612335205078,0.0,0.0,1.0
+teamspost,"year, tmID",1.0,0.0004291534423828125,0.0,0.0,1.0
+teamspost,"lgID, tmID",0.0162,0.0006923675537109375,0.0,0.0,1.0
+teamspost,"year, lgID, tmID",1.0,0.0010020732879638672,0.0,0.0,1.0

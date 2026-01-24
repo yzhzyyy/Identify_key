@@ -1,0 +1,8 @@
+table_name,key,max,max_time,min,min_time,CR
+teamsplits,year,0.0,0.001074075698852539,0.0,0.0,1.0
+teamsplits,lgID,0.0,0.001950979232788086,0.0,0.0,1.0
+teamsplits,tmID,0.0158,0.0005619525909423828,0.0,0.0,1.0
+teamsplits,"year, lgID",0.0,0.001116037368774414,0.0,0.0,1.0
+teamsplits,"year, tmID",1.0,0.0007569789886474609,0.0,0.0,1.0
+teamsplits,"lgID, tmID",0.0158,0.00115203857421875,0.0,0.0,1.0
+teamsplits,"year, lgID, tmID",1.0,0.0015637874603271484,0.0,0.0,1.0

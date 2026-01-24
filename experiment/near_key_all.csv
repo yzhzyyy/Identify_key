@@ -1,0 +1,104 @@
+table_name,key,UR(max),CR
+abbrev,Fullname,1.0,1.0
+abbrev,"Type, Code",1.0,1.0
+awardscoaches,"coachID, year",1.0,1.0
+awardscoaches,"award, year",1.0,1.0
+awardsmisc,name,1.0,1.0
+awardsmisc,ID,1.0,0.6854838709677419
+awardsplayers,"playerID, award, year",1.0,1.0
+awardsplayers,"playerID, year, pos",0.9943,0.5887135341941655
+awardsplayers,"playerID, year, lgID, pos",0.9943,0.5887135341941655
+coaches,"coachID, year",0.9845,1.0
+coaches,"coachID, year, stint",1.0,1.0
+coaches,"year, tmID, stint",0.9989,1.0
+coaches,"coachID, year, tmID",0.9945,1.0
+coaches,"coachID, year, lgID",0.9845,1.0
+coaches,"year, tmID, lgID, stint",0.9989,1.0
+coaches,"coachID, year, tmID, lgID",0.9945,1.0
+combinedshutouts,"year, date",1.0,1.0
+combinedshutouts,"year, oppID",1.0,1.0
+combinedshutouts,"date, tmID",1.0,1.0
+combinedshutouts,"date, IDgoalie1",1.0,1.0
+combinedshutouts,"date, IDgoalie2",1.0,1.0
+combinedshutouts,"oppID, IDgoalie2",1.0,1.0
+combinedshutouts,"month, IDgoalie1",0.963,1.0
+combinedshutouts,"month, IDgoalie2",0.963,1.0
+combinedshutouts,"tmID, oppID",0.963,1.0
+combinedshutouts,"oppID, IDgoalie1",0.963,1.0
+combinedshutouts,"year, month, tmID",1.0,1.0
+combinedshutouts,"year, month, IDgoalie1",1.0,1.0
+combinedshutouts,"year, month, IDgoalie2",1.0,1.0
+combinedshutouts,"month, date, oppID",1.0,1.0
+combinedshutouts,"month, tmID, oppID",1.0,1.0
+combinedshutouts,"month, tmID, IDgoalie1",1.0,1.0
+combinedshutouts,"month, tmID, IDgoalie2",1.0,1.0
+combinedshutouts,"month, oppID, IDgoalie1",1.0,1.0
+combinedshutouts,"month, R/P, IDgoalie1",1.0,1.0
+combinedshutouts,"month, IDgoalie1, IDgoalie2",1.0,1.0
+combinedshutouts,"month, R/P, IDgoalie2",0.963,1.0
+combinedshutouts,"tmID, oppID, R/P",0.963,1.0
+combinedshutouts,"tmID, oppID, IDgoalie1",0.963,1.0
+combinedshutouts,"oppID, R/P, IDgoalie1",0.963,1.0
+combinedshutouts,"tmID, oppID, R/P, IDgoalie1",0.963,1.0
+goalies,"playerID, year, stint",1.0,1.0
+goalies,"playerID, year, tmID",0.9995,1.0
+goalies,"playerID, year, GP",0.9949,0.9950911640953717
+goalies,"year, tmID, GP",0.9565,0.9950911640953717
+goalies,"playerID, year, tmID, GP",1.0,0.9950911640953717
+goalies,"playerID, year, tmID, lgID",0.9995,1.0
+goalies,"playerID, year, lgID, GP",0.9949,0.9950911640953717
+goalies,"year, stint, tmID, GP",0.9624,0.9950911640953717
+goalies,"year, tmID, lgID, GP",0.9565,0.9950911640953717
+goalies,"year, stint, tmID, lgID, GP",0.9624,0.9950911640953717
+goaliessc,"playerID, year",1.0,1.0
+goaliessc,"year, tmID, GP",1.0,1.0
+goaliessc,"year, lgID, GP",1.0,1.0
+goaliesshootout,"playerID, year",0.9542,1.0
+goaliesshootout,"playerID, year, stint",1.0,1.0
+goaliesshootout,"playerID, year, tmID",1.0,1.0
+hof,hofID,1.0,1.0
+hof,name,0.9945,1.0
+hof,"year, name",1.0,1.0
+hof,"name, category",0.9945,1.0
+master,playerID,1.0,0.9689473006055921
+master,coachID,1.0,0.05089550315680969
+master,hofID,1.0,0.047158871279474296
+master,legendsID,1.0,0.8474423399046515
+master,ihdbID,1.0,0.9180517974487824
+master,hrefID,1.0,0.9608297899755186
+master,"lastName, nameGiven",0.9985,0.7711635098569772
+master,"lastName, birthYear",0.9693,0.9719108362324442
+master,"lastName, nameGiven, birthYear",1.0,0.7572477773482799
+master,"lastName, nameGiven, pos",0.9997,0.7451359360907099
+master,"lastName, birthYear, pos",0.9941,0.947558304342224
+master,"nameGiven, birthYear, pos",0.9822,0.7388223167117639
+scoring,"playerID, year, stint",0.9999,1.0
+scoring,"playerID, year, tmID",0.9996,1.0
+scoring,"playerID, year, stint, tmID",1.0,1.0
+scoring,"playerID, year, stint, pos",1.0,0.9873387430112907
+scoring,"playerID, year, stint, lgID",0.9999,1.0
+scoring,"playerID, year, tmID, lgID",0.9996,1.0
+scoring,"playerID, year, tmID, pos",0.9996,0.9873387430112907
+scoring,"playerID, year, tmID, lgID, pos",0.9996,0.9873387430112907
+scoringsc,"playerID, year",1.0,1.0
+scoringshootout,"playerID, year, stint",1.0,1.0
+scoringshootout,"playerID, year, tmID",1.0,1.0
+scoringsup,"playerID, year",1.0,1.0
+seriespost,"year, series",1.0,0.8882211538461539
+seriespost,"year, tmIDLoser",0.9928,1.0
+seriespost,"year, round, tmIDWinner",1.0,1.0
+seriespost,"year, round, tmIDLoser",1.0,1.0
+seriespost,"year, tmIDWinner, tmIDLoser",1.0,1.0
+seriespost,"year, lgIDWinner, tmIDLoser",0.9952,1.0
+seriespost,"year, tmIDLoser, lgIDLoser",0.9928,1.0
+seriespost,"year, lgIDWinner, tmIDLoser, lgIDLoser",0.9952,1.0
+teams,"year, tmID",1.0,1.0
+teams,"year, franchID",1.0,1.0
+teams,"year, name",1.0,1.0
+teams,"year, divID, rank",1.0,0.7709019091507571
+teamshalf,"year, tmID, half",1.0,1.0
+teamshalf,"year, half, rank",1.0,1.0
+teamsplits,"year, tmID",1.0,1.0
+teamspost,"year, tmID",1.0,1.0
+teamssc,"year, lgID",1.0,1.0
+teamssc,"year, tmID",1.0,1.0

@@ -1,0 +1,32 @@
+table_name,key,max,max_time,min,min_time,CR
+scoringsc,playerID,0.257,0.0008299350738525391,0.0,0.0,1.0
+scoringsc,year,0.0,0.00028514862060546875,0.0,0.0,1.0
+scoringsc,tmID,0.0,0.00030994415283203125,0.0,0.0,1.0
+scoringsc,lgID,0.0,0.00092315673828125,0.0,0.0,1.0
+scoringsc,pos,0.007,0.0003399848937988281,0.0,0.0,1.0
+scoringsc,"playerID, year",1.0,0.00038313865661621094,0.0,0.0,1.0
+scoringsc,"playerID, tmID",0.4683,0.0004227161407470703,0.0,0.0,1.0
+scoringsc,"playerID, lgID",0.3697,0.00044608116149902344,0.0,0.0,1.0
+scoringsc,"playerID, pos",0.3275,0.000392913818359375,0.0,0.0,1.0
+scoringsc,"year, tmID",0.0,0.00028705596923828125,0.0,0.0,1.0
+scoringsc,"year, lgID",0.0,0.0003418922424316406,0.0,0.0,1.0
+scoringsc,"year, pos",0.0493,0.00035381317138671875,0.0,0.0,1.0
+scoringsc,"tmID, lgID",0.0,0.0003669261932373047,0.0,0.0,1.0
+scoringsc,"tmID, pos",0.0915,0.0003509521484375,0.0,0.0,1.0
+scoringsc,"lgID, pos",0.0141,0.00033402442932128906,0.0,0.0,1.0
+scoringsc,"playerID, year, tmID",1.0,0.0004699230194091797,0.0,0.0,1.0
+scoringsc,"playerID, year, lgID",1.0,0.0004811286926269531,0.0,0.0,1.0
+scoringsc,"playerID, year, pos",1.0,0.0004520416259765625,0.0,0.0,1.0
+scoringsc,"playerID, tmID, lgID",0.4683,0.0004742145538330078,0.0,0.0,1.0
+scoringsc,"playerID, tmID, pos",0.507,0.00043702125549316406,0.0,0.0,1.0
+scoringsc,"playerID, lgID, pos",0.4331,0.0004489421844482422,0.0,0.0,1.0
+scoringsc,"year, tmID, lgID",0.0,0.0003962516784667969,0.0,0.0,1.0
+scoringsc,"year, tmID, pos",0.2817,0.0004069805145263672,0.0,0.0,1.0
+scoringsc,"year, lgID, pos",0.2817,0.0004260540008544922,0.0,0.0,1.0
+scoringsc,"tmID, lgID, pos",0.0915,0.00042319297790527344,0.0,0.0,1.0
+scoringsc,"playerID, year, tmID, lgID",1.0,0.0005040168762207031,0.0,0.0,1.0
+scoringsc,"playerID, year, tmID, pos",1.0,0.0005009174346923828,0.0,0.0,1.0
+scoringsc,"playerID, year, lgID, pos",1.0,0.0004978179931640625,0.0,0.0,1.0
+scoringsc,"playerID, tmID, lgID, pos",0.507,0.0004940032958984375,0.0,0.0,1.0
+scoringsc,"year, tmID, lgID, pos",0.2817,0.0004470348358154297,0.0,0.0,1.0
+scoringsc,"playerID, year, tmID, lgID, pos",1.0,0.0005178451538085938,0.0,0.0,1.0

@@ -1,0 +1,16 @@
+table_name,key,max,max_time,min,min_time,CR
+scoringshootout,playerID,0.11,0.0012998580932617188,0.0,0.0,1.0
+scoringshootout,year,0.0,0.0008127689361572266,0.0,0.0,1.0
+scoringshootout,stint,0.0,0.0014300346374511719,0.0,0.0,1.0
+scoringshootout,tmID,0.0,0.0010051727294921875,0.0,0.0,1.0
+scoringshootout,"playerID, year",0.9257,0.0016667842864990234,0.0,0.0,1.0
+scoringshootout,"playerID, stint",0.1506,0.0017101764678955078,0.0,0.0,1.0
+scoringshootout,"playerID, tmID",0.2823,0.0019130706787109375,0.0,0.0,1.0
+scoringshootout,"year, stint",0.0014,0.0013320446014404297,0.0,0.0,1.0
+scoringshootout,"year, tmID",0.0,0.0010879039764404297,0.0,0.0,1.0
+scoringshootout,"stint, tmID",0.0043,0.0015368461608886719,0.0,0.0,1.0
+scoringshootout,"playerID, year, stint",1.0,0.0022482872009277344,0.0,0.0,1.0
+scoringshootout,"playerID, year, tmID",1.0,0.0024089813232421875,0.0,0.0,1.0
+scoringshootout,"playerID, stint, tmID",0.3152,0.002112865447998047,0.0,0.0,1.0
+scoringshootout,"year, stint, tmID",0.0299,0.001756906509399414,0.0,0.0,1.0
+scoringshootout,"playerID, year, stint, tmID",1.0,0.0025949478149414062,0.0,0.0,1.0

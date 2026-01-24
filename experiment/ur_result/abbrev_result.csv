@@ -1,0 +1,8 @@
+table_name,key,max,max_time,min,min_time,CR
+abbrev,Type,0.0,0.0004451274871826172,0.0,0.0,1.0
+abbrev,Code,0.6552,0.00028586387634277344,0.0,0.0,1.0
+abbrev,Fullname,1.0,0.00028014183044433594,0.0,0.0,1.0
+abbrev,"Type, Code",1.0,0.00020194053649902344,0.0,0.0,1.0
+abbrev,"Type, Fullname",1.0,0.00026106834411621094,0.0,0.0,1.0
+abbrev,"Code, Fullname",1.0,0.0002696514129638672,0.0,0.0,1.0
+abbrev,"Type, Code, Fullname",1.0,0.00025200843811035156,0.0,0.0,1.0
